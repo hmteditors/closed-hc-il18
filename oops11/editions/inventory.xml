@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/TextInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TextInventory xmlns="http://chs.harvard.edu/xmlns/cts" tiversion="5.0.rc.1">
+    <ctsnamespace abbr="greekLit" ns="http://chs.harvard.edu/ctsns/greekLit">
+        <description xml:lang="eng"> The First Thousand Years of Greek project's inventory
+            of Greek texts. </description>
+    </ctsnamespace>
+    
+    <textgroup urn="urn:cts:greekLit:tlg0012">
+        <groupname xml:lang="eng"> Homeric epic</groupname>
+        <work urn="urn:cts:greekLit:tlg0012.tlg001" xml:lang="grc">
+            <title xml:lang="eng"> Iliad </title>
+            <edition urn="urn:cts:greekLit:tlg0012.tlg001.e3">
+                <label xml:lang="eng"> Upsilon 1.1 </label>
+                <description xml:lang="eng"> Iliad text of Escorial, Upsilon 1.1. </description>
+                <online docname="iliad/Upsilon-1-Iliad.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="line" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:l[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+            </edition>
+        </work>
+    </textgroup>
+    
+    
+    <textgroup urn="urn:cts:greekLit:tlg5026">
+        <groupname xml:lang="eng"> Scholia to the Iliad</groupname>
+        <work urn="urn:cts:greekLit:tlg5026.e3" xml:lang="grc">
+            <title xml:lang="eng"> Main scholia</title>
+            <edition urn="urn:cts:greekLit:tlg5026.e3.hmt">
+                <label xml:lang="eng">msA</label>
+                <description xml:lang="eng">Main  scholia of the Upsilon 1.1 MS.</description>
+                <online docname="scholia/MainScholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
+        
+        
+        
+    </textgroup>
+    
+</TextInventory>
