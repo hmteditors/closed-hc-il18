@@ -27,7 +27,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.7</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>λειπ</abbr><expan>λείπει</expan></choice> ἡ διὰ δια πεδίου</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.2" type="scholion">
@@ -38,7 +38,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.14</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr><persName n="urn:cite:hmt:pers.pers16">Αρσιτ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName></expan></choice> αψ ἐπι νηας ϊμεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
