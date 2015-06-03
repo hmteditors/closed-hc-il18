@@ -62,8 +62,8 @@
         <l n="26">αὐτὸς δ' ἐν κονίῃσι μέγας μεγαλωστὶ τανυσθεὶς</l>
         <l n="27">κεῖτο· φίλῃσι δὲ χερσὶ κόμην ᾔσχυνε δαΐζων·</l>
         <l n="28"><choice>
-            <orig>δμωαῖ</orig>
-            <reg>δμωαὶ</reg>
+            <sic>δμωαῖ</sic>
+            <corr>δμωαὶ</corr>
           </choice> δ' ἃς <persName n="urn:cite:hmt:pers.pers1">Ἀχιλεὺς</persName> ληΐσσατο
             <persName n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName> τε·</l>
         <l n="29">θυμὸν ἀκηχέμεναι, μεγάλ' ΐαχον. ἐκ δὲ θύραζε</l>
@@ -101,8 +101,8 @@
             n="urn:cite:hmt:pers.pers960">Φέρουσά</persName> τε <persName
             n="urn:cite:hmt:pers.pers961">Δυναμένη</persName> τε·</l>
         <l n="44"><persName n="urn:cite:hmt:pers.pers962">Δεξαμένη</persName> τε. <choice>
-            <orig>καῖ</orig>
-            <reg>καὶ</reg>
+            <sic>καῖ</sic>
+            <corr>καὶ</corr>
           </choice>
           <persName n="urn:cite:hmt:pers.pers963">Ἀμφινόμη</persName>. καὶ <persName
             n="urn:cite:hmt:pers.pers964">Καλλιάνειρα</persName>·</l>
