@@ -104,29 +104,33 @@
                                     <abbr>χώ</abbr>
                                     <expan>χωρὶς</expan>
                                 </choice> τοῦ <rs type="waw">θ</rs>
-                                <q><persName n="urn:cite:hmt:pers.pers950">Άλεια</persName></q> παρα τὴν <q>άλα</q> ⁑</p>
+                                <q><persName n="urn:cite:hmt:pers.pers950">Άλεια</persName></q> παρα
+                                τὴν <q>άλα</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.6" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.53</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName><choice>
+                                        <abbr>ἀριστοφ</abbr>
+                                        <expan>Ἀριστοφάνη</expan>
+                                    </choice></persName> <q>ἐπι κήδεα</q></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.7" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.68</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> <choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>εἰς νέβησαν</q></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
