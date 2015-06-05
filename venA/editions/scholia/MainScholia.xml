@@ -759,32 +759,59 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.100</p>
                         </div>
                         <div type="comment">
-                            <p>τινὲς <w>περι<del>θ</del>έσπασαν</w> τὸ ἀρῆς ἵνα
-                                σημαίνηται βλάβης. οὕτως καὶ ὁ <choice><abbr><persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName></expan></choice> καὶ ἡμεῖς· τὸ
-                                δὲ δῆσεν δισύλλαβον ἐκδεκτέον ποιητικόν καὶ τὸ <rs type="waw">ε</rs> τοῦ προκειμένου
-                                ἐστι συνδέσμου ⁑</p>
+                            <p>τινὲς <w>περι<del>θ</del>έσπασαν</w> τὸ ἀρῆς ἵνα σημαίνηται βλάβης.
+                                οὕτως καὶ ὁ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers485"
+                                            >Ἀσκαλωνίτ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers485"
+                                            >Ἀσκαλωνίτης</persName></expan>
+                                </choice> καὶ ἡμεῖς· τὸ δὲ δῆσεν δισύλλαβον ἐκδεκτέον ποιητικόν καὶ
+                                τὸ <rs type="waw">ε</rs> τοῦ προκειμένου ἐστι συνδέσμου ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.40" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>δῆσεν ἀρῆς</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.100</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δια τοῦ <rs type="waw">ω</rs>
+                                <q><persName n="urn:cite:hmt:pers.pers83">Ἄρεω</persName></q> ἡ
+                                    <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName> καὶ
+                                ἔστι τὸ λεγόμενον ἐμοῦ ἐδέησε τὸ ἀλεξητῆρα γενέσθαι τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers83">Ἄρεω</persName> καθ ὃν ἀπωλετο’ ἀπ
+                                ευθείας τῆς ὁ <persName n="urn:cite:hmt:pers.pers83"
+                                    >Ἄρεως</persName> ὡς ὁ <persName n="urn:cite:hmt:pers.pers980"
+                                    >Πείρεως</persName>, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.484</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers980">Πείρεω</persName>
+                                        υἱόν</q>
+                                </cit>· ἐν δε τοῖς εἰκαιοτέροις, „ἀρῆς“ τῆς βλάβης, ἐπεὶ καὶ
+                                    <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
+                                <q>ἀρῆς ἀλκτῆρα</q> βλάβης καὶ κακώσεως ἔφη ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.41" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἀρῆς ἀλκτῆρα:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.100</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>βλαβης καὶ κακώσεως ἀποτρεπτικὸν ὅ ἐστι κωλυτὴν καὶ βοηθόν· οἱ δὲ
+                                        <q><persName n="urn:cite:hmt:pers.pers83">Ἄρεω</persName>
+                                    ἀλκτῆρα</q> ἀποτρεπτικὸν πολέμου· <persName
+                                    n="urn:cite:hmt:pers.pers221">Παρμενίσκος</persName> μὲν οὖν
+                                βαρυτόνως τὸ εδησεν ἀποδιδωσιν οὑτως· ὁ δε πόλεμος τὴν εμὴν
+                                ἐφαλλόμενος πανοπλίαν ἔδησέν μου τὴν ἔξοδον ὥστε ἀλκτῆρα μὴ γενέσθαι
+                                    <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>
+                                ὅπερ ἐστὶ βοηθόν· <persName n="urn:cite:hmt:pers.pers485"
+                                    >Πτολεμαῖος</persName> δὲ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers485">Ασκαλωνίτης</persName> περισσὸν τὸ
+                                ἔδησεν φησίν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.XX" type="scholion">
