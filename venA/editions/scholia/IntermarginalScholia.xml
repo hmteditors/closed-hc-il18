@@ -48,7 +48,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.14</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -220,7 +220,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.103</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἀντι ὑφ' <q>Έκτορος δίου</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.15" type="scholion">
@@ -231,7 +231,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.117</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> οὐκ οῖδεν ἀθανατον τὸν Ἡρακλέα· ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.16" type="scholion">
@@ -242,7 +242,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.124</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <choice><abbr>Αριστ</abbr><expan>Ἀρίσταρχος</expan></choice> αλλοι δὲ <q>αδιναῖ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">

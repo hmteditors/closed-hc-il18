@@ -816,24 +816,46 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.42" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>νῦν δ' ἐπεὶ οὐ νέομαί γε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.101-18.114</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>φησὶ τὸ εξῆς· <q>νῦν δ' ἐπεὶ οὐ νεομαί γε</q>
+                                <q>νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς</q>· αἱ ὑποστιγμαὶ δὲ μέχρι τοῦ
+                                    <q>αμείνονές εἰσὶ καὶ ἄλλοι</q> ἀποτελοῦνται τοῦ ἐπεὶ συνδέσμου
+                                τὸν λογον ἀρτῶτος ἵν' ᾗ ανταπόδοσις. ἣ <q>ὡς έρις ἔκ τε <choice>
+                                        <sic>θέων</sic>
+                                        <corr>θεῶν</corr>
+                                    </choice></q> ὁ δὲ λόγος ηθικός.. νῦν δ' ἐπεὶ μήτε εἰς τὴν
+                                πατρίδα ὑποστρέψαι εἱμαρμένον ἐστὶ μήτε ἐξεδίκησα τοὺς ἀναιρεθέντας,
+                                τὸ φιλονικεῖν ἔκ τε <choice>
+                                    <abbr>θν</abbr>
+                                    <expan>θεῶν</expan>
+                                </choice> καὶ <choice>
+                                    <abbr>ανων</abbr>
+                                    <expan>ἀνθρώπων</expan>
+                                </choice>
+                                <del>καὶ <choice>
+                                        <abbr>ανων</abbr>
+                                        <expan>ἀνθρώπων</expan>
+                                    </choice></del> ἀπόλοιτο’ ἣ τὸ ἑξῆς τοῦ λόγου. <q>νῦν δ' ἐπεὶ οὐ
+                                    νέομαι</q>. <q>νῦν δ' εῖμ' ὄφρα φίλης κεφαλῆς</q> καὶ γὰρ
+                                ἐπανείληψε τὸ χρονικὸν ἐπίρρημα ὡσπερ εἰς ὑπόμνησιν τῆς ἀρχῆς ἦν
+                                παραλιπὼν παρεξέβη ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.43" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τοῖος εὼν,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.105-18.106</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>ἀλαζῶν</abbr><expan>ἀλαζών</expan></choice> φησι καὶ φορτικός. ῥητέον δὲ ὅτι ἔθος ἦν πᾶσιν
+                                ἑαυτοὺς ἐπαινεῖν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.44" type="scholion">

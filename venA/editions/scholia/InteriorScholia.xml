@@ -157,7 +157,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.102</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τοῦτον κατ ιδίαν</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.10" type="scholion">
@@ -168,7 +168,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.104</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐχθρὸς γὰρ τῆς ἀργίας ὁ ἥρως φιλότιμος δὲ περι τὰς πράξεις ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.11" type="scholion">
@@ -179,7 +179,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.125</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ ἵνα <q>γνῶσι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.1" type="scholion">
