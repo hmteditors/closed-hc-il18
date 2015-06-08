@@ -863,28 +863,34 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.44" type="scholion">
                         <div type="lemma">
-                            <p>NOT DONE WITH THIS ONE!!!!!</p>
+                            <p>ὡς έρις ἔκ τε θεῶν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.107</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.107-18.108</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς έρις ἔκ τε θεῶν: Ἡράκλειτος τὴν τῶν ὄντων φύσιν κατ έριν
-                                συνεστᾶναι νομίζων μέμφεται Ὅμηρον σύγχυσιν κόσμου δοκῶν αὐτὸν
-                                εὔχεσθαι πρὸς ὃν ἄν τις εἴποι. ὅτι οὐ λέγει νῦν τὴν ἐναντίωσιν ἔριν,
-                                ἀλλὰ τὴν ἔχθραν· ὅθεν ἐπιφέρει „καὶ χόλος“ (Σ 108)· οὐ γὰρ ἡ τῶν
-                                πραγμάτων ἐναντίωσις τοὺς φρονίμους ἐξίστησι τῶν λογισμῶν ⁑</p>
+                            <p>Ἡράκλειτος τὴν τῶν ὄντων φύσιν κατ έριν συνεστᾶναι νομίζων μέμφεται <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers17"
+                                        >Ὅμρον</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers17"
+                                        >Ὅμηρον</persName></expan>
+                                </choice> σύγχυσιν κόσμου δοκῶν αὐτὸν εὔχεσθαι πρὸς ὃν ἄν τις εἴποι.
+                                ὅτι οὐ λέγει νῦν τὴν ἐναντίωσιν <q>ἔρϊν</q>, ἀλλα τὴν <q>ἔχθραν</q>
+                                ὅθεν ἐπιφέρει <q>καὶ χόλος</q> οὐ γὰρ ἡ τῶν πραγμάτων ἐναντίωσις
+                                τοὺς φρονίμους ἐξίστησι τῶν λογισμῶν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.45" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>καὶ χόλος ὅς τ' ἐφέηκε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.108</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐκ τούτων λέγουσι τὸν <persName n="urn:cite:hmt:pers.pers137"
+                                    >Πλάτωνα</persName> τριμερῆ τὴν ψυχὴν ἀποφήνασθαι τὸ μὲν γάρ τι
+                                θυμικὸν αὐτῆς εἶναι, τὸ δὲ ἐπιθυμητικὸν τὸ δε λογιστικον ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.46" type="scholion">
