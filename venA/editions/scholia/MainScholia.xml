@@ -895,46 +895,76 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.46" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὅς τε πολὺ γλυκίων·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.109</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γλυκέως γὰρ διατίθεσθαι τοὺς ἐκπληροῦντας τὰ κατα θυμὸν συμβαίνει
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.47" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἀνδρῶν ἐν στήθεσσιν ἀέξεται ἠΰτε καπνός.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.110</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>θυμός ἐστι ζέσις τοῦ περὶ καρδίαν αἵματος δι' όρεξιν ἀντιλυπήσεως
+                                τοῦτον δὲ τὸν ὅρον πρῶτος <persName n="urn:cite:hmt:pers.pers17"
+                                    >Ὅμηρος</persName> παρέδωκε καπνὸν γὰρ τὸ πῦρ φησί· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.399</ref>
+                                    <q>κάπνισάν τε κατα κλισίας</q>
+                                </cit>·, καὶ <q>ὡς δ' ὅτε καπνος ἰὼν ἐξ άστεος αἰθέρα ἵκηται</q>·
+                                ἄτοπον γὰρ λαμπούσῃ φλογὶ καπνὸν εἰκάζειν. ζέσις δὲ οὐκ ἂν χωρὶς
+                                πυρώσεως γένοιτο ἡδίνη δὲ παρεπεται τοῖς ὀργιζομένοις δια τὸ
+                                σπεύδειν ἀμύνασθαι τὸν ἀντίπαλον· τὸν δε καπνὸν παρείληφε προς τὴν
+                                αὔξησιν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.48" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>θυμὸν ἐνι στήθεσσι φίλον·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.113</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δύο κατεχόντων παθῶν τὸν <persName n="urn:cite:hmt:pers.pers1"><choice>
+                                        <abbr>Ἀχιλλε</abbr>
+                                        <expan>Ἀχιλλέα</expan>
+                                    </choice></persName> θυμοῦ καὶ λύπης μειζον τὸ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὴν λύπην πάθος ἐπιγενόμενον ἐκράτησε τῆς ὀργῆς· πρῶτος δὲ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸν
+                                θυμὸν ἀπὸ λογισμοῦ σβεννύμενον ἐδογμάτισεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.49" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐδε γὰρ οὐδὲ βίη <persName n="urn:cite:hmt:pers.pers71"
+                                    >Ἡρακλῆοςι</persName></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.117</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> τινὲς φασὶν ὅτι <persName n="urn:cite:hmt:pers.pers17"
+                                    >Ὅμηρος</persName> οὐκ οιδεν <persName
+                                    n="urn:cite:hmt:pers.pers71">Ἡρακλέα</persName> ἀποθεωθέντα διὰ
+                                τὸ λέγειν. ὅτι τέθνηκεν. ἠ οὐδὲν κωλύει γινώσκοντα. ὅτι ἀπεθεώθη
+                                λέγειν ὡς οὐκ έφυγε τὴν κῆρᾳ καὶ γὰρ οἱ ἀποθεοῦντες αὐτὸν ὁμολογοῦσι
+                                τεθνάναι καὶ καῆναι ἐν τῇ Οιτῃ καὶ μανῆναι καὶ τοὺς υἱεῖς ἀνελεῖν
+                                καὶ οὕτως ἀπαθανατισθῆναι· σημειοῦνται δὲ τὰ ἔπη προς τὴν ἀθέτησιν.
+                                τὴν <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg002:11.602-11.603</ref>
+                                    <q>αὐτὸς δὲ μετ αθανάτοισι θεοῖσι τέρπετο</q>
+                                </cit> ὅτι οὐκ οἶδεν αὐτὸν ἐκθεωθέντα</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.50" type="scholion">
@@ -945,40 +975,63 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.117</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἄλλως· μεγαλοφρόνως φαίνεται παραδειγματα ἑαυτῷ συν ειλοχὼς, οὐ τῶν
+                                καθ αὑτὸν τινος ἀλλα τῶν γενναιοτάτων ταῦτα δὲ <choice>
+                                    <abbr>λεγ</abbr>
+                                    <expan>λέγει</expan>
+                                </choice>. ἄλλως τὴν <choice>
+                                    <abbr>μρα</abbr>
+                                    <expan>μητέρα</expan>
+                                </choice> παραμυθούμενος τὸ καὶ τοὺς κρείττους τεθνηκεναι ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.51" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὅσπερ φίλτατος ἔσκε,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.118</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πιθανῶς ὡς φιλοτιμος ἀνηρ οὐ τὰς πράξεις ἀντέθηκε τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers71">Ηρακλέους</persName> ἐφαίνετο γὰρ
+                                ἂν οὗτος κατα πολὺ ενδεόν τὴν δὲ <choice>
+                                    <abbr>οικειότητ</abbr>
+                                    <expan>οἰκειότητα</expan>
+                                </choice> μόνον τὴν πρὸς τὸν <persName n="urn:cite:hmt:pers.pers8"
+                                    >Δία</persName> ἐσήμανεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.52" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>κείσομ' ἐπεί κε θάνω.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.121</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀνοητόν ἐστι τὸ λέγειν δῆλον γὰρ πᾶσιν ὅτι κείσεται ἀποθανῶν ἀλλ
+                                ασαφέστερον ἐξενήνεκται. ὁ δὲ λέγει τοιοῦτόν ἐστι· ζῶντα μὲν οὐ χρὴ
+                                ἀργὸν εἶναι. οὐδὲ κεῖσθαι ὥσπερ νεκρὸν, ἀλλα τότε ὅτ ἂν ὁ <choice>
+                                    <abbr>θάνατ</abbr>
+                                    <expan>θάνατος</expan>
+                                </choice> ἔλθῃ ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.53" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>γνοῖεν δ' ὡς δὴ :</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.125</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἀντι τοῦ ἵνα γνῶσῃ πῶς δὲ δηρὸν φησὶ δεκαπέντε γάρ εισιν
+                                ἡμέραι σὺν αἷς οἱ θεοὶ εἰς <placeName n="urn:cite:hmt:place.place46">Αἰθιοπίαν</placeName> διέτριψαν· ῥητέον δὲ ὅτι πρός
+                                τι ἐστὶ τὸ πολὺ καὶ γὰρ μία ἡμέρα <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεῖ</persName> πολὺ ἦν ἀφεστῶτι
+                                φιλοπόλεμος γάρ ἐστι λέγει οὖν ὅτι ἀθρόα αὐτοῖς ἀποδώσω, κ' ὰν εἰ
+                                πολὺν χρόνον τοῦ πολεμεῖν ἀπέστην, ὡς καὶ ἡμεῖς ἐν τῷ βίῳ λέγομεν ἡ
+                                μία μοι ἡμέρα αἰών ἐστιν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.XX" type="scholion">
