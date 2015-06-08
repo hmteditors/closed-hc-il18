@@ -217,7 +217,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.151</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν <choice>
+                                    <abbr>αλλ</abbr>
+                                    <expan>ἄλλῳ</expan>
+                                </choice><q>οὐδ' ἀρα</q></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.14" type="scholion">
@@ -228,7 +231,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.168</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τῶν τοις <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs>
+                                συμμαχούντων ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.15" type="scholion">
@@ -239,7 +243,19 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.171</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>γενικ</abbr>
+                                    <expan>γενικήν</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers158">Πατροκλου</persName>· ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.16" type="scholion">
@@ -247,10 +263,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.75</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.175</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προς παροξυσμὸν τοῦ <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλέως</persName> οὐ γὰρ ἄλλον τὸν <choice>
+                                    <abbr>σπουδάζοντ</abbr>
+                                    <expan>σπουδάζοντα</expan>
+                                </choice> ἢ τὸν <choice>
+                                    <abbr>ἀνελοντ</abbr>
+                                    <expan>ἀνελόντα</expan>
+                                </choice>. ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.1" type="scholion">
