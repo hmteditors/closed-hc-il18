@@ -146,7 +146,10 @@
                                 </choice> τὰ έλωρα οὐ <choice>
                                     <abbr>βρώματ</abbr>
                                     <expan>βρώματα</expan>
-                                </choice> ἀλλα <choice><abbr>ελκύσματ</abbr><expan>ἑλκύσματα</expan></choice> ⁑</p>
+                                </choice> ἀλλα <choice>
+                                    <abbr>ελκύσματ</abbr>
+                                    <expan>ἑλκύσματα</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.9" type="scholion">
@@ -179,7 +182,14 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.125</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ ἵνα <q>γνῶσι</q> ⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ ἵνα <q>γνῶσι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.12" type="scholion">
@@ -190,7 +200,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.130</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἔχονται καὶ οὐκ <choice>
+                                    <abbr>έχε</abbr>
+                                    <expan>ἔχεται</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:18.1" type="scholion">
