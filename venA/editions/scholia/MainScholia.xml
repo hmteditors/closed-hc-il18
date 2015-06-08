@@ -1026,56 +1026,88 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.125</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἀντι τοῦ ἵνα γνῶσῃ πῶς δὲ δηρὸν φησὶ δεκαπέντε γάρ εισιν
-                                ἡμέραι σὺν αἷς οἱ θεοὶ εἰς <placeName n="urn:cite:hmt:place.place46">Αἰθιοπίαν</placeName> διέτριψαν· ῥητέον δὲ ὅτι πρός
-                                τι ἐστὶ τὸ πολὺ καὶ γὰρ μία ἡμέρα <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεῖ</persName> πολὺ ἦν ἀφεστῶτι
-                                φιλοπόλεμος γάρ ἐστι λέγει οὖν ὅτι ἀθρόα αὐτοῖς ἀποδώσω, κ' ὰν εἰ
-                                πολὺν χρόνον τοῦ πολεμεῖν ἀπέστην, ὡς καὶ ἡμεῖς ἐν τῷ βίῳ λέγομεν ἡ
-                                μία μοι ἡμέρα αἰών ἐστιν ⁑</p>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἀντι τοῦ ἵνα γνῶσῃ πῶς δὲ δηρὸν φησὶ δεκαπέντε γάρ εισιν
+                                ἡμέραι σὺν αἷς οἱ θεοὶ εἰς <placeName n="urn:cite:hmt:place.place46"
+                                    >Αἰθιοπίαν</placeName> διέτριψαν· ῥητέον δὲ ὅτι πρός τι ἐστὶ τὸ
+                                πολὺ καὶ γὰρ μία ἡμέρα <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλεῖ</persName> πολὺ ἦν ἀφεστῶτι φιλοπόλεμος γάρ ἐστι λέγει
+                                οὖν ὅτι ἀθρόα αὐτοῖς ἀποδώσω, κ' ὰν εἰ πολὺν χρόνον τοῦ πολεμεῖν
+                                ἀπέστην, ὡς καὶ ἡμεῖς ἐν τῷ βίῳ λέγομεν ἡ μία μοι ἡμέρα αἰών ἐστιν
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.54" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ναὶ δὴ ταῦτά γε πάντα:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.128</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.128-18.131</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> πῶς φησὶν. οὐκ αποτρέπει μᾶλλον τῆς μαχης, ἀλλα καὶ ἐπιρρώννυσιν. ἠ
+                                ὅτι εὐκλεῆ τὸν θάνατον αὐτῷ βούλεται γενέσθαι τὸν οὖν μετ ευκλείας
+                                συναινεῖ θάνατον διόπερ τῆς μοίρας οὐ προεῖπεν αὐτῷ μὴ περιέληπται
+                                τὴν εἰς οῖκον <choice>
+                                    <sic>ανακομιδῆν</sic>
+                                    <corr>ανακομιδήν</corr>
+                                </choice>· πῶς δὲ <q>χάλκεα</q> λέγει τὰ παρ' Ηφαίστου ὅπλα ἀπο τῆς
+                                χείρονος ὕλης ἔχει γὰρ καὶ κασσίτερον καὶ ἄργυρον καὶ χρυσόν·
+                                κοινότερον οὖν καὶ χαλκεῖς ἔλεγον καὶ τοὺς ταῦτα ἐργαζομένους <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.432</ref>
+                                    <q>ἦλθε δὲ χαλκευς</q>
+                                </cit>
+                                <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸν
+                                χρυσοχόον λέγών· στικτέον δὲ ἤτοι ἐπι τὸ <q>ἐτήτυμον</q> ἵνα λείπῃ
+                                τὸ ἐστί· ὁ δὲ λόγος ταῦτα ἀληθῶς ἐστιν ἡ συναπτέον ἐστι δὲ σχῆμα
+                                σολοικοφανες ὅτι τῷ πληθυντικῶ τὰ ἑνικὰ ἐπενήνεκται ἐτήτυμον κακόν·
+                                ἀλλα τὸ μὲν ἐτήτυμον δύναιτ ἂν ἀντι ἐπιρρήματος κεῖσθαι· τὰ δὲ ἄλλα
+                                παραπλήσια ἐκείνῳ δύναται εἶναι· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.31-4.32</ref>
+                                    <q>δαιμονίη· τί νύ σε <persName n="urn:cite:hmt:pers.pers145"
+                                            >Πρίαμος</persName>
+                                        <persName n="urn:cite:hmt:pers.pers145">Πριάμοιό</persName>
+                                        τε παῖδες τόσσα κακὰ ῥέζουσιν</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.55" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἠῶθεν γὰρ νεῦμαι.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.136</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸ <rs type="waw">νεῦμαι</rs> ἐστιν ἐπι τοῦ ἐνεστῶτος ἀντι τοῦ
+                                    <rs type="waw">νέομαι</rs> βούλεται δὲ εἰπεῖν ἐλεύσομαι. καὶ ὅτι
+                                ἐν μιᾷ νυκτὶ κατεσκεύασται τὰ ὅπλα ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.56" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὑμεῖς μὲν νῦν δῦτε,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.140</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸν <placeName n="urn:cite:hmt:place.place22"
+                                    >Ἑλλήσποντον</placeName> στενὸν ὄντα εὐρέα ἐκαλεσεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.57" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>καί οἱ πάντ’ ἀγορεύσατ’· </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.142</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>παρα <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName>
+                                <q>ἀγορεῦσαι</q> καὶ ὑποφαίνει τὸ Ὁμηρικὸν ἔθος ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.58" type="scholion">
