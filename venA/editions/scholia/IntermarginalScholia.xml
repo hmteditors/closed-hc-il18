@@ -322,26 +322,26 @@
                             <p>εν αλλῳ <q>ἄνωγεν</q></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.22" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.180</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>ταυτ</abbr><expan>ταῦτα</expan></choice> ἀπ αλλης ἀρχῆς ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.22" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.186</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι <q>ὡς ορος τὸν Όλυμπον ἀγάννιφον</q> λέγει</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
