@@ -1270,38 +1270,61 @@
                                     n="urn:cite:hmt:place.place6">Ί̈λιον</placeName> ⁑ </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.65" type="scholion">
+                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.65" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers282">Ἶρι</persName> θεὰ, τίς γάρ
+                                σε·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.182</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>μέμνηται τῶν μητρὸς ἐντολῶν οὐ γαρ ἐπέτρεπεν αὐτῷ ἡ <choice>
+                                    <abbr>μηρ</abbr>
+                                    <expan>μήτηρ</expan>
+                                </choice> ἐξελθεῖν· πυνθάνεται οὖν τῆς θεοῦ ἵνα ἀξιόχρεων ἔχῃ προς
+                                τὴν <choice>
+                                    <abbr>μρα</abbr>
+                                    <expan>μητέρα</expan>
+                                </choice> τὸν προτρεψάμενον λέγειν· καὶ μὴ τῇ ἰδίᾳ γνώμῃ ἐξεληλυθὼς
+                                φαίνηται ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.66" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τίς γάρ σε θεῶν:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.182</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ ἑτέρα τῶν <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχου</persName> δια τοῦ <rs type="waw">τ</rs>
+                                <q>τίς τάρ σε</q> μήποτε δὲ ἀμείνων ἡ προτέρα, παρ ὅσον σύνηθες
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὁμήρῳ</persName> ἀπο τοῦ
+                                γὰρ ἄρχεσθαι ⁑</p>
                         </div>
                     </div>
-                    
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.67" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>στεῦτο <choice>
+                                    <sic>γάρ</sic>
+                                    <corr>γὰρ</corr>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers192">Ἡφαιστοιο</persName>·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.191</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>Χαῖρις τῷ τὰς συναλειφθείσας προθέσεις μὴ ἀναστρέφεσθαι, καὶ ἐνθάδε
+                                οὐκ αναστρέφεσθαι, καὶ ἐνθάδε οὐκ αναστρεφεν ἵνα μὴ διάφορον
+                                σημαινόμενον νοηθῆ διαφέρει γὰρ τὸ παρενεγκεῖν <persName
+                                    n="urn:cite:hmt:pers.pers192">Ἡφαίστου</persName> ὅπλα ὅτι δὲ
+                                καὶ ἐν ἄλλοις ἀναγνώσμασιν ὁ ἀνὴρ τοιοῦτος, προ εἴπομεν <choice>
+                                    <abbr>ηδ</abbr>
+                                    <expan>ἤδη</expan>
+                                </choice> ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:18.68" type="scholion">
