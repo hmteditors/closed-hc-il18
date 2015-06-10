@@ -332,9 +332,7 @@
                         </div>
                     </div>
                     
-                    
-                 
-                    <div n="22" type="scholion">
+              <div n="22" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -342,10 +340,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.245</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προ τῆς ἐπιμελείας τοῦ <choice><abbr>σώματ</abbr><expan>σώματος</expan></choice> όρα οὖν τὴν έπειξιν ⁑</p>
                         </div>
                     </div>
-                    
+                   
                     
                     <div n="23" type="scholion">
                         <div type="lemma">
