@@ -1512,18 +1512,19 @@
                         <div type="comment">
                             <p>ἀπίθανον γὰρ ἐκεῖνο τὸ δια μόνης τῆς <persName
                                     n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName> φωνῆς τρέψαι
-                                τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs> ⁑</p>
+                                τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs>
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="79" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὡς δ’ ὅτ’ ἀριζήλη φωνὴ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.219</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι αὐτὸς οῖδε, σάλπιγγας· χρωμένους δὲ τοὺς ἥρωας οὐκ εισάγει:</p>
                         </div>
                     </div>
                     <div n="80" type="scholion">
@@ -1534,21 +1535,27 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.219</p>
                         </div>
                         <div type="comment">
-                            <p>CHECK THIS LINE REFERENCE PLZ</p>
+                            <p>ἀπο τῶν ἰδίων χρόνων ὁ ποιητὴς ὠνόμακε τὴν σάλπιγγα ἐπεὶ οὐδέπω
+                                ηύρητο, παρα τοῖς παλαιοῖς κόχλῳ δὲ θαλασσίῳ <choice>
+                                    <abbr>ἐσαλπίζον</abbr>
+                                    <expan>ἐσάλπιζον</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="81" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οἱ δ’ ὡς οὖν ἄϊον όπα·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.222</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀμέτρως ὁ <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> „ὅπα χαλκέην“ οὐ συνεὶς ὅτι παραπλησιόν ἐστι τὸ
+                                σχῆμα, τῷ „κλυτὸς Ἱπποδάμεια“ (Β 742) καὶ „θερμὸς ἀυτμή“. (hsd. th.
+                                696 = h. merc. 110). χάλκεον δὲ τὴν λαμπρὰν ἅμα καὶ στερεάν ⁑</p>
                         </div>
                     </div>
-                    
+
                     <!--  
                     <div n="X" type="scholion">
                         <div type="lemma">
@@ -1617,8 +1624,8 @@
                         </div>
                     </div>
                     
-                     --> 
-                    
+                     -->
+
                 </body>
             </text>
         </group>
