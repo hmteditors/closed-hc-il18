@@ -1670,49 +1670,73 @@
                     </div>
                     <div n="88" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἐξεφάνη·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.248</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.247-18.248</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἤτοι συναπτεον ἕως ἀλεγεινῆς ἵνα αἰτία τούτου τοῦ σχήματος κέηται
+                                πάντες γὰρ εὐλαβοῦντο ὅτι <persName n="urn:cite:hmt:per.pers1"><choice>
+                                        <abbr>Αχι</abbr>
+                                        <expan>Ἀχιλλεὺς</expan>
+                                    </choice></persName> ἐφάνη πολὺν κεχωρισμένος τῆς μάχης χρόνον ἢ
+                                ἐπι τὸ <q>ἐξεφάνη</q> στικτεον ἵνα τὸ <rs type="waw">εξῆς</rs> ὡς
+                                ἐπι τοῦ ποιητοῦ ἐπιφωνούμενον λέγηται ⁑</p>
                         </div>
                     </div>
 
                     <div n="89" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers480">Πανθοίδης</persName> ὁ γὰρ
+                                οἶος</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.250</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τέλειον ἐγκώμιον τοῦ φρονίμου τὰ δὲ ἐναντια ἐπι τοῦ ἄφρονος <q>οὐδέ
+                                    τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω</q> ⁑</p>
                         </div>
                     </div>
 
                     <div n="90" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> δ' ῆεν
+                                ἑταῖρος·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.251</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔγκειταί τι θαυμαστὸν τῷ λόγῳ συνήλικες ὄντες καὶ ὁμοῦ γενόμενοι. οὐ
+                                τὰ αὐτὰ ἐπιτηδεύουσιν. ἀλλ ὁ μεν συνετός, ὁ δὲ πολεμικός, οὐδὲν ἄρα
+                                χρήσιμος ὁ χρόνος τοῖς ἀφυέσι πρὸς τὰ χρήσιμα ⁑</p>
                         </div>
                     </div>
 
                     <div n="91" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἰῇ δ' ἐν νυκτὶ γένοντο:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.251</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πῶς ἐν μιᾷ νυκτὶ γενόμενοι τοσοῦτον ἀλλήλων διαφέρουσιν τῆς
+                                συμπαθείας τῶν <choice>
+                                    <abbr>οὐίων</abbr>
+                                    <expan>οὐρανίων</expan>
+                                </choice> ὁμοίως πρὸς ἀμφοτέρους ἐχούσης· ἐστιν οὖν διαφορὰ τοῖς
+                                γεννωμένοις οὐκ εν νυκτὶ μόνον ἄλλα καὶ κατὰ τὴν τῆς ώρας ἀκρίβειαν.
+                                    <persName n="urn:cite:hmt:pers.pers997">Ἡράκλειτος</persName>
+                                ἐντεῦθεν ἀστρολόγον φησὶ τὸν <persName n="urn:cite:hmt:pers.pers17"
+                                    >Ὅμηρον</persName> ἐν οῖς φησὶ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:6.488-6.489</ref>
+                                    <q>μοῖραν δὲ οὕτινα φημὶ πεφυγμένον ἔμμεναι ἀνδρῶν οὐ κακὸν οὐδε
+                                        μὲν ἐσθλὸν ἐπὴν τὰ πρῶτα γένηται</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
 
