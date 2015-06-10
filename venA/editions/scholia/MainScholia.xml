@@ -1561,39 +1561,65 @@
                                 </cit>. χάλκεον δὲ τὴν λαμπρὰν ἅμα καὶ στερεάν ⁑</p>
                         </div>
                     </div>
-
               
                     <div n="82" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ἔνθα δὲ καὶ τότ' όλοντο δυώδεκα:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.230</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀπίθανόν φασὶ καὶ ἄμετρον τὸ τῆς ὑπερβολῆς ῥητέον δὲ, ὡς οὐκ ἐστιν ὁ
+                                γὰρ τῆς αἰγίδος φόβος ἦν ἐπέσεισεν ἡ <persName
+                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> καὶ τὸ καιόμενον
+                                πῦρ ἔκπληξιν τοσαύτην παρέσχεν ὥστε αὐτοὺς ὑφ' ἑαυτῶν ὑπὸ ταραχῆς
+                                ἀπολέσθαι ⁑</p>
                         </div>
                     </div>
                     <div n="83" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἔνθα δὲ καὶ τότ’.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.230</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ διπλῆ ὅτι <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName> γράφει <q>ἔνθα δε κοῦροι ὄλοντο δυώδεκα
+                                    πάντες ἄριστοι οἷσιν ἐν βελέεσσιν</q>· εἰσὶ δὲ οὔτε τῇ συνθέσει
+                                Ὁμηρικοὶ. οὔτε τὸ <q>οἷσιν βελέεσσιν</q> ὑγιῶς εἴρηται τοῖς ἑαυτῶν
+                                ἔδει γὰρ τοῖς ἀλλήλων ⁑ </p>
                         </div>
                     </div>
                     <div n="84" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἡέλιον δ’ ἀκάμαντα· </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.239</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ζητεῖται δια τί ἄκοντα φησὶ τὸν ἤλιον δῦναι, <persName
+                                    n="urn:cite:hmt:pers.pers667">Κράτης</persName> μὲν. τὸν αὐτὸν <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers40"
+                                        >Ἀπόλλω</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers40"
+                                            >Ἀπόλλωνα</persName></expan>
+                                </choice> εἶναι καὶ ἤλιον ἐπιτυγχανόντων οὖν τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώων</rs> χρονίζειν· ἡδόμενόν δὲ
+                                καὶ μὴ κοίντα//κοὶντα αὐτοῖς τὸ ἐπίτευγμα <persName
+                                    n="urn:cite:hmt:pers.pers116">Ἥραν</persName> δὲ τὰ ἐναντία
+                                βουλομένην αὐτὸν ἀναγκάζειν· ηδόμενον δὲ καὶ μὴ κύνοντα αὐτοῖς τὸ
+                                ἐπίτευγμα <persName n="urn:cite:hmt:pers.pers116">Ἥραν</persName> δὲ
+                                τὰ ἐναντία βουλομένην ἀναγκάζειν αὐτὸν δύνειν· <persName
+                                    n="urn:cite:hmt:pers.pers996">Ἀγαθοκλῆς</persName> δὲ φησὶν
+                                συνάγεσθαι ὅτι καθ <persName n="urn:cite:hmt:pers.pers17"
+                                    >Όμηρον</persName> ἐναντίως τῷ οὐρανῷ φέρεται ὁ ήλιος· τῇ δε
+                                δίνῃ αὐτοῦ συνέλκεται <persName n="urn:cite:hmt:pers.pers116"
+                                    >Ἥραν</persName> γὰρ εἶναι τὴν τοῦ παντὸς φύσιν ἐκ τοῦ <q>ἡ οὐ
+                                μέμνῃ ὅτε τ' ἐκρέμνῳ ὑψόθεν·</q> (Ο 18) ἕλκεσθαι δὲ ἅκοντα τὸν ήλιον
+                                ὑπο τῆς δίνης ὑπο τὰς δυσμάς δυσμὰς ⁑ </p>
                         </div>
                     </div>
                     <div n="85" type="scholion">
@@ -1640,7 +1666,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="89" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -1652,7 +1678,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="90" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -1664,7 +1690,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="91" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -1676,6 +1702,7 @@
                             <p/>
                         </div>
                     </div>
+
                     
                     <!--
                     
