@@ -1554,14 +1554,15 @@
                                 <q>ὅπα χαλκέην</q> οὐ συνεὶς ὅτι παραπλησιόν ἐστι τὸ σχῆμα, τῷ „<cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0020.tlg001:696</ref>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.742</ref>
-                                    <q>κλυτὸς <persName n="urn:cite:hmt:pers.pers152">Ἱπποδάμεια</persName></q>
+                                    <q>κλυτὸς <persName n="urn:cite:hmt:pers.pers152"
+                                            >Ἱπποδάμεια</persName></q>
                                 </cit> καὶ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0013.tlg004:4.110</ref>
                                     <q>θερμὸς ἀυτμή</q>
                                 </cit>. χάλκεον δὲ τὴν λαμπρὰν ἅμα καὶ στερεάν ⁑</p>
                         </div>
                     </div>
-              
+
                     <div n="82" type="scholion">
                         <div type="lemma">
                             <p>‡ ἔνθα δὲ καὶ τότ' όλοντο δυώδεκα:</p>
@@ -1617,42 +1618,54 @@
                                 συνάγεσθαι ὅτι καθ <persName n="urn:cite:hmt:pers.pers17"
                                     >Όμηρον</persName> ἐναντίως τῷ οὐρανῷ φέρεται ὁ ήλιος· τῇ δε
                                 δίνῃ αὐτοῦ συνέλκεται <persName n="urn:cite:hmt:pers.pers116"
-                                    >Ἥραν</persName> γὰρ εἶναι τὴν τοῦ παντὸς φύσιν ἐκ τοῦ <q>ἡ οὐ
-                                μέμνῃ ὅτε τ' ἐκρέμνῳ ὑψόθεν·</q> (Ο 18) ἕλκεσθαι δὲ ἅκοντα τὸν ήλιον
-                                ὑπο τῆς δίνης ὑπο τὰς δυσμάς δυσμὰς ⁑ </p>
+                                    >Ἥραν</persName> γὰρ εἶναι τὴν τοῦ παντὸς φύσιν ἐκ τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:15.18</ref>
+                                    <q>ἡ οὐ μέμνῃ ὅτε τ' ἐκρέμνῳ ὑψόθεν·</q>
+                                </cit> ἕλκεσθαι δὲ ἅκοντα τὸν ήλιον ὑπο τῆς δίνης ὑπο τὰς <choice>
+                                    <sic>δυσμάς</sic>
+                                    <corr>δυσμὰς</corr>
+                                </choice> ⁑ </p>
                         </div>
                     </div>
                     <div n="85" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>χωρήσαντες ἔλυσαν ὑφ ἅρμασιν·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.244</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀντι <q>τοῦ ὑπέλυσαν τῶν ἁρμάτων</q>. πῶς οὖν οὐκ αναστρέφεται ὅτι
+                                συνείληπται ⁑</p>
                         </div>
                     </div>
                     <div n="86" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὀρθῶν δ' ἑσταώτων</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.246</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καταγελῶσι τοῦ ὀρθῶν ἑσταώτων· ῥητέον δὲ ὅτι ἐπεὶ ὀρθοῦται τις καὶ
+                                καθήμενος οἷον <cit>
+                                    <ref type="urn">urn:cts:tlg0012:tlg001:23.235</ref>
+                                    <q>ἕζετο δ' ὀρθωθείς</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="87" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἕζεσθαι πάντας</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.247</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                <q>φόβος</q> κακῶς. ἀγνοῶν ὅτι φόβος ἐστι καθ <persName
+                                    n="urn:cite:hmt:pers.pser17">Ὅμηρον</persName> ἡ μετα δέους φυγή
+                                διὸ ἡ διπλῆ ⁑</p>
                         </div>
                     </div>
                     <div n="88" type="scholion">
@@ -1703,7 +1716,7 @@
                         </div>
                     </div>
 
-                    
+
                     <!--
                     
                     <div n="X" type="scholion">
