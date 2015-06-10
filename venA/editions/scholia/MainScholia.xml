@@ -1452,7 +1452,7 @@
                     </div>
                     <div n="75" type="scholion">
                         <div type="lemma">
-                            <p>τηλοθεν ἐκ νήσου:?</p>
+                            <p>τηλοθεν ἐκ νήσου:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.208</p>
@@ -1550,9 +1550,15 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.222</p>
                         </div>
                         <div type="comment">
-                            <p>ἀμέτρως ὁ <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> „ὅπα χαλκέην“ οὐ συνεὶς ὅτι παραπλησιόν ἐστι τὸ
-                                σχῆμα, τῷ „κλυτὸς Ἱπποδάμεια“ (Β 742) καὶ „θερμὸς ἀυτμή“. (hsd. th.
-                                696 = h. merc. 110). χάλκεον δὲ τὴν λαμπρὰν ἅμα καὶ στερεάν ⁑</p>
+                            <p>ἀμέτρως ὁ <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                <q>ὅπα χαλκέην</q> οὐ συνεὶς ὅτι παραπλησιόν ἐστι τὸ σχῆμα, τῷ „<cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0020.tlg001:696</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.742</ref>
+                                    <q>κλυτὸς <persName n="urn:cite:hmt:pers.pers152">Ἱπποδάμεια</persName></q>
+                                </cit> καὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0013.tlg004:4.110</ref>
+                                    <q>θερμὸς ἀυτμή</q>
+                                </cit>. χάλκεον δὲ τὴν λαμπρὰν ἅμα καὶ στερεάν ⁑</p>
                         </div>
                     </div>
 
