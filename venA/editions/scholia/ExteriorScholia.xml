@@ -50,12 +50,23 @@
                                 </choice></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:18.3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.227</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>τὸ δ’ ἔδαιε</q></p>
+                        </div>
+                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msAext.hmt:18.??" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
                         </div>
                         <div type="comment">
                             <p/>
@@ -66,7 +77,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
                         </div>
                         <div type="comment">
                             <p/>
@@ -77,7 +88,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
                         </div>
                         <div type="comment">
                             <p/>
@@ -88,18 +99,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p/>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:18.??" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
                         </div>
                         <div type="comment">
                             <p/>
