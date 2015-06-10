@@ -110,7 +110,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.215@τείχεος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>άπωθεν τοῦ τείχους</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:18.8" type="scholion">
@@ -121,7 +121,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.216@ὠπίζετ'</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr>επεστρέφετ</abbr><expan>ἐπεστρέφετο</expan></choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:18.1" type="scholion">

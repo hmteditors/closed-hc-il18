@@ -352,7 +352,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.213</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice><abbr><persName n="urn:cite:hmt:pers.pers16">Αρισταρχ</persName></abbr><expan><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName></expan></choice> <q><persName n="urn:cite:hmt:pers.pers83">Άρεω</persName></q> :</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18.25" type="scholion">
@@ -363,7 +363,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.220</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ ἑξῆς· <q>ὑπο θυμοραϊστέον δηΐων ἄστυ περιπλομένων</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:18." type="scholion">
