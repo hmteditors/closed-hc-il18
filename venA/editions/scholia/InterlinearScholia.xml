@@ -133,7 +133,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.256@εἰμεν</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὑπάρχομεν</p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
@@ -141,10 +141,21 @@
                             <p/>
                         </div>
                         <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.259@ἰ̈αύων</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice><abbr>ἐπαυλιζόμε</abbr><expan>ἐπαυλιζόμενος</expan></choice></p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.273@κηδόμενοί</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>φροντίζοντες</p>
                         </div>
                     </div>
                     <!--

@@ -421,7 +421,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.256</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁ δὲ <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ γὰρ:</p>
                         </div>
                     </div>
                     <div n="31" type="scholion">
@@ -429,10 +429,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.259</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.265</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν αλλω <q><choice><abbr>μαχέσσετ</abbr><expan>μαχέσσεται</expan></choice></q> ⁑</p>
                         </div>
                     </div>
                     <div n="32" type="scholion">
@@ -440,10 +440,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.265</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.269</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κακόν τι πεισόμενος ὑπ αυτοῦ <choice><abbr>δηλοτ</abbr><expan>δηλονότι</expan></choice> ⁑</p>
                         </div>
                     </div>
                     <div n="33" type="scholion">
@@ -451,24 +451,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.269</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.273</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν αλλῳ <q>πιθοίμεθα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="34" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.274</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="35" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -479,7 +468,7 @@
                             <p/>
                         </div>
                     </div>
-                    <div n="36" type="scholion">
+                    <div n="35" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
