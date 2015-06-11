@@ -1870,7 +1870,7 @@
                             <p>νύκτα μὲν εἰν αγορῇ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.274</p>
                         </div>
                         <div type="comment">
                             <p>τὴν νύκτα κατ ἰσχύσομεν καὶ κρατήσομεν τῇ βουλῇ. ἄλλως. ὃ λέγει
@@ -1880,67 +1880,99 @@
                         </div>
                     </div>
 
-                    <div n="92" type="scholion">
+                    <div n="102" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ παντοίου δρόμου άσῃ:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.281</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>περὶ τὸν αὐτὸν τόπον ἀλώμενος καὶ οὐκ ανύων ὁδόν· ἄλλως δὲ μεθ'
+                                ἐλιγμοῦ ἐλαύνων καὶ τὴν δίωξιν ποιούμενος ἔγκειται δὲ καὶ τὸ ήλεον
+                                ὅπερ ἐστι ματαίως ἐλαύνων ⁑ </p>
                         </div>
                     </div>
-                    
-                    <div n="93" type="scholion">
+
+                    <div n="103" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐδέ ποτ' ἐκπέρσει·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.283</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἡ διπλῆ ὅτι τοιοῦτον ἐστι τὸ λεγόμενον πρότερον αὐτὸν οἱ κύνες
+                                κατέδονται ἠ ἐκπέρσει καὶ οὐκ ἐστιν ἐλλειπεὴς ὁ λόγος ὥσπερ οὐδ' ἐπ'
+                                εκείνου <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.29</ref>
+                                    <q>τὴν δ' ἐγὼ οὐ λύσω πρίν μιν καὶ γῆρας ἔπεισιν</q>
+                                </cit>· στικτέον δὲ ἐπὶ τὸ <q>ἐκπέρσει</q> μᾶλλον γὰρ οὕτως ἐμφαίνει
+                                ἐὰν δὲ συνάπτηται ἀδιανόητον γίνεται ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="94" type="scholion">
+
+                    <div n="104" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers480">Πουλυδάμα</persName>, σὺ μὲν
+                                οὐκέτ' ἐμοὶ.</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.285</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔδει σὺν τῷ <rs type="waw">ν</rs>
+                                <persName n="urn:cite:hmt:pers.pers480">Πουλυδάμαν</persName>
+                                τοιοῦτο δὲ καὶ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.141</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers999"
+                                        >Λαοδάμα</persName></q>
+                                </cit>, παρα τὸν ορθὸν λόγον ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="95" type="scholion">
+
+                    <div n="105" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ὃς κέλεαι κατα άστυ:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.286</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὁ μὲν φυλάσσειν τὴν πόλιν ἔφη, ὁ δὲ δεινοτέρῳ ὀνόματι τὸν λόγον
+                                ἐξεφαύλισεν προσθεὶς <choice>
+                                    <sic>τῷ</sic>
+                                    <corr>τὸ</corr>
+                                </choice>
+                                <q>ἀλήμεναι</q> ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="96" type="scholion">
+
+                    <div n="106" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>κτήματα περνάμενα:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.291</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><rs type="ethnic" n="urn:cite:hmt:place.place231">Φρυγῶν</rs> καὶ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place87">Μηϊόνων</rs> ἀγορὰς
+                                κομιζόντων τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρωσὶ</rs> καὶ ἀντι τούτων ἀντιφορτιζομενων· τῶν πολεμίων
+                                ἀπαγόντων καὶ πολούντων ἠ αὐτῶν τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώων</rs> ἵνα <choice>
+                                    <abbr>χρήματ</abbr>
+                                    <expan>χρήματα</expan>
+                                </choice> λαμβάνωσι προς τὸν πόλεμον καὶ παρεχωσι τοῖς συμμάχοις
+                                οἶον ὁ <persName n="urn:cite:hmt:pers.pers172">Ἔκτωρ</persName> ἔφη <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.225-17.226</ref>
+                                    <q>τα φρονέων δῶρα <choice><abbr>κατατρύχ</abbr><expan>κατατρύχω</expan></choice></q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="97" type="scholion">
+
+                    <div n="107" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -1951,8 +1983,8 @@
                             <p/>
                         </div>
                     </div>
-                    
-                    <div n="98" type="scholion">
+
+                    <div n="108" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -1963,8 +1995,8 @@
                             <p/>
                         </div>
                     </div>
-                    
-                    <div n="99" type="scholion">
+
+                    <div n="109" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
