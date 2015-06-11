@@ -1966,21 +1966,35 @@
                                     <expan>χρήματα</expan>
                                 </choice> λαμβάνωσι προς τὸν πόλεμον καὶ παρεχωσι τοῖς συμμάχοις
                                 οἶον ὁ <persName n="urn:cite:hmt:pers.pers172">Ἔκτωρ</persName> ἔφη <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.225-17.226</ref>
-                                    <q>τα φρονέων δῶρα <choice><abbr>κατατρύχ</abbr><expan>κατατρύχω</expan></choice></q>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:17.225-17.226</ref>
+                                    <q>τα φρονέων δῶρα <choice>
+                                            <abbr>κατατρύχ</abbr>
+                                            <expan>κατατρύχω</expan>
+                                        </choice></q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
 
                     <div n="107" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> δ' ὁς
+                                κτεάτεσσι·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.292</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἴ τις εὐλαβεῖται μὴ ἀπολέσῃ τὰ ἴδια <choice>
+                                    <abbr>κτήματ</abbr>
+                                    <expan>κτήματα</expan>
+                                </choice>. μερισάτω· αὐτὰ τοῖς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6"><choice>
+                                        <sic>Τρωσὶ</sic>
+                                        <corr>Τρωσί</corr>
+                                    </choice></rs> πρὸς <persName n="urn:cite:hmt:pers.pers480"
+                                    >Πουλυδάμαντα</persName> δὲ ὡς ἵνα φυλάσσηται τὰ κτήματα
+                                συνεβούλευεν ἀπο τοῦ τείχους ἀμύνεσθαι ⁑</p>
                         </div>
                     </div>
 
@@ -1992,7 +2006,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.300</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἄλλως τοῦτο καὶ στρατηγήματoς τινὸς ἔχεται· ὑποπτεύσας γαρ τοὺς
+                                πλουσίους ἀνιᾶσθαι ἐξιόντας εἰς πόλεμον δια τὸ μὴ ἔχειν τὰς
+                                τηρήσοντας τὰ χρήματα φησὶ δεῖν διανέμειν τῷ πλήθει αὐτά ⁑</p>
                         </div>
                     </div>
 
@@ -2004,7 +2020,15 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.300-18.301</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τῶν <rs type="ethnic">Τρώων</rs> ὅστις ἂν ὑπερβαλόντως ἀνιᾶται ἐπι
+                                τοῖς χρήμασιν ὡς μέλλων ἀπολύειν αὐτὰ ὑπο πολεμίων τοῦτο γὰρ
+                                ἐλλεῖπον προς ὑπακούεται <choice>
+                                    <sic>συναγαγών</sic>
+                                    <corr>συναγαγὼν</corr>
+                                </choice> αὐτὰ δότω τοῖς πολίταις· βελτιον γάρ ἐστιν ὑπο τούτων
+                                ταῦτα δαπανηθῆναι ἴσως δὲ ταῦτα κατηγορεῖ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers172">Έκτωρ</persName> ἵνα σώζηται αὐτῷ
+                                τὰ χρήματα ⁑</p>
                         </div>
                     </div>
                     <!--
