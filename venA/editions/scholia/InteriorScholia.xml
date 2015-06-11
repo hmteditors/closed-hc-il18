@@ -353,7 +353,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.257</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οἷον ὁ αρτίως κινήσας ἡμῖν τὸν θόρυβον ⁑</p>
                         </div>
                     </div>
                     <div n="24" type="scholion">
@@ -364,7 +364,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.262</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καὶ <choice><abbr>τουτ</abbr><expan>τοῦτο</expan></choice> καθ εαυτὸ μαλλον γὰρ ἐμφαίνει ⁑</p>
                         </div>
                     </div>
                     <div n="25" type="scholion">
@@ -375,7 +375,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.266</p>
                         </div>
                         <div type="comment">
-                            <p>Check Line Citation!</p>
+                            <p>ἐμφαίνει <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> οὐ δια δειλίαν <choice><abbr>ταυτ</abbr><expan>ταῦτα</expan></choice> συμβουλεύει ⁑</p>
                         </div>
                     </div>
                     <div n="26" type="scholion">
