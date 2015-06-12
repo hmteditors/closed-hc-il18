@@ -2030,105 +2030,103 @@
                                     n="urn:cite:hmt:pers.pers172">Έκτωρ</persName> ἵνα σώζηται αὐτῷ
                                 τὰ χρήματα ⁑</p>
                         </div>
-                    </div>
-                    <!--
-                    
-                    <div n="X" type="scholion">
+                    </div> 
+                    <div n="110" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.308</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="111" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.309</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="112" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.310</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="113" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.317</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="114" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.318</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="115" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.319</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="116" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.324</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
                     
-                    <div n="X" type="scholion">
+                    <div n="117" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.325</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
-                    
+                   <!-- 
                     <div n="X" type="scholion">
                         <div type="lemma">
                             <p/>
