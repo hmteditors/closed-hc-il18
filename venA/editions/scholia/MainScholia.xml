@@ -2166,45 +2166,111 @@
                                 επαγγειλαμένῳ τοῦτο ⁑</p>
                         </div>
                     </div>
-                   
+
                     <div n="118" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ οὐδε <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName>
+                                <choice>
+                                    <abbr>μηρ</abbr>
+                                    <expan>μήτηρ</expan>
+                                </choice>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.332</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι συνεβίω ἡ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName>
+                                τῷ <persName n="urn:cite:hmt:pers.pers184">Πηλεῖ</persName> καὶ ὅτι
+                                οὐκ απεκόμιζον τὰ ὀστᾶ· τῶν τετελευτηκότων ἐπι ξένης εἰς τὰς
+                                πατρίδας. ἡ δὲ ἀναφορὰ προς τὸ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:7.334-7.335</ref>
+                                    <q>ὅς κ' ὀστέα παισὶν ἕκαστος οἴκαδ' ἄγει</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="119" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ἐν δ' ὠτειλὰς πλῆσαν:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.351</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὕτως ὡς φαρμακώδη δύναμιν ἔχοντος τοῦ παλαιοῦ ἐλαίου. ὅτι ὑπὸ μὲν
+                                    <persName n="urn:cite:hmt:pers.pers464">Εὐφόρβου</persName>
+                                βέβληται ὁ <persName n="urn:cite:hmt:pers.pers158"
+                                    >Πάτροκλος</persName> ὑπο δὲ <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> οὔτασται καὶ
+                                συλληπτικῶς εἴρηκε πάντα τὰ τραύματα ὠτειλάς ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="120" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>λιτί:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.352</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><q>λιτῷ</q> καὶ ἀποικίλτῳ ὑφ ἅσματι ὅ ἐστι <q>λινῷ</q> οἱ δὲ ἐξ αντιφράσεως τὸ
+                                ποικίλον. οἱ δὲ ὅ φασιν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place76">Ἀττικὸς</rs> ληΐδιον. δεῖ δὲ
+                                ὀξυτόνως ἀναγινώσκειν τὸ <q>λιτί</q>· κατα τὸν κανόνα τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers493">ῃρῳδιανοῦ</persName>· πᾶσα δοτικῇ
+                                δισύλλαβος ἐπι ονομάτων ὀξύνεσθαι θέλει· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.219</ref>
+                                    <q>φωτί</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.108</ref>
+                                    <q>παντί</q>
+                                </cit>
+                                <q>θιτί</q> οὕτως γὰρ καὶ ἐν τῇ <title>Ἰλιακῇ προσῳδίᾳ</title> ἐν τῇ
+                                        <title><ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:23</ref>Ψ</title> λέγει ὅτι
+                                δεῖ ὀξύνειν κατα <w><add place="supralinear">τοῦ</add>τὸν</w> τὸν
+                                κανόνα οὕτως γὰρ καὶ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName>· εἰσὶ δὲ οἳ περισπῶσιν οὐ καλῶς. εἶτα
+                                ἐπάγει οὕτως· παραιτητεον δὲ τὸν <persName
+                                    n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτην</persName> οιόμενον
+                                ἀπο τῆς <rs type="waw">λίς</rs> εὐθείας κεκλῆσθαι τὴν <q>λιτὶ</q> δοτικὴν
+                                καὶ τὴν <q><choice>
+                                    <abbr>λιτ</abbr>
+                                    <expan>λῖτα</expan>
+                                </choice></q> αἰτιατικήν· οὐ γάρ ποτε ἐμελέτησε τὰ εἰς <rs type="waw"
+                                    >ις</rs>
+                                <choice>
+                                    <abbr>μονοσύλλα</abbr>
+                                    <expan>μονοσύλλαβα</expan>
+                                </choice> δια τοῦτος κλίνεσθαι, μεταπλασμὸς οὖν ἐστι τῆς <q>λιτῶ</q>
+                                δοτικῆς ὡς ἡ κλαδί. τῆς κλαδῷ καὶ ἡ αιτιατικῇ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.441</ref>
+                                    <q><choice>
+                                            <sic>λιτὰ</sic>
+                                            <corr>λῖτα</corr>
+                                        </choice></q>
+                                </cit>. μεταπέπλασται εκ τῆς <q>λιτός</q>. ὡς κρόκα ἐκ τῆς κρόκην· τὸ δὲ
+                                παρα τῷ ποιητῇ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:6.93</ref>
+                                    <q>κάθηράν τε ῥύπα πάντα</q>
+                                </cit> εἰ μὴ ἔστι πληθυντικὸν οὐδέτερον τοῦ προκειμένου μεταπλασμοῦ
+                                ἔχεται, οὐχ ὁμότονος δὲ ἐγένετο ἡ <q>λῖτα</q> τῇ <q>λιτόν</q>. ἐπεὶ πᾶσα αἰτιατικῇ
+                                εἰς <rs type="waw">α</rs> λήγουσα ἐβαρύνετο ὑπεσταλμένης τῆς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.62</ref>
+                                    <q>τινά</q>
+                                </cit>
+                                <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> αόριστον προφοράν ⁑</p>
                         </div>
                     </div>
-                    
-                   
-                    
+
+
+
                     <!-- 
                     <div n="X" type="scholion">
                         <div type="lemma">
