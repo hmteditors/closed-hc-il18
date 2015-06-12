@@ -557,10 +557,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.362</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.362-18.367</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>προς το κάτω τὸ κακὰ ἡ <choice><abbr>ἀπδοσις</abbr><expan>ἀπόδοσις</expan></choice> ⁑</p>
                         </div>
                     </div>
                     <div n="40" type="scholion">
@@ -571,7 +571,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.376</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν ἄλλω <q>δύσονται ἀγῶνα</q> ⁑</p>
                         </div>
                     </div>
                     <!--
