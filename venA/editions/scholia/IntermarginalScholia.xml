@@ -440,7 +440,8 @@
                                 </choice> τοῦ γὰρ:</p>
                         </div>
                     </div>
-                    <div n="31" type="scholion">
+                                 
+                    <div n="32" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -454,7 +455,7 @@
                                     </choice></q> ⁑</p>
                         </div>
                     </div>
-                    <div n="32" type="scholion">
+                    <div n="33" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -468,7 +469,7 @@
                                 </choice> ⁑</p>
                         </div>
                     </div>
-                    <div n="33" type="scholion">
+                    <div n="34" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -479,7 +480,7 @@
                             <p>ἐν αλλῳ <q>πιθοίμεθα</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="34" type="scholion">
+                    <div n="35" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -498,7 +499,7 @@
                                 ⁑</p>
                         </div>
                     </div>
-                    <div n="35" type="scholion">
+                    <div n="36" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -517,7 +518,7 @@
                         </div>
                     </div>
                  
-                    <div n="36" type="scholion">
+                    <div n="37" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -529,7 +530,7 @@
                         </div>
                     </div>
                     
-                    <div n="37" type="scholion">
+                    <div n="38" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -541,7 +542,7 @@
                         </div>
                     </div>
                     
-                    <div n="38" type="scholion">
+                    <div n="39" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -552,7 +553,7 @@
                             <p>προς το <q>λιτη</q>:</p>
                         </div>
                     </div>
-                    <div n="39" type="scholion">
+                    <div n="40" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -563,7 +564,7 @@
                             <p>προς το κάτω τὸ κακὰ ἡ <choice><abbr>ἀπδοσις</abbr><expan>ἀπόδοσις</expan></choice> ⁑</p>
                         </div>
                     </div>
-                    <div n="40" type="scholion">
+                    <div n="41" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -574,18 +575,19 @@
                             <p>ἐν ἄλλω <q>δύσονται ἀγῶνα</q> ⁑</p>
                         </div>
                     </div>
-                    <!--
-                    <div n="" type="scholion">
+                    
+                    <div n="42" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.400</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
+                    <!--
                     <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
