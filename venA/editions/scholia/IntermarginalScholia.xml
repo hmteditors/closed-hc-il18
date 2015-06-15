@@ -440,7 +440,7 @@
                                 </choice> τοῦ γὰρ:</p>
                         </div>
                     </div>
-                                 
+
                     <div n="32" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -517,7 +517,7 @@
                                 </choice> μη λύσοντες τὰς τάξεις ⁑</p>
                         </div>
                     </div>
-                 
+
                     <div n="37" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -529,7 +529,7 @@
                             <p>γράφεται <q>μετεφώνεε</q> ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="38" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -541,7 +541,7 @@
                             <p>δια τοῦ <rs type="waw">α</rs> αύτως πάσαι εῖχον ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="39" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -561,7 +561,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.362-18.367</p>
                         </div>
                         <div type="comment">
-                            <p>προς το κάτω τὸ κακὰ ἡ <choice><abbr>ἀπδοσις</abbr><expan>ἀπόδοσις</expan></choice> ⁑</p>
+                            <p>προς το κάτω τὸ κακὰ ἡ <choice>
+                                    <abbr>ἀπδοσις</abbr>
+                                    <expan>ἀπόδοσις</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="41" type="scholion">
@@ -575,7 +578,7 @@
                             <p>ἐν ἄλλω <q>δύσονται ἀγῶνα</q> ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="42" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -584,7 +587,17 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.400</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> καὶ <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Αριστοφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
+                                <q>δαίδαλα <choice>
+                                        <abbr>πάντ</abbr>
+                                        <expan>πάντα</expan>
+                                    </choice></q> ⁑</p>
                         </div>
                     </div>
                     <!--
