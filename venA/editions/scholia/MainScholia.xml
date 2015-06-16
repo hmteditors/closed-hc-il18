@@ -2785,18 +2785,43 @@
                             <p>ὅτι καθ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName> ἡ
                                     <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> εθρεψε
                                 τὸν <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName> οὐ
-                                <persName n="urn:cite:hmt:pers.pers115">Χείρων</persName> ὡς οἱ νεώτεροι ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers115">Χείρων</persName> ὡς οἱ
+                                νεώτεροι ⁑</p>
                         </div>
                     </div>
                     <div n="151" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>κούρην ἣν ἄρα οἱ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.444</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἀθετοῦνται στίχοι <num value="13">ιγ</num>, ὅτι συνήγαγέ τις τὰ δια
+                                πολλῶν εἰρημεινα ὡς ἔνα τόπον ὡς ἐκεῖνα <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.366</ref>
+                                    <q>ᾠχόμεθ' ἐς <placeName n="urn:cite:hmt:place.place49"
+                                            >Θήβην</placeName> ἱερὴν <choice>
+                                            <abbr>πο</abbr>
+                                            <expan>πόλιν</expan>
+                                        </choice></q>
+                                </cit> δια δε τῶν ἑξῆς ἐπιδείκνυσιν ὅτι τε ὁ <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλος</persName> τελευτήσας
+                                ἀπώλεσε τὰ ὅπλα καὶ πάρεστιν ἕτερα ληψομένη, δια μέντοι τούτων οὐδὲν
+                                ἀναγκαιον λέγεται καὶ ψεῦδος περιεχουσιν οὐ γὰρ ταῖς λιταῖς πεισθεῖς
+                                    <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers127"><choice>
+                                        <abbr>Αἴαντ</abbr>
+                                        <expan>Αἴαντος</expan>
+                                    </choice></persName> ἐξέπεμψε τὸν <persName
+                                    n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> ἀλλ' ὕστερον,
+                                ἑκουσίως ὁ <persName n="urn:cite:hmt:pers.pers158"
+                                    >Πάτροκλος</persName> κατελεήσας τὴν φθορὰν τῶν <rs
+                                    type="ethnic" n="urn:cite:hmt:pers.pers14">Ελλήνων</rs> ϊκέτευσε
+                                δοθῆναι αὐτῶ τοῦ <persName n="urn:cite:hmt:pers.pers1"><choice>
+                                        <abbr>Αχι</abbr>
+                                        <expan>Αχιλλέως</expan>
+                                    </choice></persName> τὰ όπλα ⁑</p>
                         </div>
                     </div>
 
