@@ -183,7 +183,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.94</p>
                         </div>
                         <div type="comment">
-                            <p>εν αλλῳ <q>τὸν δ' ἠμείβετ' ἔπειτα</q> ⁑</p>
+                            <p>εν αλλῷ <q>τὸν δ' ἠμείβετ' ἔπειτα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -209,7 +209,7 @@
                                         <abbr>Αρισταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> δια τοῦ <rs type="waw">ω</rs>
-                                <q>ρεω</q>:</p>
+                                <q><persName n="urn:cite:hmt:pers.pers83">Ἄρεω</persName></q>:</p>
                         </div>
                     </div>
                     <div n="14" type="scholion">
@@ -281,7 +281,7 @@
                                     <abbr>αλλ</abbr>
                                     <expan>ἄλλῳ</expan>
                                 </choice>
-                                <q>ὑιος εηος</q>· ⁑</p>
+                                <q>υἱος εηος</q>· ⁑</p>
                         </div>
                     </div>
                     <div n="19" type="scholion">
