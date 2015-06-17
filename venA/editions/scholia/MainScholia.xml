@@ -47,7 +47,7 @@
                         <div type="comment">
                             <p>νῦν επι τόπου καὶ ἐν <title><ref type="urn"
                                         n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</ref></title>
-                                καδ δ' έβαλε προπαροιθε νεώς τάσσεται δὲ καὶ ἐπι χρόνου σεῖο δ'
+                                καδ δ' έβαλε <choice><abbr>προπαροιθ</abbr><expan>προπάροιθε</expan></choice> νεώς τάσσεται δὲ καὶ ἐπι χρόνου σεῖο δ'
                                     <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεῦ'</persName> οὔτις
                                 ἀνηρ προπάροιθε μακάρων ⁑</p>
                         </div>
@@ -61,7 +61,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.3</p>
                         </div>
                         <div type="comment">
-                            <p>τῶν τὰς κεφαλὰς ορθὰς ἐχουσῶν κραῖραν γὰρ λέγουσι τὴν κεφαλήν. καὶ οἱ
+                            <p>τῶν τὰς κεφαλὰς ορθὰς ἐχουσῶν κραίραν γὰρ λέγουσι τὴν κεφαλήν. καὶ οἱ
                                     <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικοὶ</rs> τὸ
                                 τῆς κεφαλῆς ήμισυ ἡμίκραιραν· λέγει δὲ δια τὸ τὰς πρώρας καὶ πρύμνας
                                 ἀνατετάσθαι ἐκ μεταφορᾶς τῶν βοῶν ⁑</p>
@@ -89,7 +89,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.5</p>
                         </div>
                         <div type="comment">
-                            <p>ἥτοι λυπηθεὶς ἀπο τοῦ <rs type="waw">ἄχθεος</rs> ὅ ἔστι βάρους.
+                            <p><sic>ἥτοι</sic> λυπηθεὶς ἀπο τοῦ <rs type="waw">ἄχθεος</rs> ὅ ἔστι βάρους.
                                 λέγοιμεν δ ὰν καὶ βαρυνθείς ἢ τὸ <rs type="waw">ὀχθήσας</rs> ἀπὸ τοῦ
                                     <rs type="waw">όχθου</rs> ὠνόμασται <rs type="waw">ὄχθοι</rs> δὲ
                                 τὰ ὑψηλὰ οἷον ἐπαρθεὶς τῷ θυμῷ ⁑</p>
@@ -126,8 +126,8 @@
                         </div>
                         <div type="comment">
                             <p>ἐζήτηται πῶς οὐκ εστιν <persName n="urn:cite:hmt:pers.pers217"
-                                    >Αὐτομέδων</persName> μηνυτης τῆς <persName
-                                    n="urn:cite:hmt:pers.pers158">Πατροκλοῦ</persName> ἀναιρεσαι
+                                    >Αὐτομέδων</persName> μηνυτὴς τῆς <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλοῦ</persName> <sic>ἀναιρεσαι</sic>
                                 ἀλλα <persName n="urn:cite:hmt:pers.pers712">Ἀντίλοχος</persName>·
                                 καὶ διὰ τοῦ γυμνὸς <abbr>τρεχ</abbr>· ῥητεον οὖν ὅτι· <persName
                                     n="urn:cite:hmt:pers.pers217">Αὐτομεδωντα</persName> μὲν αἰσχρὸν
@@ -141,12 +141,12 @@
                                     <expan>περὶ</expan>
                                 </choice> τοῦ <choice>
                                     <abbr>σωματ</abbr>
-                                    <expan>σωματα</expan>
+                                    <expan>σώματα</expan>
                                 </choice>
                                 <persName n="urn:cite:hmt:pers.pers712">Ἀντίλοχός</persName> τε
                                 ταχὺς τὲ ὣν τῶν ἄλλων <abbr>προεκριθ</abbr> καὶ γυμνὸς ἄπεισι μετὰ
-                                τῶν όπλῶν ταῖς συμφοραῖς ἐμπομπευειν παραιτουμένος ἤ δια τὸ μη
-                                βαρουμενον τοῖς ὅπλοῖς χρονίσαι ἐν τῇ οδῷ ⁑</p>
+                                τῶν όπλων ταῖς συμφοραῖς ἐμπομπευειν παραιτούμενος ἤ δια τὸ μη
+                                βαρούμενον τοῖς ὅπλοῖς χρονίσαι ἐν τῇ οδῷ ⁑</p>
                         </div>
                     </div>
 
@@ -158,7 +158,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.10</p>
                         </div>
                         <div type="comment">
-                            <p><q>χερσὶν ὑπο Τρώων</q> ἐν τῇ <persName n="urn:cite:hmt:pers.pers85"
+                            <p><q>χερσὶν ὑπο <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs></q> ἐν τῇ <persName n="urn:cite:hmt:pers.pers85"
                                     >Ριανοῦ</persName> οὐκ ῆσαν οἱ <num value="2">β</num> ἴσως ἐπεὶ
                                 οὐκ ῆν Μυρμιδόνων ὁ <persName n="urn:cite:hmt:pers.pers158"
                                     >Πατροκλος</persName>
@@ -288,7 +288,7 @@
 
                     <div n="14" type="scholion">
                         <div type="lemma">
-                            <p>ᾥ μοι <persName n="urn:cite:hmt:pers.pers184">Πηλέος</persName>
+                            <p><sic>ᾥ</sic> μοι <persName n="urn:cite:hmt:pers.pers184">Πηλέος</persName>
                                 ὑιε:</p>
                         </div>
                         <div type="ref">
@@ -317,8 +317,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.21</p>
                         </div>
                         <div type="comment">
-                            <p>δεδήλωκε μετὰ συντομιας τὸ γεγενημενον πρᾶγμα ἀναγκαιως δὲ καὶ τὸ
-                                συμβὰν τῷ ἥρωϊ ευσχημόνως ἀπήγγειλεν οὐ γὰρ έφη <q>σκυλεύσας τὰ ὄπλα
+                            <p>δεδήλωκε μετὰ συντομιας τὸ γεγενημένον πρᾶγμα ἀναγκαιως δὲ καὶ τὸ
+                                συμβὰν τῷ ἥρωϊ ευσχημόνως ἀπήγγειλεν οὐ γὰρ έφη <q>σκυλεύσας τὰ <sic>ὄπλα</sic>
                                     ἔχει</q> ἀλλα μόνον ἐσήμανεν ⁑</p>
                         </div>
                     </div>
@@ -343,7 +343,7 @@
                                         >Ἀχιλλέα</persName></expan>
                                 </choice> προειδέναι τὲ γὰρ ἐχρῆν ὅτι κοινοι οἱ πολεμικοὶ κίνδυνοι
                                 τόν τε θάνατον οὐκ εχρῆν δεινὸν ὑπολαμβάνειν, τό τε οὕτως
-                                ὑπερπενθεῖν γυναικῶδες. οὕτως οὐτ ἂν βάρβαρος τιθὴ ἐποίησεν καί τοι
+                                ὑπερπενθεῖν γυναικῶδες. οὕτως οὑτ ἂν βάρβαρος τιθὴ ἐποίησεν καί τοι
                                     <persName n="urn:cite:hmt:pers.pers535">Ἑκάβης</persName> ἐπι τῷ
                                 συρμῷ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>
                                 οὐδὲν τοιοῦτόν ἐστιν <persName n="urn:cite:hmt:pers.pers977"
@@ -355,7 +355,7 @@
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:4.197-4.198</ref>
                                     <q>τοῦτό νυ καὶ γερας οῖον ὀϊζυροῖσι βρότοισι κείρασθαι τε κόμην
-                                        βαλέην τ' ἀπο δάκρυ παρειῶν</q>
+                                        <sic>βαλέην</sic> τ' ἀπο δάκρυ παρειῶν</q>
                                 </cit>: αλλως ει γὰρ <persName n="urn:cite:hmt:pers.pers712"
                                     >Ἀντίλοχον</persName> ἥττονα φίλον <choice>
                                     <abbr>κατλαμβάνει</abbr>
@@ -364,7 +364,7 @@
                                     <sic>ἀκούσαντες</sic>
                                     <corr>ἀκούσαντα</corr>
                                 </choice>· τί πείσεται <persName n="urn:cite:hmt:pers.pers1"
-                                    >Ἀχιλλεύς</persName> μείζον δὲ τὸ πάθος ἔδειξε δακρύσας</p>
+                                    >Ἀχιλλεύς</persName> μείζων δὲ τὸ πάθος ἔδειξε δακρύσας</p>
                         </div>
                     </div>
 
@@ -378,7 +378,7 @@
                         </div>
                         <div type="comment">
                             <p>προδοὺς ἴχνη τῆς συμφορᾶς τῷ δακρύῳ καὶ τῇ προφωνήσει οὕτως επι τὴν
-                                διήγησιν ερχεται αἱφνίδιον γὰρ προσπεσόντα τὰ δεινὰ τοῖς ἀκούουσιν
+                                διήγησιν ερχεται <sic>αἱφνίδιον</sic> γὰρ προσπεσόντα τὰ δεινὰ τοῖς ἀκούουσιν
                                 ἐξίστησιν</p>
                         </div>
                     </div>
