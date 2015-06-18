@@ -47,9 +47,12 @@
                         <div type="comment">
                             <p>νῦν επι τόπου καὶ ἐν <title><ref type="urn"
                                         n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</ref></title>
-                                καδ δ' έβαλε <choice><abbr>προπαροιθ</abbr><expan>προπάροιθε</expan></choice> νεώς τάσσεται δὲ καὶ ἐπι χρόνου σεῖο δ'
-                                    <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεῦ'</persName> οὔτις
-                                ἀνηρ προπάροιθε μακάρων ⁑</p>
+                                καδ δ' έβαλε <choice>
+                                    <abbr>προπαροιθ</abbr>
+                                    <expan>προπάροιθε</expan>
+                                </choice> νεώς τάσσεται δὲ καὶ ἐπι χρόνου σεῖο δ' <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλεῦ'</persName> οὔτις ἀνηρ
+                                προπάροιθε μακάρων ⁑</p>
                         </div>
                     </div>
 
@@ -89,10 +92,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.5</p>
                         </div>
                         <div type="comment">
-                            <p><sic>ἥτοι</sic> λυπηθεὶς ἀπο τοῦ <rs type="waw">ἄχθεος</rs> ὅ ἔστι βάρους.
-                                λέγοιμεν δ ὰν καὶ βαρυνθείς ἢ τὸ <rs type="waw">ὀχθήσας</rs> ἀπὸ τοῦ
-                                    <rs type="waw">όχθου</rs> ὠνόμασται <rs type="waw">ὄχθοι</rs> δὲ
-                                τὰ ὑψηλὰ οἷον ἐπαρθεὶς τῷ θυμῷ ⁑</p>
+                            <p><sic>ἥτοι</sic> λυπηθεὶς ἀπο τοῦ <rs type="waw">ἄχθεος</rs> ὅ ἔστι
+                                βάρους. λέγοιμεν δ ὰν καὶ βαρυνθείς ἢ τὸ <rs type="waw">ὀχθήσας</rs>
+                                ἀπὸ τοῦ <rs type="waw">όχθου</rs> ὠνόμασται <rs type="waw"
+                                    >ὄχθοι</rs> δὲ τὰ ὑψηλὰ οἷον ἐπαρθεὶς τῷ θυμῷ ⁑</p>
                         </div>
                     </div>
 
@@ -127,11 +130,12 @@
                         <div type="comment">
                             <p>ἐζήτηται πῶς οὐκ εστιν <persName n="urn:cite:hmt:pers.pers217"
                                     >Αὐτομέδων</persName> μηνυτὴς τῆς <persName
-                                    n="urn:cite:hmt:pers.pers158">Πατροκλοῦ</persName> <sic>ἀναιρεσαι</sic>
-                                ἀλλα <persName n="urn:cite:hmt:pers.pers712">Ἀντίλοχος</persName>·
-                                καὶ διὰ τοῦ γυμνὸς <abbr>τρεχ</abbr>· ῥητεον οὖν ὅτι· <persName
-                                    n="urn:cite:hmt:pers.pers217">Αὐτομεδωντα</persName> μὲν αἰσχρὸν
-                                ἢν μετὰ τῶν ἵππων ἔρχεσθαι πρὸς <choice>
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλοῦ</persName>
+                                <sic>ἀναιρεσαι</sic> ἀλλα <persName n="urn:cite:hmt:pers.pers712"
+                                    >Ἀντίλοχος</persName>· καὶ διὰ τοῦ γυμνὸς <abbr>τρεχ</abbr>·
+                                ῥητεον οὖν ὅτι· <persName n="urn:cite:hmt:pers.pers217"
+                                    >Αὐτομεδωντα</persName> μὲν αἰσχρὸν ἢν μετὰ τῶν ἵππων ἔρχεσθαι
+                                πρὸς <choice>
                                     <abbr><persName n="urn:cite:hmt:pers.pers1"
                                         >Αχι</persName></abbr>
                                     <expan><persName n="urn:cite:hmt:pers.pers1"
@@ -158,7 +162,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.10</p>
                         </div>
                         <div type="comment">
-                            <p><q>χερσὶν ὑπο <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs></q> ἐν τῇ <persName n="urn:cite:hmt:pers.pers85"
+                            <p><q>χερσὶν ὑπο <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                        >Τρώων</rs></q> ἐν τῇ <persName n="urn:cite:hmt:pers.pers85"
                                     >Ριανοῦ</persName> οὐκ ῆσαν οἱ <num value="2">β</num> ἴσως ἐπεὶ
                                 οὐκ ῆν Μυρμιδόνων ὁ <persName n="urn:cite:hmt:pers.pers158"
                                     >Πατροκλος</persName>
@@ -288,8 +293,8 @@
 
                     <div n="14" type="scholion">
                         <div type="lemma">
-                            <p><sic>ᾥ</sic> μοι <persName n="urn:cite:hmt:pers.pers184">Πηλέος</persName>
-                                ὑιε:</p>
+                            <p><sic>ᾥ</sic> μοι <persName n="urn:cite:hmt:pers.pers184"
+                                    >Πηλέος</persName> ὑιε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.18</p>
@@ -318,8 +323,8 @@
                         </div>
                         <div type="comment">
                             <p>δεδήλωκε μετὰ συντομιας τὸ γεγενημένον πρᾶγμα ἀναγκαιως δὲ καὶ τὸ
-                                συμβὰν τῷ ἥρωϊ ευσχημόνως ἀπήγγειλεν οὐ γὰρ έφη <q>σκυλεύσας τὰ <sic>ὄπλα</sic>
-                                    ἔχει</q> ἀλλα μόνον ἐσήμανεν ⁑</p>
+                                συμβὰν τῷ ἥρωϊ ευσχημόνως ἀπήγγειλεν οὐ γὰρ έφη <q>σκυλεύσας τὰ
+                                        <sic>ὄπλα</sic> ἔχει</q> ἀλλα μόνον ἐσήμανεν ⁑</p>
                         </div>
                     </div>
 
@@ -355,7 +360,7 @@
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:4.197-4.198</ref>
                                     <q>τοῦτό νυ καὶ γερας οῖον ὀϊζυροῖσι βρότοισι κείρασθαι τε κόμην
-                                        <sic>βαλέην</sic> τ' ἀπο δάκρυ παρειῶν</q>
+                                            <sic>βαλέην</sic> τ' ἀπο δάκρυ παρειῶν</q>
                                 </cit>: αλλως ει γὰρ <persName n="urn:cite:hmt:pers.pers712"
                                     >Ἀντίλοχον</persName> ἥττονα φίλον <choice>
                                     <abbr>κατλαμβάνει</abbr>
@@ -378,8 +383,8 @@
                         </div>
                         <div type="comment">
                             <p>προδοὺς ἴχνη τῆς συμφορᾶς τῷ δακρύῳ καὶ τῇ προφωνήσει οὕτως επι τὴν
-                                διήγησιν ερχεται <sic>αἱφνίδιον</sic> γὰρ προσπεσόντα τὰ δεινὰ τοῖς ἀκούουσιν
-                                ἐξίστησιν</p>
+                                διήγησιν ερχεται <sic>αἱφνίδιον</sic> γὰρ προσπεσόντα τὰ δεινὰ τοῖς
+                                ἀκούουσιν ἐξίστησιν</p>
                         </div>
                     </div>
 
@@ -536,9 +541,9 @@
                         <div type="comment">
                             <p>ὅτι ἡ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> οὐκ
                                 απελείφθη τοῦ <persName n="urn:cite:hmt:pers.pers184"
-                                    >Πηλέως</persName> οικου καθάπερ οἱ νεώτεροι <sic>δωδεκατιον</sic>
-                                καταλιποῦσα τὸν <persName n="urn:cite:hmt:pers.pers1"
-                                    >Ἀχιλλέα</persName>. ὁ δε <persName
+                                    >Πηλέως</persName> οικου καθάπερ οἱ νεώτεροι
+                                    <sic>δωδεκατιον</sic> καταλιποῦσα τὸν <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName>. ὁ δε <persName
                                     n="urn:cite:hmt:pers.pers184">Πηλεὺς</persName>
                                 <persName n="urn:cite:hmt:pers.pers115">Χείρονι</persName>
                                 παραδέδωκεν ἵνα τραφῇ ⁑</p>
@@ -638,9 +643,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.68-18.69</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ <sic>ἐπισχερῶ</sic> ἑκατέρωσε δύναται προσδίδοσθαι καὶ γὰρ τὰς Νηρεΐδας ἂν
-                                εἶναι τάξει πρέπον καὶ τὰς ναῦς εἰκὸς ἐφεξῆς τετάχθαι ὡς ἐν τῷ
-                                    <title>περι ναυστάθμου</title> λέγεται ⁑</p>
+                            <p>τὸ <sic>ἐπισχερῶ</sic> ἑκατέρωσε δύναται προσδίδοσθαι καὶ γὰρ τὰς
+                                Νηρεΐδας ἂν εἶναι τάξει πρέπον καὶ τὰς ναῦς εἰκὸς ἐφεξῆς τετάχθαι ὡς
+                                ἐν τῷ <title>περι ναυστάθμου</title> λέγεται ⁑</p>
                         </div>
                     </div>
                     <div n="33" type="scholion">
@@ -824,8 +829,9 @@
                         <div type="comment">
                             <p>φησὶ τὸ εξῆς· <q>νῦν δ' ἐπεὶ οὐ <sic>νεομαί</sic> γε</q>
                                 <q>νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς</q>· αἱ ὑποστιγμαὶ δὲ μέχρι τοῦ
-                                    <q><sic>αμείνονές</sic> εἰσὶ καὶ ἄλλοι</q> ἀποτελοῦνται τοῦ ἐπεὶ συνδέσμου
-                                τὸν λογον ἀρτῶντος ἵν' ᾗ ἀνταπόδοσις. ἣ <q>ὡς ἐρις ἔκ τε <choice>
+                                        <q><sic>αμείνονές</sic> εἰσὶ καὶ ἄλλοι</q> ἀποτελοῦνται τοῦ
+                                ἐπεὶ συνδέσμου τὸν λογον ἀρτῶντος ἵν' ᾗ ἀνταπόδοσις. ἣ <q>ὡς ἐρις ἔκ
+                                    τε <choice>
                                         <sic>θέων</sic>
                                         <corr>θεῶν</corr>
                                     </choice></q> ὁ δὲ λόγος ηθικός. νῦν δ' ἐπεὶ μήτε εἰς τὴν
@@ -842,8 +848,8 @@
                                         <expan>ἀνθρώπων</expan>
                                     </choice></del> ἀπόλοιτο ἣ τὸ ἑξῆς τοῦ λόγου. <q>νῦν δ' ἐπεὶ οὐ
                                     νέομαι</q>. <q>νῦν δ' εῖμ' ὄφρα φίλης κεφαλῆς</q> καὶ γὰρ
-                                <sic>ἐπανείληψε</sic> τὸ χρονικὸν ἐπίρρημα ὡσπερ εἰς ὑπόμνησιν τῆς ἀρχῆς ἦν
-                                παραλιπὼν παρεξέβη ⁑</p>
+                                    <sic>ἐπανείληψε</sic> τὸ χρονικὸν ἐπίρρημα ὡσπερ εἰς ὑπόμνησιν
+                                τῆς ἀρχῆς ἦν παραλιπὼν παρεξέβη ⁑</p>
                         </div>
                     </div>
                     <div n="43" type="scholion">
@@ -869,7 +875,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.107-18.108</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers71">Ἡράκλειτος</persName> τὴν τῶν ὄντων φύσιν κατ έριν <sic>συνεστᾶναι</sic> νομίζων μέμφεται <choice>
+                            <p><persName n="urn:cite:hmt:pers.pers71">Ἡράκλειτος</persName> τὴν τῶν
+                                ὄντων φύσιν κατ έριν <sic>συνεστᾶναι</sic> νομίζων μέμφεται <choice>
                                     <abbr><persName n="urn:cite:hmt:pers.pers17"
                                         >Ὅμρον</persName></abbr>
                                     <expan><persName n="urn:cite:hmt:pers.pers17"
@@ -1010,9 +1017,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.121</p>
                         </div>
                         <div type="comment">
-                            <p><sic>ἀνοητόν</sic> ἐστι τὸ λέγειν δῆλον γὰρ πᾶσιν ὅτι κείσεται ἀποθανών ἀλλ
-                                ασαφέστερον ἐξενήνεκται. ὁ δὲ λέγει τοιοῦτόν ἐστι· ζῶντα μὲν οὐ χρὴ
-                                ἀργὸν εἶναι. οὐδὲ κεῖσθαι ὥσπερ νεκρὸν, ἀλλα τότε ὅτ ἂν ὁ <choice>
+                            <p><sic>ἀνοητόν</sic> ἐστι τὸ λέγειν δῆλον γὰρ πᾶσιν ὅτι κείσεται
+                                ἀποθανών ἀλλ ασαφέστερον ἐξενήνεκται. ὁ δὲ λέγει τοιοῦτόν ἐστι·
+                                ζῶντα μὲν οὐ χρὴ ἀργὸν εἶναι. οὐδὲ κεῖσθαι ὥσπερ νεκρὸν, ἀλλα τότε
+                                ὅτ ἂν ὁ <choice>
                                     <abbr>θάνατ</abbr>
                                     <expan>θάνατος</expan>
                                 </choice> ἔλθῃ ⁑</p>
@@ -2984,17 +2992,33 @@
                     </div>
                     <div n="162" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ ἒν μὲν γαῖαν:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.483</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνόδοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> ἠθέτηκεν ἀπο τούτου τοῦ στίχου τὰ λοιπα
+                                ἀρκεσθεὶς τῃ κεφαλαιώδει προεκθέσει· <persName
+                                    n="urn:cite:hmt:pers.pers17"><choice>
+                                        <abbr>Ὅμρ</abbr>
+                                        <expan>Ὅμηρος</expan>
+                                    </choice></persName> δὲ οὐκ ὰν προετραγώδησεν τὰ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὰς φύσας εἰ μὴ καὶ τὴν τῆς ποικιλίας κατασκευὴν ἔμελλε
+                                διατίθεσθαι ⁑</p>
                         </div>
                     </div>
-                    
-                    
+
+
                     <div n="163" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3006,7 +3030,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="164" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3018,7 +3042,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="165" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3030,7 +3054,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="166" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3042,7 +3066,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="167" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3054,7 +3078,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="168" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3066,7 +3090,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="169" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3078,7 +3102,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="170" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3090,7 +3114,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="171" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3102,7 +3126,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="172" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3125,7 +3149,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="174" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3148,7 +3172,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="176" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3160,7 +3184,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="177" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3172,10 +3196,10 @@
                             <p/>
                         </div>
                     </div>
-                    
-                    
-                    
-                    
+
+
+
+
                     <!--
                     <div n="X" type="scholion">
                         <div type="lemma">
