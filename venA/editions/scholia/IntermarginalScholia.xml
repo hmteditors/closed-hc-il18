@@ -223,7 +223,8 @@
                             <p><choice>
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
-                                </choice> ἀντι ὑφ' <q><persName n="urn:cite:hmt:pers.pers172">Έκτορος</persName> δίου</q> ⁑</p>
+                                </choice> ἀντι ὑφ' <q><persName n="urn:cite:hmt:pers.pers172"
+                                        >Έκτορος</persName> δίου</q> ⁑</p>
                         </div>
                     </div>
                     <div n="15" type="scholion">
@@ -237,7 +238,8 @@
                             <p><choice>
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
-                                </choice> οὐκ οῖδεν ἀθανατον τὸν <persName n="urn:cite:hmt:pers.pers71">Ἡρακλέᾳ</persName>· ⁑</p>
+                                </choice> οὐκ οῖδεν ἀθανατον τὸν <persName
+                                    n="urn:cite:hmt:pers.pers71">Ἡρακλέᾳ</persName>· ⁑</p>
                         </div>
                     </div>
                     <div n="16" type="scholion">
@@ -717,7 +719,10 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.481</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>ἒν <choice>
+                                        <abbr>εστ</abbr>
+                                        <expan>ἐστι</expan>
+                                    </choice> τὸ <q>αὐτοῦ</q></p>
                             </div>
                         </div>
                         <div n="52" type="scholion">
@@ -728,7 +733,8 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.485</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>ὡς <q>τείχεα</q>
+                                    <q>τείρεα</q> ⁑</p>
                             </div>
                         </div>
                         <div n="53" type="scholion">
@@ -739,7 +745,15 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.492</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                            <abbr>Ζηνοδ</abbr>
+                                            <expan>Ζηνόδοτος</expan>
+                                        </choice></persName>
+                                    <q>ἐς θαλαμους</q> καὶ <choice>
+                                        <abbr>εστ</abbr>
+                                        <expan>ἔστιν</expan>
+                                    </choice>
+                                    <sic>οὑκ</sic> απίθανος ἡ γραφη ⁑</p>
                             </div>
                         </div>
                         <div n="54" type="scholion">
@@ -750,7 +764,16 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.495</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><choice>
+                                        <abbr>οτ</abbr>
+                                        <expan>ὅτι</expan>
+                                    </choice>
+                                    <choice>
+                                        <abbr>ενθ</abbr>
+                                        <expan>ἔνθα</expan>
+                                    </choice> δὲ μονον καὶ ἐν τῆ <title><ref type="urn"
+                                            n="urn:cts:greekLit:tlg0012.tlg001:10">Κ</ref></title>
+                                    μέμνηται αὐλῶν ⁑</p>
                             </div>
                         </div>
                         <div n="55" type="scholion">
@@ -761,7 +784,8 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.499</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice> διασταλτέον ἐπι τὸ <q>αποδοῦναι</q> ἐν γαρ τῷ δήμῳ ἐλεγεν
+                                    <q><choice><abbr>παντ</abbr><expan>πάντα</expan></choice> ἀποδεδοκέναι</q> οὐ τῷ δημῳ <q>παραδεδωκέναι</q> ⁑</p>
                             </div>
                         </div>
                         <div n="56" type="scholion">
