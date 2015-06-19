@@ -3110,13 +3110,30 @@
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐκ τοῦ μηροῦ
                                 γεννηθέντα <persName n="urn:cite:hmt:pers.pers59"
-                                    >Διόνυσον</persName> ταῖς Δωδωνίσι Νύμφαις τρέφειν έδωκεν.
-                                Ἀμβροσία Κορωνίδῃ Εὐδωρῃ Διώνῃ Αἰσύλῃ Πολυξοῖ αὕται θρέψασαι τὸν
-                                Διόνυσον περίεσαν συν αυτῳ τὴν ευρεθεῖσα ἄμπελον ὑπο τοῦ θυ//θεοῦ
-                                τοῖς ἀνοις//ἀνθρώποις χαριζόμεναι· Λυκοῦργος δὲ μέχρι τῆς θαλασσης
-                                συνεδίωξε τὸν Διόνυσον ἐκεινας δὲ ὁ <persName
-                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐλεήσας
-                                καρηστέρισαν· ἡ ἱστορία παρα φερεκυδ// Φερεκύδει ⁑</p>
+                                    >Διόνυσον</persName> ταῖς Δωδωνίσι νύμφαις τρέφειν έδωκεν.
+                                    <persName n="urn:cite:hmt:pers.pers1010">Ἀμβροσία</persName>
+                                <persName n="urn:cite:hmt:pers.pers1011">Κορωνίδῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1012">Εὐδωρῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1013">Διώνῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1014">Αἰσύλῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1015">Πολυξοῖ</persName> αὕται
+                                θρέψασαι τὸν <persName n="urn:cite:hmt:pers.pers59"
+                                    >Διόνυσον</persName> περίεσαν συν αυτῳ τὴν ευρεθεῖσα ἄμπελον ὑπο
+                                τοῦ <choice>
+                                    <abbr>θυ</abbr>
+                                    <expan>θεοῦ</expan>
+                                </choice> τοῖς <choice>
+                                    <abbr>ἀνοις</abbr>
+                                    <expan>ἀνθρώποις</expan>
+                                </choice> χαριζόμεναι· <persName n="urn:cite:hmt:pers.pers718"
+                                    >Λυκοῦργος</persName> δὲ μέχρι τῆς θαλασσης συνεδίωξε τὸν
+                                    <persName n="urn:cite:hmt:pers.pers59">Διόνυσον</persName>
+                                ἐκεινας δὲ ὁ <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
+                                ἐλεήσας καρηστέρισαν· ἡ ἱστορία παρα <persName
+                                    n="urn:cite:hmt:pers.pers255"><choice>
+                                        <abbr>Φερεκυδ</abbr>
+                                        <expan>Φερεκύδει</expan>
+                                    </choice></persName> ⁑</p>
                         </div>
                     </div>
 
