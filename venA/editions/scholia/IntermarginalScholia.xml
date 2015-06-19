@@ -810,11 +810,14 @@
                                         n="urn:cite:hmt:pers.pers21"><choice>
                                             <abbr>Ἀριστοφα</abbr>
                                             <expan>Ἀριστοφάνει</expan>
-                                        </choice></persName> <q><choice>
+                                        </choice></persName>
+                                    <q><choice>
                                             <abbr>ἀμφοτερωθ</abbr>
                                             <expan>ἀμφοτέρωθεν</expan>
-                                        </choice></q> ἡ Μασσαλιωτικη <q><choice><abbr>ἀμφοτέρωθ</abbr><expan>ἀμφοτέρωθεν</expan></choice>
-                                    ἐπίπνυον αμφις αρωγοι</q> ⁑ </p>
+                                        </choice></q> ἡ Μασσαλιωτικη <q><choice>
+                                            <abbr>ἀμφοτέρωθ</abbr>
+                                            <expan>ἀμφοτέρωθεν</expan>
+                                        </choice> ἐπίπνυον αμφις αρωγοι</q> ⁑ </p>
                             </div>
                         </div>
                         <div n="57" type="scholion">
@@ -825,7 +828,10 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.505</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>ὧν ἡ φωνη μέχρι τοῦ ἐμφανοῦς ἱκνειται ὃ ἐν ἄλλῳ <cit>
+                                        <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.686</ref>
+                                        <q>φωνη δέ οἱ αιθερ ΐκανε</q>
+                                    </cit> ⁑ </p>
                             </div>
                         </div>
                         <div n="58" type="scholion">
@@ -836,7 +842,18 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.506</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
+                                    <q>ἀμοιβηδὸν</q> ὡς <cit>
+                                        <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.463</ref>
+                                        <q>κλαγγηδὸν</q>
+                                    </cit>, <choice>
+                                        <abbr>κατ</abbr>
+                                        <expan>κατὰ</expan>
+                                    </choice> τάξιν τῆς ηλικίας· αἱ <persName
+                                        n="urn:cite:hmt:pers.pers16"><choice>
+                                            <abbr>Αριστ</abbr>
+                                            <expan>Ἀριστάρχου</expan>
+                                        </choice></persName> ⁑ </p>
                             </div>
                         </div>
                         <div n="59" type="scholion">
@@ -847,7 +864,11 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.528</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>παρα <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                            <abbr>Ζηνοδ</abbr>
+                                            <expan>Ζηνοδότῳ</expan>
+                                        </choice></persName>
+                                    <q>πῶυι μεγ οιων</q>⁑</p>
                             </div>
                         </div>
                         <!--

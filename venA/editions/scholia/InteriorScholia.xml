@@ -656,7 +656,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.506</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κατέσειον ἐπι τὸ σιωπῆσαι: ⁑</p>
                         </div>
                     </div>
                     <div n="43" type="scholion">
@@ -667,7 +667,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.513</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οἱ <choice>
+                                    <abbr>ένδν</abbr>
+                                    <expan>ἕνδον</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="44" type="scholion">
@@ -678,7 +681,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.515</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> κοινοῦ τὸ <q>ρύατο</q> ⁑ </p>
                         </div>
                     </div>
                     <div n="45" type="scholion">
@@ -689,7 +695,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.519</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> άπαξ κέχρηται τῇ λέξει καὶ σημαίνει ολίγοι ⁑ </p>
                         </div>
                     </div>
                     <div n="46" type="scholion">
@@ -700,7 +709,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.526</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Αρισφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName> δυικoς
+                                    <q><choice><abbr>τερπομέ</abbr><expan>τερπομένω</expan></choice></q> : </p>
                         </div>
                     </div>
                     <!--
