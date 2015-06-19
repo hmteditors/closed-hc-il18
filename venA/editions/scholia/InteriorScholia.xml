@@ -565,7 +565,16 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.485</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
+                                <q>οὐρανὸν ἐστηρικται</q>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αριστ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <q>ουρανὸν εστεφάνωκε</q> ⁑</p>
                         </div>
                     </div>
                     <div n="39" type="scholion">
@@ -576,7 +585,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.489</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς προς τὰ <choice>
+                                    <abbr>προειρημε</abbr>
+                                    <expan>προειρημένα</expan>
+                                </choice> άστρα ἐπεὶ καὶ αλλα εστι μη <choice>
+                                    <abbr>δύνοντ</abbr>
+                                    <expan>δύνοντα</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="40" type="scholion">
@@ -587,7 +602,36 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.492</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἡ <q><choice>
+                                        <abbr>υπ</abbr>
+                                        <expan>ὑπό</expan>
+                                    </choice></q>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τῆς <q><choice>
+                                        <abbr>μετ</abbr>
+                                        <expan>μετά</expan>
+                                    </choice></q>
+                                <q>μετὰ δαϊδων</q>
+                                <persName n="urn:cite:hmt:pers.pers657"><choice>
+                                        <abbr>Αρχιλοχο</abbr>
+                                        <expan>Ἀρχίλοχος</expan>
+                                    </choice></persName>
+                                <q>ᾀδων ὑπ αυλητηρος</q> καὶ προς το ἀρχαῖον ἐθος, <choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> οἱ νυμφίοι τὰς <w>νύ<unclear>μ</unclear>φας</w>
+                                <choice>
+                                    <abbr>μετ</abbr>
+                                    <expan>μετὰ</expan>
+                                </choice> δαΐδων <choice>
+                                    <abbr>παρελαμβάνοντ</abbr>
+                                    <expan>παρελαμβάνοντο</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <div n="41" type="scholion">
@@ -598,7 +642,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.501</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ τελος τῆς δίκης οἱ δικασταὶ ετίθεντο ωστε τὸν <choice>
+                                    <abbr>παρέχοντ</abbr>
+                                    <expan>παρέχοντα</expan>
+                                </choice> μαρτυρίαν νικᾶν ⁑</p>
                         </div>
                     </div>
                     <!--

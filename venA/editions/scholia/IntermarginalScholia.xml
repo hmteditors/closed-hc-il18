@@ -784,8 +784,15 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.499</p>
                             </div>
                             <div type="comment">
-                                <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice> διασταλτέον ἐπι τὸ <q>αποδοῦναι</q> ἐν γαρ τῷ δήμῳ ἐλεγεν
-                                    <q><choice><abbr>παντ</abbr><expan>πάντα</expan></choice> ἀποδεδοκέναι</q> οὐ τῷ δημῳ <q>παραδεδωκέναι</q> ⁑</p>
+                                <p><choice>
+                                        <abbr>βραχ</abbr>
+                                        <expan>βραχὺ</expan>
+                                    </choice> διασταλτέον ἐπι τὸ <q>αποδοῦναι</q> ἐν γαρ τῷ δήμῳ
+                                    ἐλεγεν <q><choice>
+                                            <abbr>παντ</abbr>
+                                            <expan>πάντα</expan>
+                                        </choice> ἀποδεδοκέναι</q> οὐ τῷ δημῳ <q>παραδεδωκέναι</q>
+                                    ⁑</p>
                             </div>
                         </div>
                         <div n="56" type="scholion">
@@ -796,7 +803,18 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.502</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>παρα <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                            <abbr>Ζηνοδοτ</abbr>
+                                            <expan>Ζηνοδότῳ</expan>
+                                        </choice></persName> και <persName
+                                        n="urn:cite:hmt:pers.pers21"><choice>
+                                            <abbr>Ἀριστοφα</abbr>
+                                            <expan>Ἀριστοφάνει</expan>
+                                        </choice></persName> <q><choice>
+                                            <abbr>ἀμφοτερωθ</abbr>
+                                            <expan>ἀμφοτέρωθεν</expan>
+                                        </choice></q> ἡ Μασσαλιωτικη <q><choice><abbr>ἀμφοτέρωθ</abbr><expan>ἀμφοτέρωθεν</expan></choice>
+                                    ἐπίπνυον αμφις αρωγοι</q> ⁑ </p>
                             </div>
                         </div>
                         <!--
