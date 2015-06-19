@@ -3021,37 +3021,82 @@
 
                     <div n="163" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>σελήνην τε πλήθουσαν: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.484</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὴν οἶον πεπληρωμενην καὶ ἐγκύμονα τοῦ ηλιακοῦ φωτὸς λέγει δὲ τῆν
+                                παρά σεληνον· εἴρηται δὲ σελήνη οἶον εἰ σελας νέον. ⁑</p>
                         </div>
                     </div>
 
                     <div n="164" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><rs type="astro" n="urn:cite:hmt:astro.3">Πληϊάδας</rs> θ': </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.486</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἑπτὰ ἀστέρες κείμενοι ἐπι τῇ ουραων τοῦ <rs type="astro"
+                                    n="urn:cite:hmt:astro.6">Τάρου</rs> μᾶλλον δὲ ἐπι τοῦ
+                                χοτομήματος αὐτοῦ. ὁ γὰρ <rs type="astro" n="urn:cite:hmt:astro.6"
+                                    >Τᾶυρος</rs> σῶος οὐκ ανηστέρισται ἀλλ' ἕως τῶν ἰσχίων αὖται δε
+                                εἰσιν <persName n="urn:cite:hmt:pers.pers462">Ἄτλαντος</persName>
+                                καὶ <persName n="urn:cite:hmt:pers.pers1002">Πληϊόνης</persName>
+                                θυγατέρες ὧν τὰ ονόματα· <persName n="urn:cite:hmt:pers.pers461"
+                                    >Μαία</persName>· <persName n="urn:cite:hmt:pers.pers1003"
+                                    >Ταυγετη</persName>· <persName n="urn:cite:hmt:pers.pers1004"
+                                    >Κελαινώ</persName>· <persName n="urn:cite:hmt:pers.pers1005"
+                                    >Μηρώπη</persName>
+                                <persName n="urn:cite:hmt:pers.pers1006">Ηλέκτρα</persName>
+                                <persName n="urn:cite:hmt:pers.pers1007">Στεροπή</persName>·
+                                    <persName n="urn:cite:hmt:pers.pers1008"> Ἀλκυόνη</persName>·
+                                    <persName n="urn:cite:hmt:pers.pers462">Ἄτλας</persName> δὲ εἷς
+                                τῶν Γιγάντων μιγεῖς <persName n="urn:cite:hmt:pers.pers1002"
+                                    >Πληϊόνη</persName>· τῆ <persName n="urn:cite:hmt:pers.pers123"
+                                    >Ωκεανου</persName> ἔσχεν θυγατέρας <num value="7">ζ</num>· αἳ
+                                τὴν <choice>
+                                    <abbr>παρθνειαν</abbr>
+                                    <expan>παρθενεαίν</expan>
+                                </choice> ἀγαπήσασαι συνεκυνήγουν τῇ <persName
+                                    n="urn:cite:hmt:pers.pers39">Ἀρτέμιδι</persName> θεασάμενος δε
+                                    <persName n="urn:cite:hmt:pers.pers1009">Ωρίων</persName> ἠράσθη
+                                καὶ ἐδίωκε μιγὴναι βουλόμενος· αἱ δὲ <choice>
+                                    <abbr>πεκατληπτοι</abbr>
+                                    <expan>περικατάληπτοι</expan>
+                                </choice> γενόμεναι θεοῖς ήυξαντο μεταβαλεῖν φυσιν· <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ ἐλεησας αὐτας καὶ
+                                δια τῶν ἄρκτων κατηστέρισεν· ὠνομάσθησαν δὲ Πληϊάδες <persName
+                                    n="urn:cite:hmt:pers.pers1002">Πληϊονης</persName> τῆς <choice>
+                                    <abbr>μρς</abbr>
+                                    <expan>μητρός</expan>
+                                </choice> αὐτῶν· φασὶ δὲ <persName n="urn:cite:hmt:pers.pers1006"
+                                    >Ἡλέκτραν</persName> βουλόμενην τὴν <placeName
+                                    n="urn:cite:hmt:place.place6">Ἰλιου</placeName> πόρθησιν
+                                θεάσασθαι δια τὸ κτήσμα τῶν ἀπογόνων καταλιπεῖν <choice>
+                                    <sic>τῶν</sic>
+                                    <corr>τὸν</corr>
+                                </choice> τόπων οὗ κατηστέριστο. δι ὅπερ οὔσας πρότερον ἑπτὰ
+                                γενεσθαι ἓξ ἡ ϊστορία παρα τοῖς Κυκλικοῖς ⁑ </p>
                         </div>
                     </div>
 
                     <div n="165" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><rs type="astro" n="urn:cite:hmt:astro.4">Ὑάδας</rs> τε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.486</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οἱ επι τῶν κεράτων τοῦ <rs type="astro" n="urn:cite:hmt:astro.6"
+                                    >Ταύρου</rs> ἑπτὰ ἀστερες κείμενοι· καλοῦνται δὲ <rs
+                                    type="astro" n="urn:cite:hmt:astro.4">Ὑάδες</rs> ἥτοι δια τὴν
+                                προς τὸ <rs type="waw">Υ</rs> στοιχεῖον ὁμοιότητα ἢ ἐπειδὴ αἴτιοι
+                                όμβρων καὶ ὑετῶν καθ ἵστανται ⁑ </p>
                         </div>
                     </div>
 
@@ -3063,7 +3108,32 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.486</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐκ τοῦ μηροῦ
+                                γεννηθέντα <persName n="urn:cite:hmt:pers.pers59"
+                                    >Διόνυσον</persName> ταῖς Δωδωνίσι νύμφαις τρέφειν έδωκεν.
+                                    <persName n="urn:cite:hmt:pers.pers1010">Ἀμβροσία</persName>
+                                <persName n="urn:cite:hmt:pers.pers1011">Κορωνίδῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1012">Εὐδωρῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1013">Διώνῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1014">Αἰσύλῃ</persName>
+                                <persName n="urn:cite:hmt:pers.pers1015">Πολυξοῖ</persName> αὕται
+                                θρέψασαι τὸν <persName n="urn:cite:hmt:pers.pers59"
+                                    >Διόνυσον</persName> περίεσαν συν αυτῳ τὴν ευρεθεῖσα ἄμπελον ὑπο
+                                τοῦ <choice>
+                                    <abbr>θυ</abbr>
+                                    <expan>θεοῦ</expan>
+                                </choice> τοῖς <choice>
+                                    <abbr>ἀνοις</abbr>
+                                    <expan>ἀνθρώποις</expan>
+                                </choice> χαριζόμεναι· <persName n="urn:cite:hmt:pers.pers718"
+                                    >Λυκοῦργος</persName> δὲ μέχρι τῆς θαλασσης συνεδίωξε τὸν
+                                    <persName n="urn:cite:hmt:pers.pers59">Διόνυσον</persName>
+                                ἐκεινας δὲ ὁ <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
+                                ἐλεήσας καρηστέρισαν· ἡ ἱστορία παρα <persName
+                                    n="urn:cite:hmt:pers.pers255"><choice>
+                                        <abbr>Φερεκυδ</abbr>
+                                        <expan>Φερεκύδει</expan>
+                                    </choice></persName> ⁑</p>
                         </div>
                     </div>
 
