@@ -3404,17 +3404,19 @@
 
                     <div n="172" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἥ τ' αὐτοῦ <abbr>στρεφετ</abbr><expan>στρέφεται</expan>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.489</p>
                         </div>
                         <div type="comment">
-                            <p>ἥ τ' αὐτοῦ στρεφετ//στρέφεται: ἥτις περι τὸν ἀρκτικὸν καὶ ἀεὶ φανερὸν
-                                καλουμενον κύκλον ήτοι πώλον στρέφεται καὶ ἐπιτηρεῖ τὸν 1Ωρίωνα
-                                νεύουσα εἰς αυτὸν ὡς κυνηγέτην· βλέπει γὰρ ἡ μεγάλη 5ἄρκτος προς τὸ
-                                τοῦ 1Ωρίωνος ἄστρον· 9πολοι δὲ καλοῦνται τὰ άκρα τοῦ αξωνος περι ἃ
-                                ἀποτελεῖται καὶ στρέφεται ὁ κόσμος ⁑</p>
+                            <p>ἥτις περι τὸν ἀρκτικὸν καὶ ἀεὶ φανερὸν καλουμενον κύκλον ήτοι πώλον
+                                στρέφεται καὶ ἐπιτηρεῖ τὸν <rs type="astro" n="urn:cite:hmt:asto.1"
+                                    >Ωρίωνα</rs> νεύουσα εἰς αυτὸν ὡς κυνηγέτην· βλέπει γὰρ ἡ μεγάλη
+                                    <rs type="astro" n="urn:cite:hmt:asto.5">ἄρκτος</rs> προς τὸ τοῦ
+                                    <rs type="astro" n="urn:cite:hmt:asto.1">Ωρίωνος</rs> ἄστρον·
+                                    <rs type="astro" n="urn:cite:hmt:asto.9">πολοι</rs> δὲ καλοῦνται
+                                τὰ άκρα τοῦ αξωνος περι ἃ ἀποτελεῖται καὶ στρέφεται ὁ κόσμος ⁑</p>
                         </div>
                     </div>
                     <div n="173" type="scholion">
@@ -3425,14 +3427,27 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.490</p>
                         </div>
                         <div type="comment">
-                            <p>οἴη δ' ἄμμορός εστ//ἐστι, ἀντι τοῦ μόνη οὐ δύνει εἰς τὸν 123Ωκεανόν.
-                                5+10αἱ γὰρ άρκτοι οὐ δύνουσιν οὖσαι ἐν τῷ ἀειφανερῷ αἵ εισιν
-                                ἀμφότεραι τοῦ ἁπαντων καλουμένου 9πόλου ἀρκτικαί· μόνη οὖν δῆλον ὅτι
-                                τῶν κατηστερισμένων ἄμοιρος ἐστι τῶν 123Ωκεανου ρείθρων. καὶ οὐ
+                            <p>οἴη δ' ἄμμορός <choice>
+                                    <abbr>εστ</abbr>
+                                    <expan>ἐστι</expan>
+                                </choice>, ἀντι τοῦ μόνη οὐ δύνει εἰς τὸν <persName
+                                    n="urn:cite:hmt:pers.pers123">Ωκεανόν</persName>. αἱ γὰρ <rs
+                                    type="astro" n="urn:cite:hmt:asto.10"><rs type="astro"
+                                        n="urn:cite:hmt:asto.5">άρκτοι</rs></rs> οὐ δύνουσιν οὖσαι
+                                ἐν τῷ ἀειφανερῷ αἵ εισιν ἀμφότεραι τοῦ ἁπαντων καλουμένου <rs
+                                    type="astro" n="urn:cite:hmt:asto.9">πόλου</rs> ἀρκτικαί· μόνη
+                                οὖν δῆλον ὅτι τῶν κατηστερισμένων ἄμοιρος ἐστι τῶν <persName
+                                    n="urn:cite:hmt:pers.pers123">Ωκεανου</persName> ρείθρων. καὶ οὐ
                                 καταδύεται ἐπεί τοι καὶ ἄλλα τινα. ἀειφανῆ ὅσα ὁ αρκτικος
-                                ἀποτέμνεται κυκλος. ἔστι δὲ ἥ τε 10Κυνόσουρα καλουμένη ἡ 10ἄρκτος
-                                καὶ ὁ δι αμφοτερων τῶν 5+10ἄρκτων 11δράκων καὶ ἡ χεὶρ τοῦ 12Βοώτου·
-                                μέχρη τὲ τοῦ 13SICΚιφεως τὰ ἀπο ϊξύως ἕως ποδῶν ⁑</p>
+                                ἀποτέμνεται κυκλος. ἔστι δὲ ἥ τε <rs type="astro"
+                                    n="urn:cite:hmt:asto.10">Κυνόσουρα</rs> καλουμένη ἡ <rs
+                                    type="astro" n="urn:cite:hmt:asto.10">ἄρκτος</rs> καὶ ὁ δι
+                                αμφοτερων τῶν <rs type="astro" n="urn:cite:hmt:asto.10"><rs
+                                        type="astro" n="urn:cite:hmt:asto.5">ἄρκτων</rs></rs>
+                                <rs type="astro" n="urn:cite:hmt:asto.11">δράκων</rs> καὶ ἡ χεὶρ τοῦ
+                                    <rs type="astro" n="urn:cite:hmt:asto.12">Βοώτου</rs>· μέχρη τὲ
+                                τοῦ <rs type="astro" n="urn:cite:hmt:asto.13"><sic>Κιφεως</sic></rs>
+                                τὰ ἀπο ϊξύως ἕως ποδῶν ⁑</p>
                         </div>
                     </div>
 
@@ -3444,31 +3459,89 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.490</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν δε δύω ποίησε πο/πόλεις· τινὲς δὲ εἰσιν αἱ δύο πόλεις· Ἀγαλλιας ὁ
-                                Κερκυραιος. Ἀριστοφάνει γνώριμος εῖπεν τὰς δύο πο//πόλεις, εῖναι
-                                Ἀθηνας καὶ Ἐλευσῖνα κατσκευάζων/κατασκευάζων οὕτως · τὴν μὲν
-                                προτέραν ἐπει κατ/κατὰ γένεσιν τοῦ κόσμου πρωτ//πρώτη πόλις αἱ
-                                Αθηναι κατ/κατὰ δε τὴν φυσιν τῶν στοιχειων ὁ θς//θεὸς τὴν πο//πόλιν
-                                τειχοποιεῖ ἐπιφέρει δὲ γάμους καὶ ὑμεναίους ἐν Αθήναις ταυτα γὰρ
-                                πρωτον ἤχθη. αὐλούς τε ἐν τοῖς γάμοις, εὗρεν Ἀθηνᾶ δίκην τε ἐν τῆ
-                                πο//πόλει. παρα γὰρ Ἀθηναίοις πρώτον ἐγένετο δικαστηριον ἐπι
-                                Αλιρροθίω τὸ Ποσειδῶν<unclear>ος</unclear>· οἱ δὲ
-                                    <unclear>δ</unclear>ικασταὶ Ἀθήνῃσι μισθὸν λαμβάνουσι καὶ δια
-                                τουτ//τοῦτο λέγει κεῖσθαι ἐν μέσῳ χρυσοῦ δύο τάλαντα· τὴν δὲ ἑτέραν
-                                πο/πόλιν οῦσαν τὴν Ἐλευσινα πτόλεμον δὲ ἔσχον Ἀθηναῖοι πρὸς
-                                Ἐλευσῖνας ὃν αὐτοῖς ἐπολέμησεν Εὔμολπος ὁ Ποσειδῶνος βοηθοί τε αὐτῆς
-                                εἰσὶν Ἄρης τε καὶ Ἀθηνᾶ. ὁ μὲν γὰρ χάρεις ἀποδιδοὺς ὅτι ἀπελύθη
-                                κριθεὶς ἐν //Αρείῳ πάγῳ//· ἡ δὲ ὅτι τῆς πο//πόλεως ὡς οικειας
-                                ἐκήδετο καὶ τὰ ἐπαγόμενα δὲ ἴδια Ἐλευσῖνος ευρία τριπολος ἐπεί περ
-                                Ἐλευσῖνι πρῶτον καρποὺς δη μήτηρ ἔδωκεν. ἡ δὲ σταφυλῇσι μέγα
-                                βρίθουσαν ἀλῳην ἐπι //Ϊκὰριῳ καὶ Διονύσῳ πορεία· ὁ δὲ ποικιλλόμενος
-                                χωρὸς Ἀριάδνης καὶ Θησέως ἕχει πραξεις ΐδιος δὲ καὶ ὁ τεχνίτης τῶν
-                                Αθηνῶν Ἥφαιστος. Ἐριχθωνιῳ γὰρ τῷ υἱῷ χαριζόμενος βασιλεύοντι τῶν
-                                Ἀθηνῶν τὴν τοι αύτων κατασκευὴν παρεις ήγαγε τὸν Ἀρειον παγον
-                                ἑρμηνεύει τὸν ϊερὸν κύκλον οἱ δὲ δικασταὶ Ἀθηνων· δια ποίαν δὲ
-                                αιτιαν μονος ὁ Ὠκεανὸς ποταμὸς οὐ πάρεστι τῇ ἐκκλησιᾳ τῶν θεῶν·
-                                ἑητεον δὲ ὅτι ἐπεὶ συνεκτικὸν ἔχει τὸ τοῦ κόσμου ῥεῦμα· φησὶ γὰρ
-                                Ὠκεανὸς ᾧ πάσα περίρρυτ//περίρρυτος ἐνδέδεται χθών ⁑ </p>
+                            <p>ἐν δε δύω ποίησε <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλεις</expan>
+                                </choice>· τινὲς δὲ εἰσιν αἱ δύο πόλεις· <persName
+                                    n="urn:cite:hmt:pers.pers1023">Ἀγαλλιας</persName> ὁ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place441">Κερκυραιος</rs>.
+                                    <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνει</persName>
+                                γνώριμος εῖπεν τὰς δύο <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλεις</expan>
+                                </choice>, εῖναι <placeName n="urn:cite:hmt:place.place1"
+                                    >Ἀθηνας</placeName> καὶ <placeName
+                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνα</placeName>
+                                <choice>
+                                    <abbr>κατσκευάζων</abbr>
+                                    <expan>κατασκευάζων</expan>
+                                </choice> οὕτως · τὴν μὲν προτέραν ἐπει <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> γένεσιν τοῦ κόσμου <choice>
+                                    <abbr>πρωτ</abbr>
+                                    <expan>πρώτη</expan>
+                                </choice> πόλις αἱ <placeName n="urn:cite:hmt:place.place1"
+                                    >Αθηναι</placeName> κατ/κατὰ δε τὴν φυσιν τῶν στοιχειων ὁ <choice>
+                                    <abbr>θς</abbr>
+                                    <expan>θεὸς</expan>
+                                </choice> τὴν <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλιν</expan>
+                                </choice> τειχοποιεῖ ἐπιφέρει δὲ γάμους καὶ ὑμεναίους ἐν <placeName
+                                    n="urn:cite:hmt:place.place1">Αθήναις</placeName> ταυτα γὰρ
+                                πρωτον ἤχθη. αὐλούς τε ἐν τοῖς γάμοις, εὗρεν <placeName
+                                    n="urn:cite:hmt:place.place1">Ἀθηνᾶ</placeName> δίκην τε ἐν τῆ <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλει</expan>
+                                </choice>. παρα γὰρ <rs type="ethnic" n="urn:cite:hmt:place.place1"
+                                    >Ἀθηναίοις</rs> πρώτον ἐγένετο δικαστηριον ἐπι <persName
+                                    n="urn:cite:hmt:pers.pers1024">Αλιρροθίω</persName> τὸ <persName
+                                    n="urn:cite:hmt:pers.pers47"
+                                        ><w>Ποσειδῶν<unclear>ος</unclear></w></persName>· οἱ δὲ
+                                        <w><unclear>δ</unclear>ικασταὶ</w>
+                                <placeName n="urn:cite:hmt:place.place1">Ἀθήνῃσι</placeName> μισθὸν
+                                λαμβάνουσι καὶ δια <choice>
+                                    <abbr>τουτ</abbr>
+                                    <expan>τοῦτο</expan>
+                                </choice> λέγει κεῖσθαι ἐν μέσῳ χρυσοῦ δύο τάλαντα· τὴν δὲ ἑτέραν
+                                πο/πόλιν οῦσαν τὴν <placeName n="urn:cite:hmt:place.place283"
+                                    >Ἐλευσινα</placeName> πτόλεμον δὲ ἔσχον <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place1">Ἀθηναῖοι</rs> πρὸς <placeName
+                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνας</placeName> ὃν αὐτοῖς
+                                ἐπολέμησεν <persName n="urn:cite:hmt:pers.pers628"
+                                    >Εὔμολπος</persName> ὁ <persName n="urn:cite:hmt:pers.pers47"
+                                    >Ποσειδῶνος</persName> βοηθοί τε αὐτῆς εἰσὶν <persName
+                                    n="urn:cite:hmt:pers.pers83">Ἄρης</persName> τε καὶ <persName
+                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName>. ὁ μὲν γὰρ χάρεις
+                                ἀποδιδοὺς ὅτι ἀπελύθη κριθεὶς ἐν Αρείῳ πάγῳ· ἡ δὲ ὅτι τῆς <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλεως</expan>
+                                </choice> ὡς οικειας ἐκήδετο καὶ τὰ ἐπαγόμενα δὲ ἴδια <placeName
+                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνος</placeName> ευρία
+                                τριπολος ἐπεί περ <rs type="ethni" n="urn:cite:hmt:place.place283"
+                                    >Ἐλευσῖνι</rs> πρῶτον καρποὺς δη μήτηρ ἔδωκεν. ἡ δὲ σταφυλῇσι
+                                μέγα βρίθουσαν ἀλῳην ἐπι <placeName n="urn:cite:hmt:place.place271"
+                                    >Ϊκὰριῳ</placeName> καὶ <persName n="urn:cite:hmt:pers.pers59"
+                                    >Διονύσῳ</persName> πορεία· ὁ δὲ ποικιλλόμενος χωρὸς <persName
+                                    n="urn:cite:hmt:pers.pers933">Ἀριάδνης</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers280">Θησέως</persName> ἕχει πραξεις
+                                ΐδιος δὲ καὶ ὁ τεχνίτης τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place1">Αθηνῶν</rs>
+                                <persName n="urn:cite:hmt:pers.pers192">Ἥφαιστος</persName>.
+                                    <persName n="urn:cite:hmt:pers.pers11">Ἐριχθωνιῳ</persName> γὰρ
+                                τῷ υἱῷ χαριζόμενος βασιλεύοντι τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place1">Ἀθηνῶν</rs> τὴν τοι αύτων
+                                κατασκευὴν παρεις ήγαγε τὸν Ἀρειον παγον ἑρμηνεύει τὸν ϊερὸν κύκλον
+                                οἱ δὲ δικασταὶ <rs type="ethnic" n="urn:cite:hmt:place.place1"
+                                    >Ἀθηνων</rs>· δια ποίαν δὲ αιτιαν μονος ὁ <persName
+                                    n="urn:cite:hmt:pers.pers123">Ὠκεανὸς</persName> ποταμὸς οὐ
+                                πάρεστι τῇ ἐκκλησιᾳ τῶν θεῶν· ἑητεον δὲ ὅτι ἐπεὶ συνεκτικὸν ἔχει τὸ
+                                τοῦ κόσμου ῥεῦμα· φησὶ γὰρ <persName n="urn:cite:hmt:pers.pers123"
+                                    >Ὠκεανὸς</persName> ᾧ πάσα <choice>
+                                    <abbr>περίρρυτ</abbr>
+                                    <expan>περίρρυτος</expan>
+                                </choice> ἐνδέδεται χθών ⁑ </p>
                         </div>
                     </div>
                     <div n="175" type="scholion">
@@ -3639,9 +3712,9 @@
                     <div n="185" type="scholion">
                         <div type="lemma">
                             <p>τεῖχος μέν ρ’ ἄλοχοι τε φίλαι καὶ <choice>
-                                <abbr>νηπ</abbr>
-                                <expan>νήπια</expan>
-                            </choice> τέκνα ῥύατ' ἐφεσταῶτος·</p>
+                                    <abbr>νηπ</abbr>
+                                    <expan>νήπια</expan>
+                                </choice> τέκνα ῥύατ' ἐφεσταῶτος·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.514-18.515</p>
@@ -3680,16 +3753,16 @@
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:10.513-10.514</ref>
                                     <q>ἔνθα μὲν εἰς <placeName n="urn:cite:hmt:place.place94"
-                                        >Αχέροντα</placeName>
+                                            >Αχέροντα</placeName>
                                         <placeName n="urn:cite:hmt:place.place"
                                             >Πυρὶφλεγέθον</placeName> τε ῥέουσι <placeName
-                                                n="urn:cite:hmt:place.place279">Κωκυτός</placeName> θ
+                                            n="urn:cite:hmt:place.place279">Κωκυτός</placeName> θ
                                     </q>
                                 </cit>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.138</ref>
                                     <q>η δέ κ' <persName n="urn:cite:hmt:pers.pers83"
-                                        >Ἄρης</persName> ἄρχωσι μάχης</q>
+                                            >Ἄρης</persName> ἄρχωσι μάχης</q>
                                 </cit>· <choice>
                                     <abbr>διαφε</abbr>
                                     <expan>διαφέρει</expan>
@@ -3719,7 +3792,7 @@
                         </div>
                         <div type="comment">
                             <p>προπαροξυτονητεον πρόδηλον κακ τοῦ παρακειμένου οὐδετέρου <q>οὐδεν
-                                όλιζον ἑξομαι</q> εἴγε ὁμοτονεῖ τοῖς ουδετέροις ἀεὶ τὰ ἀρσενικὰ <choice>
+                                    όλιζον ἑξομαι</q> εἴγε ὁμοτονεῖ τοῖς ουδετέροις ἀεὶ τὰ ἀρσενικὰ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
                                 </choice> τὸ τελος <choice>
@@ -3727,12 +3800,12 @@
                                     <expan>κατὰ</expan>
                                 </choice> τὴν ἡμετέραν διάλεκτον ενὸς ἀντικειμένου τοῦ <rs
                                     type="waw">εν</rs> δια τὸ μὴ δύνασθαι <choice>
-                                        <abbr>περισπωμε</abbr>
-                                        <expan>περισπωμένην</expan>
-                                    </choice> ἐπι βραχείας εῖναι τὰ δὲ παραδείγματα ἄφθονα ἐπι πάσης <choice>
-                                        <abbr>κτλήξεως</abbr>
-                                        <expan>καταλήξεως</expan>
-                                    </choice> εχούσης παρασχηματισμὸν οὐδετέρου <q>μέλας</q>
+                                    <abbr>περισπωμε</abbr>
+                                    <expan>περισπωμένην</expan>
+                                </choice> ἐπι βραχείας εῖναι τὰ δὲ παραδείγματα ἄφθονα ἐπι πάσης <choice>
+                                    <abbr>κτλήξεως</abbr>
+                                    <expan>καταλήξεως</expan>
+                                </choice> εχούσης παρασχηματισμὸν οὐδετέρου <q>μέλας</q>
                                 <q>μέλαν</q>
                                 <q>τάλας</q>
                                 <q>τάλαν</q>
@@ -3758,7 +3831,7 @@
                                 δύο <rs type="waw">σσ</rs>
                                 <q>ὀλίσσων</q> τὰ δε δύο <rs type="waw">σσ</rs> μετέπεσεν εἰς τὸ καὶ
                                 ἀπετελέσθη τὸ <q>ὀλίζον</q> οὗτως οὖν ἐσσχηματίσαμεν καὶ τὸ
-                                <q>μεῖζον</q> λέγω δὲ <choice>
+                                    <q>μεῖζον</q> λέγω δὲ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
                                 </choice> τὴν αὐτὴν τροπὴν τῶν στοιχείων ⁑</p>
