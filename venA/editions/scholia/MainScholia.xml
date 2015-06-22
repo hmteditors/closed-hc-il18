@@ -3253,7 +3253,8 @@
                                 διδύμοις. δύσις δὲ ἑώα <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> τὸν διάμετρον ἠλιου ὄντος σκορπιῳ· <rs type="astro"
+                                </choice> τὸν διάμετρον ἠλιου ὄντος <rs type="astro"
+                                    n="urn:cite:hmt:astro.8">Σκορπιῳ</rs>· <rs type="astro"
                                     n="urn:cite:hmt:astro.6">Ταύρου</rs> δὲ ὄντος ἡλιῳ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
@@ -3271,13 +3272,41 @@
 
                     <div n="168" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τό τε σθενος <rs type="astro" n="urn:cite:hmt:astro.1"
+                                >Ὠρίωνος</rs>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.486</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>περιφραστικῶς τὸν <rs type="astro" n="urn:cite:hmt:astro.1"
+                                    >Ωρίωνα</rs>, ὁ δε <rs type="astro" n="urn:cite:hmt:astro.1"
+                                    >Ωρίων</rs> ἐστι ἄστρον μέγιστον ἐν τῷ <choice>
+                                    <abbr>οὐνω</abbr>
+                                    <expan>οὐρανῷ</expan>
+                                </choice> κατηστερισμενον οὕτως <persName
+                                    n="urn:cite:hmt:pers.pers8">Διὸς</persName>
+                                <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers104">Ἑρμοῦ</persName> παῖς.
+                                    <persName n="urn:cite:hmt:pers.pers347">Ὑριεὺς</persName> ὁ
+                                    <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers1008">Ἀλκυόνης</persName>
+                                μιας τῶν <persName n="urn:cite:hmt:pers.pers465">Ἄτλαντος</persName>
+                                θυγατέρων ῴκει μὲν ἐν <placeName n="urn:cite:hmt:place.place135"
+                                    >Τανάγρᾳ</placeName> τῆς <placeName
+                                    n="urn:cite:hmt:place.place30">Βοιωτιας</placeName>
+                                φιλοξενώτατος δὲ γενώμενος ὑπεδέξατο ποτὲ καὶ θεούς· <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> γὰρ καὶ
+                                Ποσειδῶν καὶ Ἑρμης ἐπι ξενωθεντες αὐτῷ καὶ τὴν φιλοφροσύνην
+                                ἀποδεξάμενοι παρῄνεσαν αἰτεῖν ὅτι ἂν βούλοιτο· ὁ δὲ ἄτεκνος ὠν
+                                ἠτήσατο παῖδα· λαβοντες οὖν οἱ θεοὶ τὴν τοῦ ἰερουργηθέντος αὐτοῖς
+                                βοὸς βύρσαν ἀπεσπέρμεναν εἰς αυτὴν καὶ ἐκέλευσαν κρῦψαι καταγῆν καὶ
+                                μετα δέκα μήνας ἀνελέσθαι. ὧν διελθόντων ἐγένετο ὁ ουρίων ουτ//οὕτως
+                                ὀνομασθεὶς δια τὸ οὐρῆσαι ὥσπερ τοὺς θ εοὺς ἔπειτα κατευφημι σμον
+                                Ὠρίων συγκονηγετών δὲ οὗτος Ἀρτέμιδι ἐπεχείρισεν αὐτὴν μιασασθαι·
+                                ὀργισθεὶ συν δὲ ἡ θεὸς ἄνεδωκεν ἐκ τῆς γῆς σκορπιον. ὃς αὐτὸν πλήξας
+                                κατ//κατὰ τὸ ναστράγαλον ἀπεκτεινε. Ζεὺς δὲ συμπαθησας κατηστέρισεν
+                                αὐτὸν διὸ τοῦ σκορπιου ἀνατέλλοντος Ὠρίων δυνει ἡ ϊστορία παρὰ ἡ
+                                ϊστορία παρὰ Εὐφορίωνι (fr. 101 pow.). ⁑ </p>
                         </div>
                     </div>
 
