@@ -3374,7 +3374,7 @@
                         </div>
                     </div>
 
-                    <div n="171" type="scholion">
+                    <div n="171a" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -3399,7 +3399,7 @@
                         </div>
                     </div>
 
-                    <div n="172" type="scholion">
+                    <div n="171" type="scholion">
                         <div type="lemma">
                             <p>ἥ τ' αὐτοῦ <abbr>στρεφετ</abbr><expan>στρέφεται</expan>:</p>
                         </div>
@@ -3416,7 +3416,7 @@
                                 τὰ άκρα τοῦ αξωνος περι ἃ ἀποτελεῖται καὶ στρέφεται ὁ κόσμος ⁑</p>
                         </div>
                     </div>
-                    <div n="173" type="scholion">
+                    <div n="172" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -3448,7 +3448,7 @@
                         </div>
                     </div>
 
-                    <div n="174" type="scholion">
+                    <div n="173" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -3541,6 +3541,19 @@
                                 </choice> ἐνδέδεται χθών ⁑ </p>
                         </div>
                     </div>
+                    
+                    <div n="174" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
                     <div n="175" type="scholion">
                         <div type="lemma">
                             <p>πολὺς δ' ὑμέναιος, </p>
