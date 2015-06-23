@@ -3839,24 +3839,39 @@
                     </div>
                     <div n="189" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>αρδμος:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.521</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εκτατέον τὴν πρώτην συλλαβὴν τοῦ <q>ἀρδμός</q>· ἐπεὶ καὶ τὸ
+                                    <q>ἄρδω</q> ἔχει ἐκτεινόμενον τὸ <rs type="waw">α</rs>
+                                <q>τὸν νοῦν ἵν' <q>ἄρδω</q> καὶ λέγω τί δεξιὸν</q>· οὐχ ὅσα μέντοι
+                                ἐν ρήμασιν ἔκτασιν ἔχει καὶ ἐν ονόμασιν παρα γὰρ τὸ <q>άσσω</q> καὶ
+                                    <q>κατάσσω</q> καὶ μέλλοντα τὸν <q>άξω</q> και προστακτικὸν τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.306</ref>
+                                    <q><q>ἄξον</q> δη ἔγχος <persName n="urn:cite:hmt:pers.pers215"
+                                            >Διομήδεος</persName></q>
+                                </cit> ἡ ἀξίνη <choice>
+                                    <abbr>συστελλε</abbr>
+                                    <expan>συστέλλει</expan>
+                                </choice> τὸ <rs type="waw">α</rs>, παρά τε τὸ <q>ἀρῶ</q> καὶ
+                                    <q>ἀρῶμαι</q> εκτείνομεν ὄνομα <q><persName
+                                        n="urn:cite:hmt:pers.pers83">Ἀρήν</persName></q>·
+                                    <q>πισσοκονίας ἀρην</q>
+                                <persName n="urn:cite:hmt:pers.pers1025">Κρατῖνος</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="190" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>τερπόμενοι σύριγξι</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.526</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἤτοι ἐπεὶ ἀνύποπτον ῆν τὸ εν τῷ πολέμῳ λοχὰν ἠ καὶ δια τὴν τερψιν τῶν συρίγγων ⁑</p>
                         </div>
                     </div>
 
