@@ -4000,51 +4000,59 @@
                     </div>
                     <div n="199" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>βασιλεὺς δ' ἐν τοῖσι σιωπῇ:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.556</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p> ἐφαίνετο γὰρ τῷ προσώπῳ ἡδόμενος καὶ τοιαύτην ἔχων κατάστασιν ⁑</p>
                         </div>
                     </div>
                     <div n="200" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>δεῖπνον ἐρίθοισι: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.560</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>ὅτι δεῖπνον τὸ ὑφ ημῶν ἄριστον, καὶ ὅτι ἔριθος πᾶς ὁ μισθοῦ
+                                ἐργαζόμενος ⁑</p>
                         </div>
                     </div>
                     <div n="201" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἀταλὰ φρονέοντες:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.567</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p><q>τρυφερὰ</q>
+                                <q>νήπια</q>
+                                <q>πρᾶα</q> κατ επικράτησιν δὲ τοῦ ἄρρενος εἴρηκε φρονέοντες εἰπὼν
+                                καὶ οὐ φρονέουσαι: </p>
                         </div>
                     </div>
                     <div n="202" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἱμερόεν καθάριζε·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.570</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>παρα <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName>
+                                <q>λινὸς δ' ὑπο καλὸν ἄειδε</q> ὁ δε <persName
+                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> βούλεται μη
+                                τὴν χορδὴν λέγεσθαι ἀλλα γένος τι ὑμνου τὸν λίνον ὡσπερ ει ἔλεγεν
+                                παιᾶνα ᾖδεν ἤ τι τοιοῦτον διὸ ἡ διπλή ⁑</p>
                         </div>
                     </div>
                     <div n="203" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.570</p>
@@ -4055,7 +4063,7 @@
                     </div>
                     <div n="204" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.570</p>
@@ -4066,7 +4074,7 @@
                     </div>
                     <div n="205" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.576</p>
@@ -4077,7 +4085,7 @@
                     </div>
                     <div n="206" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.579</p>
