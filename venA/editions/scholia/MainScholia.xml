@@ -3897,93 +3897,108 @@
                     </div>
                     <div n="191" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>εἰράων προπάροιθε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.531</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p> ὅτι είρᾱς λέγει τὰς αγορὰς σχηματίζων ἀπο τοῦ ειρεῖν ὅ ἐστι λέγειν
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="192" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>δαφοινεόν·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.538</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>ὀξύνεται ἐπι γὰρ τῶν εἰσο̄ς ὀνομάτων ὁ πλεονασμὸς τοῦ <rs type="waw"
+                                    >ε</rs> φυλάσσει τὴν ἐπι τέλους ὀξεῖαν· <q>κενὸς</q>
+                                <q>κενεός</q>
+                                <q>ἀδελφὸς</q>
+                                <q>ἀδελφεός</q> ⁑</p>
                         </div>
                     </div>
                     <div n="193" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>νεκρούς τ' ἀλλήλων: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.540</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>ὅτι ἐπι τῶν τοιούτων τόπων οἱ γλωσσογράφοι <q>νεκροὺς</q> τοὺς νέους
+                                ὑπέλαβον λέγεσθαι ⁑</p>
                         </div>
                     </div>
                     <div n="194" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>νειόν:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.547</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>τὴν λεγομένην νεατὸν ὅ ἐστιν ὅ εστιν ἡροτριασμένην ἁπαλὴν καὶ
+                                διακεχυμένην· ὡς γὰρ νέα φαίνεται ἡ τοιαύτη ⁑</p>
                         </div>
                     </div>
                     <div n="195" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>τέλεον ϊκεσθαι:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.547</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>βαρυτόνως ὡς <q>μέτρον</q> ἐγένετο δὲ παρα τὸ τέλος ἐν ὑπερθέσει τοῦ
+                                    <rs type="waw">σ</rs> καὶ προσόδῳ τοῦ <rs type="waw">ν</rs>
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="196" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἣ δε μελαίνετ' ὄπισθεν·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.548</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>κατα γὰρ τὴν διαβολὴν τῶν βώλων μελανοῦται ἡ γῆ σκιὰν οὖν εἰκὸς
+                                ἐγκεῖσθαι τῷ χρυσῷ ⁑</p>
                         </div>
                     </div>
                     <div n="197" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἐν δ' ετίθει τέμενος:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.550</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>ὅτι τὸν ἀποτετμημενον τόπον <q>τεμέρος</q> λέγει ⁑</p>
                         </div>
                     </div>
                     <div n="198" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἔριθοι:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.550</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>νῦν <choice>
+                                    <sic>ἐργὰται</sic>
+                                    <corr>ἐργάται</corr>
+                                </choice> γεωργοι, παρα τὴν έραν τὴν γῆν ἢ παρα τὸ ἐρίζειν ἐν τῷ
+                                έργω· ἔριθοι δὲ κυρίως οἱ εριουργοί, καταχρηστικῶς δὲ και οἱ μισθοῦ
+                                ἐργαζόμενοι ⁑</p>
                         </div>
                     </div>
-<!-- 
+                    <!-- 
                      <div n="" type="scholion">
                         <div type="lemma">
                             <p></p>
