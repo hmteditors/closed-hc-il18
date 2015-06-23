@@ -936,8 +936,10 @@
                                     <persName n="urn:cite:hmt:pers.pers16"><choice>
                                             <abbr>Ἀρίσταρχ</abbr>
                                             <expan>Ἀρίσταρχος</expan>
-                                        </choice></persName> <q>τέτυκτο</q> <rs type="ethnic"
-                                        n="urn:cite:hmt:place.place79">Ϊακῶς</rs> ⁑</p>
+                                        </choice></persName>
+                                    <q>τέτυκτο</q>
+                                    <rs type="ethnic" n="urn:cite:hmt:place.place79">Ϊακῶς</rs>
+                                    ⁑</p>
                             </div>
                         </div>
                         <div n="64" type="scholion">
@@ -959,7 +961,10 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.557</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                            <abbr>Ἀρισταρχ</abbr>
+                                            <expan>Ἀρίσταρχος</expan>
+                                        </choice></persName> εστήκει ⁑</p>
                             </div>
                         </div>
                         <div n="66" type="scholion">
@@ -970,7 +975,11 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.563</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                            <abbr>Ζηνοδ</abbr>
+                                            <expan>Ζηνόδοτος</expan>
+                                        </choice></persName>
+                                    <q>ἀργυρέοισιν</q> ⁑</p>
                             </div>
                         </div>
                         <div n="67" type="scholion">
@@ -981,18 +990,21 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.565</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><q>ἐς αυτήν</q> παρα <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                            <abbr>Ζηνοδ</abbr>
+                                            <expan>Ζηνοδότῳ</expan>
+                                        </choice></persName> καὶ ἔχει λογον ἡ γραφη ⁑</p>
                             </div>
                         </div>
                         <div n="68" type="scholion">
                             <div type="lemma">
-                                <p/>
+                                <p></p>
                             </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.567</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p>οἱ φέροντες τοὺς βότρυας </p>
                             </div>
                         </div>
                         <div n="69" type="scholion">
@@ -1003,7 +1015,7 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.579</p>
                             </div>
                             <div type="comment">
-                                <p/>
+                                <p><q>δύο πρωτησι</q> ἐν τῇ ἑτερα τῶν <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀριστάρχου</expan></choice></persName>:</p>
                             </div>
                         </div>
                         <!--

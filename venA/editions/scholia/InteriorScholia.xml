@@ -753,7 +753,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.557</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἕξω τοῦ <rs type="waw">ϊ</rs> τὸ <q>εστήκει</q> αἱ <persName
+                                    n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName> ⁑</p>
                         </div>
                     </div>
                     <div n="50" type="scholion">
@@ -761,10 +765,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.568</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.567-568</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q>ταλάροισι</q> καὶ <q>πλεκτοῖσι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="51" type="scholion">
@@ -775,7 +779,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.576</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐν ἄλλῳ <q>ραδαλὸν</q></p>
                         </div>
                     </div>
                     <!--
