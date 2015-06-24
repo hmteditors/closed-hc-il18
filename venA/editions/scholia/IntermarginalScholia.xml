@@ -1047,7 +1047,9 @@
                                 <p>παρο <persName n="urn:cite:hmt:pers.pers15"><choice>
                                             <abbr>Ζηνοδ</abbr>
                                             <expan>Ζηνοδότῳ</expan>
-                                        </choice></persName> <q><persName n="urn:cite:hmt:pers.pers933">Αριηδῃ</persName></q></p>
+                                        </choice></persName>
+                                    <q><persName n="urn:cite:hmt:pers.pers933"
+                                    >Αριηδῃ</persName></q></p>
                             </div>
                         </div>
                         <div n="72" type="scholion">
@@ -1080,7 +1082,13 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.603</p>
                             </div>
                             <div type="comment">
-                                <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> πρὸς τὸ <choice><abbr>σημαινομε</abbr><expan>σημαινόμενον</expan></choice> ἀπήντηκεν <q>ὅμιλος</q> τερπόμενοι ⁑</p>
+                                <p><choice>
+                                        <abbr>οτ</abbr>
+                                        <expan>ὅτι</expan>
+                                    </choice> πρὸς τὸ <choice>
+                                        <abbr>σημαινομε</abbr>
+                                        <expan>σημαινόμενον</expan>
+                                    </choice> ἀπήντηκεν <q>ὅμιλος</q> τερπόμενοι ⁑</p>
                             </div>
                         </div>
                         <div n="75" type="scholion">
@@ -1094,18 +1102,18 @@
                                 <p>οἱ μετα κυβιστησεως ορχούμενοι</p>
                             </div>
                         </div>
-                        
-                    <div n="76" type="scholion">
-                        <div type="lemma">
-                            <p/>
+
+                        <div n="76" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.613</p>
+                            </div>
+                            <div type="comment">
+                                <p>παρὰ τὸ τρυφερὸν τῆς ὕλης ⁑</p>
+                            </div>
                         </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.613</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
                         <!--
                     <div n="" type="scholion">
                         <div type="lemma">
