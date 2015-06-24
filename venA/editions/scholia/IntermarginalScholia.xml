@@ -998,7 +998,7 @@
                         </div>
                         <div n="68" type="scholion">
                             <div type="lemma">
-                                <p></p>
+                                <p/>
                             </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.567</p>
@@ -1015,7 +1015,77 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.579</p>
                             </div>
                             <div type="comment">
-                                <p><q>δύο πρωτησι</q> ἐν τῇ ἑτερα τῶν <persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀριστάρχου</expan></choice></persName>:</p>
+                                <p><q>δύο πρωτησι</q> ἐν τῇ ἑτερα τῶν <persName
+                                        n="urn:cite:hmt:pers.pers16"><choice>
+                                            <abbr>Ἀρισταρχ</abbr>
+                                            <expan>Ἀριστάρχου</expan>
+                                        </choice></persName>:</p>
+                            </div>
+                        </div>
+                        <div n="70" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.589</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
+                            </div>
+                        </div>
+                        <div n="71" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.592</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
+                            </div>
+                        </div>
+                        <div n="72" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.595</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
+                            </div>
+                        </div>
+                        <div n="73" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.601</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
+                            </div>
+                        </div>
+                        <div n="74" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.605</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
+                            </div>
+                        </div>
+                        <div n="75" type="scholion">
+                            <div type="lemma">
+                                <p/>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.605</p>
+                            </div>
+                            <div type="comment">
+                                <p/>
                             </div>
                         </div>
                         <!--
