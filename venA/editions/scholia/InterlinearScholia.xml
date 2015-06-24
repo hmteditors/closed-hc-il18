@@ -449,7 +449,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.597@στεφάνας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κόσμον γυναικας:</p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
@@ -460,7 +460,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.599@ἐπισταμένοισι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><q>ἐπιστημοσιν</q>:</p>
                         </div>
                     </div>
                     <div n="38" type="scholion">
@@ -471,7 +471,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.602@στίχας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>επ ευθείας·</p>
                         </div>
                     </div>
                     <!--
