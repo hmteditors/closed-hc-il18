@@ -4127,13 +4127,36 @@
                     </div>
                     <div n="207" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>‡ σταθμούς τε κλισίας τε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.589</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>τὰς κατ αγροὺς στάσεις τῶν θρεμμάτων <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:14.32</ref>
+                                    <q>ἐνθά κεν ᾧ παρα σταθμῶ</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.187</ref>
+                                    <q>ρυτῆρα γενέσθαι</q>
+                                </cit> καὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.96</ref>
+                                    <q>παρα σταθμὸν μεγάροιο</q>
+                                </cit>· κλισίας δὲ τὰς τῶν ποιμενων οικίας καὶ σηκοὺς ἔνθα κοιμῶνται
+                                τὰ θρέμματα·</p>
+                        </div>
+                    </div>
+                    <div n="207a" type="scholion">
+                        <div type="lemma">
+                            <p>τῶν δ' ἐμὲν λεπτὰς ὁθόνας:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.595</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁθωνας ἐνδυτηρίους τόπος παρα τὸ εσθος εσθόνη τίς οῦσα. ἡ διπλῆ δὲ
+                                ὅτι συνήθως προς τὸ δεύτερον πρότερον ἀπήντηκεν:</p>
                         </div>
                     </div>
                     <div n="208" type="scholion">
@@ -4226,7 +4249,7 @@
                     </div>
                     <div n="216" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.593</p>
