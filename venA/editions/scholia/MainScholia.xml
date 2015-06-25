@@ -1898,7 +1898,7 @@
                         </div>
                         <div type="comment">
                             <p>περὶ τὸν αὐτὸν τόπον ἀλώμενος καὶ οὐκ ανύων ὁδόν· ἄλλως δὲ μεθ'
-                                ἐλιγμοῦ ἐλαύνων καὶ τὴν δίωξιν ποιούμενος ἔγκειται δὲ καὶ τὸ ήλεον
+                               <sic> ἐλιγμοῦ</sic> ἐλαύνων καὶ τὴν δίωξιν ποιούμενος ἔγκειται δὲ καὶ τὸ <sic>ήλεον</sic>
                                 ὅπερ ἐστι ματαίως ἐλαύνων ⁑ </p>
                         </div>
                     </div>
@@ -3898,11 +3898,8 @@
                     </div>
                     <div n="191" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>εἰράων προπάροιθε:</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.531</p>
@@ -3914,11 +3911,8 @@
                     </div>
                     <div n="192" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>δαφοινεόν·</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.538</p>
@@ -3933,11 +3927,8 @@
                     </div>
                     <div n="193" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>νεκρούς τ' ἀλλήλων: </p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.540</p>
@@ -3949,11 +3940,8 @@
                     </div>
                     <div n="194" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>νειόν:</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.547</p>
@@ -3965,11 +3953,8 @@
                     </div>
                     <div n="195" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>τέλεον ϊκεσθαι:</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.547</p>
@@ -3982,11 +3967,8 @@
                     </div>
                     <div n="196" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>ἣ δε μελαίνετ' ὄπισθεν·</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.548</p>
@@ -3998,11 +3980,8 @@
                     </div>
                     <div n="197" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>ἐν δ' ετίθει τέμενος:</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.550</p>
@@ -4013,11 +3992,8 @@
                     </div>
                     <div n="198" type="scholion">
                         <div type="lemma">
-<<<<<<< HEAD
                             <p/>
-=======
                             <p>ἔριθοι:</p>
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.550</p>
@@ -4268,12 +4244,8 @@
                                 χωρὶς τοῦ <rs type="waw">ϊ</rs> ⁑</p>
                         </div>
                     </div>
-<<<<<<< HEAD
-                    <!-- 
                      <div n="" type="scholion">
-=======
                     <div n="212" type="scholion">
->>>>>>> e7e4e94a246dd7f5a4a73842fd263ca963fc363f
                         <div type="lemma">
                             <p>ἔγκατα καὶ μέλαν αἷμα:</p>
                         </div>
@@ -4498,7 +4470,7 @@
                                 </choice> ⁑</p>
                         </div>
                     </div>
-
+                     </div>
                 </body>
             </text>
         </group>
