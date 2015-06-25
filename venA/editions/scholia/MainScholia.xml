@@ -2237,7 +2237,7 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.108</ref>
                                     <q>παντί</q>
                                 </cit>
-                                <q>θιτί</q> οὕτως γὰρ καὶ ἐν τῇ <title>Ἰλιακῇ προσῳδίᾳ</title> ἐν τῇ
+                                <sic><q>θιτί</q></sic> οὕτως γὰρ καὶ ἐν τῇ <title>Ἰλιακῇ προσῳδίᾳ</title> ἐν τῇ
                                         <title><ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg001:23</ref>Ψ</title> λέγει ὅτι
                                 δεῖ ὀξύνειν κατα <w><add place="supralinear">τοῦ</add>τὸν</w> τὸν
@@ -2254,7 +2254,7 @@
                                 <choice>
                                     <abbr>μονοσύλλα</abbr>
                                     <expan>μονοσύλλαβα</expan>
-                                </choice> δια τοῦτος κλίνεσθαι, μεταπλασμὸς οὖν ἐστι τῆς <q>λιτῶ</q>
+                                </choice> δια <sic>τοῦτος</sic> κλίνεσθαι, μεταπλασμὸς οὖν ἐστι τῆς <q>λιτῶ</q>
                                 δοτικῆς ὡς ἡ κλαδί. τῆς κλαδῷ καὶ ἡ αιτιατικῇ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.441</ref>
                                     <q><choice>
