@@ -1079,7 +1079,7 @@
                                 <p/>
                             </div>
                             <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.603</p>
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.604_605</p>
                             </div>
                             <div type="comment">
                                 <p><choice>
@@ -1096,7 +1096,7 @@
                                 <p/>
                             </div>
                             <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.605</p>
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.604_605</p>
                             </div>
                             <div type="comment">
                                 <p>οἱ μετα κυβιστησεως ορχούμενοι</p>
@@ -1114,86 +1114,7 @@
                                 <p>παρὰ τὸ τρυφερὸν τῆς ὕλης ⁑</p>
                             </div>
                         </div>
-                        <!--
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.??</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    -->
-
+                        
                     </div>
                 </body>
             </text>

@@ -1149,25 +1149,25 @@
                             <p>τρὶς μέν μιν μετόπισθε</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.155</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.154-18.158</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
-                                γράφει οὕτως· „<persName n="urn:cite:hmt:pers.pers172"
+                                γράφει οὕτως· <q><persName n="urn:cite:hmt:pers.pers172"
                                     >Ἕκτωρ</persName> τὲ <persName n="urn:cite:hmt:pers.pers145"
-                                    >Πριάμοιο</persName> σὺῒ ΐκελος <choice>
+                                    >Πριάμοιο</persName> <sic>σὺῒ</sic> ΐκελος <choice>
                                     <sic>ἀλκὴν</sic>
                                     <corr>ἀλκήν</corr>
-                                </choice>, ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει ἐλκέμεναι
-                                μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει πῆξαι ἀνα σκολόπας οἳ τάμονθ'
-                                ἁπαλῆς ἀπο δειρῆς“ κακῶς οὐ γὰρ ὑπο τοῦ τὸν καιρὸν ὁ <persName
+                                </choice>, ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει <sic>ἐλκέμεναι</sic>
+                                μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει πῆξαι ἀνα σκόλοπας οἳ τάμονθ'
+                                ἁπαλῆς ἀπο δειρῆς</q> κακῶς οὐ γὰρ ὑπο τοῦ τὸν καιρὸν ὁ <persName
                                     n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> ελκύσαι τὸν
                                     <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>
                                 ἐβούλετο ἵνα αἰκίσηται ἀλλ' έμπροσθεν· ὅτε δὲ <persName
                                     n="urn:cite:hmt:pers.pers463">Γλαῦκος</persName> ὠνείδισεν τῷ
                                 προλελοιπότι τὸ σῶμα τοῦ <persName n="urn:cite:hmt:pers.pers195"
                                     >Σαρπηδόνος</persName> τοῖς <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place96">Ἀχαιοῖς</rs>, τότε ἑλκῦσαι
+                                    n="urn:cite:hmt:place.place96">Ἀχαιοῖς</rs>, τότε <sic>ἑλκῦσαι</sic>
                                 φιλοτιμεῖται τὸν <persName n="urn:cite:hmt:pers.pers158"
                                     >Πάτροκλον</persName> εἰς ἀντικατάλλαξιν τοῦ <persName
                                     n="urn:cite:hmt:pers.pers195">Σαρπηδόνος</persName> οὐκ εις
@@ -1182,7 +1182,7 @@
                     </div>
                     <div n="61" type="scholion">
                         <div type="lemma">
-                            <p>στάσκε μέγα' ἴ̈άχων·</p>
+                            <p>στάσκε <sic>μέγα'</sic> ἴ̈άχων·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.160</p>
@@ -1266,7 +1266,7 @@
                             <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
                                 γράφει <q><placeName n="urn:cite:hmt:place.place6"
                                         >Ἴ̈λιον</placeName> αἰπὺ θέλοντες·</q> καὶ τοὺς ἑξῆς ἀπο τοῦ
-                                    <q>ελκέμεναι μέμονεν</q> ἕως τοῦ <q>πῆξαι ἀνα σκολότεσσιν</q>.
+                                    <q>ελκέμεναι μέμονεν</q> ἕως τοῦ <q>πῆξαι ἀνα <sic>σκολότεσσιν</sic></q>.
                                 ἄνω μετατέθεικεν· ὁ μὲν οὖν <persName n="urn:cite:hmt:pers.pers172"
                                     >Ἕκτωρ</persName> οὐκέτι ταύτην ἔχει τὴν ὁρμὴν ὡς <choice>
                                     <abbr>προείρητ</abbr>
