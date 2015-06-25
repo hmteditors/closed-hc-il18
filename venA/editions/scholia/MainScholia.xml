@@ -2404,8 +2404,8 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι ἐπι τῶν παρα <choice>
-                                    <sic>μικρῶν</sic>
-                                    <corr>μικρὼν</corr>
+                                <sic>μικρὼν</sic>
+                                <corr>μικρῶν</corr>
                                 </choice> τετελειωμένων οὕτως λέγει. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.454</ref>
                                     <q>ὃς τὸ μὲν ἄλλο τόσον φοίνικι ἠνία</q>
@@ -2454,7 +2454,7 @@
                                 </choice>. ἠ δια τὰς ὁμιλίας τὰς πρὸς τὸν γάμον ἠ ἀπο τοῦ οπάζειν ἣν
                                 πεποιηται ἐκ μνηστείας· ἢ παρα τὸ ευφορὰν τὰ κατα τὴν γυναῖκα ὡς τὸ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg:002:19.127</ref>
-                                    <q>εκείνος γ' ἔκθων τὸν εμὸν βίον ἀμφιπολεύει</q>
+                                    <q>ἐκείνος γ' <sic>ἔχθων</sic> τὸν εμὸν βίον ἀμφιπολεύει</q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
@@ -2489,13 +2489,13 @@
                     <div n="133" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers192">Ἥφαιστε</persName> πρόμολ'
-                                ὦδε. </p>
+                                <sic>ὦδε</sic>. </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.392</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τὸ <q>ὦδε</q> οὕτως ὡς ἔχεις οὐδὲν ὑπερθέμενος καὶ ἐν <title><ref
+                            <p>ὅτι τὸ <q><sic>ὦδε</sic></q> οὕτως ὡς ἔχεις οὐδὲν ὑπερθέμενος καὶ ἐν <title><ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg002</ref><choice>
                                         <abbr>Οδ</abbr>
                                         <expan>Ὀδυσσείᾳ</expan>
@@ -2562,9 +2562,9 @@
                         </div>
                         <div type="comment">
                             <p>ἐμφερῆ ῥόδοις. οἱ δὲ δακτυλίους· οἱ δὲ ἐνώτια· οἱ δὲ χρυσᾶς σύριγγας
-                                αἳ τοὺς πλοκάμους περιεχούσην ὡς φασίν <cit>
+                                αἳ τοὺς πλοκάμους περιεχουσιν ὡς φασίν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.52</ref>
-                                    <q>οἱ χρυσῷ τε καὶ ἀργύρῳ ἐσφήκοντο</q>
+                                    <q>οἱ χρυσῷ τε καὶ ἀργύρῳ <sic>ἐσφήκοντο</sic></q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
@@ -2577,7 +2577,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.401</p>
                         </div>
                         <div type="comment">
-                            <p>ήτοι οἱ σύνδεσμοι τῆς κεφαλῆς, ἠ κόσμος ἀπο τῶν όρμων ἐξηρτημένος
+                            <p>ήτοι οἱ σύνδεσμοι τῆς κεφαλῆς, ἠ κόσμος ἀπο τῶν ὁρμῶν ἐξηρτημένος
                                 ⁑</p>
                         </div>
                     </div>
@@ -2612,7 +2612,7 @@
                             <p>εν αλλῳ και ουτος <choice>
                                     <abbr>εὑρέθ</abbr>
                                     <expan>εὑρέθη</expan>
-                                </choice>· απέστραπτο <q>δέ</q>· <q>τόφρα οἱ ἐγγύθεν ἦλθε θεὰ
+                                </choice>· ἀπέστραπτο <q>δέ</q>· <q>τόφρα οἱ ἐγγύθεν ἦλθε θεὰ
                                         <persName n="urn:cite:hmt:pers.pers19">Θετις</persName>
                                     ἀργυρόπεζα·</q></p>
                         </div>
