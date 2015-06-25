@@ -1440,8 +1440,8 @@
                             <p>οἱ περι <persName n="urn:cite:hmt:pers.pers211">Διονύσιον</persName>
                                 τὸν <rs type="ethnic" n="urn:cite:hmt:place.place70">Θρᾷκα</rs>
                                 φασὶν <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχον</persName>
-                                πρῶτη ταύτη χρώμενον τῇ γραφῇ μεταθέσθαι καὶ γράψαι <q>ὡς δ' ὅτε πῦρ
-                                    ἐπι πόντον ἀριπρεπὲς αἰθέρ' ἴ̈κηται</q>· ἐμφατικῶς τῷ ἐν πολέμῳ
+                                πρώτη ταύτη χρώμενον τῇ γραφῇ μεταθέσθαι καὶ γράψαι <q>ὡς δ' ὅτε πῦρ
+                                    ἐπι πόντον ἀριπρεπὲς αἰθέρ' <sic>ἴ̈κηται</sic></q>· ἐμφατικῶς τῷ ἐν πολέμῳ
                                 πῦρ ἐπιτεθέν τῷ <persName n="urn:cite:hmt:pers.pers1"
                                     >Ἀχιλλεῖ</persName> παρέβαλε τῷ ἐν πολεμουμένῃ ἁπτομένῳ ⁑</p>
                         </div>
@@ -1493,7 +1493,7 @@
                     </div>
                     <div n="77" type="scholion">
                         <div type="lemma">
-                            <p>οὐδ' ἐς Αχαιούς μίσγετο:</p>
+                            <p>οὐδ' ἐς <rs type="ethnic" n="urn:cite:hmt:place.place96">Αχαιούς</rs> μίσγετο:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.215</p>
@@ -1560,7 +1560,7 @@
                         </div>
                         <div type="comment">
                             <p>ἀμέτρως ὁ <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
-                                <q>ὅπα χαλκέην</q> οὐ συνεὶς ὅτι παραπλησιόν ἐστι τὸ σχῆμα, τῷ „<cit>
+                                <q>ὅπα χαλκέην</q> οὐ συνεὶς ὅτι <sic>παραπλησιόν</sic> ἐστι τὸ σχῆμα, τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0020.tlg001:696</ref>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.742</ref>
                                     <q>κλυτὸς <persName n="urn:cite:hmt:pers.pers152"
@@ -1786,7 +1786,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.258</p>
                         </div>
                         <div type="comment">
-                            <p>τοῦτέστιν εὐκαταμαχητότεροι ὥστε τὸ πολεμίζειν <choice>
+                            <p><sic>τοῦτέστιν</sic> εὐκαταμαχητότεροι ὥστε τὸ πολεμίζειν <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice> τοῦ <choice>
@@ -1813,7 +1813,7 @@
                         <div type="lemma">
                             <p>ἀλλα περι πτολιος τε <choice>
                                     <abbr>μαχήσετ</abbr>
-                                    <expan>μαχήσετι</expan>
+                                    <expan>μαχήσεται</expan>
                                 </choice>:</p>
                         </div>
                         <div type="ref">
