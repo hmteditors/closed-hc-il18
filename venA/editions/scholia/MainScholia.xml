@@ -3097,7 +3097,7 @@
                                 γενεσθαι ἓξ ἡ ϊστορία παρα τοῖς Κυκλικοῖς ⁑ </p>
                         </div>
                     </div>
-
+<!--
                     <div n="165" type="scholion">
                         <div type="lemma">
                             <p><rs type="astro" n="urn:cite:hmt:astro.4">Ὑάδας</rs> τε:</p>
@@ -3636,6 +3636,8 @@
                                 ψιλοῦται ⁑</p>
                         </div>
                     </div>
+                    
+                    -->
                     <div n="178" type="scholion">
                         <div type="lemma">
                             <p>‡ τοῖσιν ἔπειτ’ <w>ἤϊσ<add place="supralinear">σ</add>ον</w></p>
