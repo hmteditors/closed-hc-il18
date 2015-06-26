@@ -3002,6 +3002,7 @@
                                 αἰτίαν ⁑</p>
                         </div>
                     </div>
+                    <!--
                     <div n="162" type="scholion">
                         <div type="lemma">
                             <p>‡ ἒν μὲν γαῖαν:</p>
@@ -3097,7 +3098,8 @@
                                 γενεσθαι ἓξ ἡ ϊστορία παρα τοῖς Κυκλικοῖς ⁑ </p>
                         </div>
                     </div>
-<!--
+                    -->
+
                     <div n="165" type="scholion">
                         <div type="lemma">
                             <p><rs type="astro" n="urn:cite:hmt:astro.4">Ὑάδας</rs> τε:</p>
@@ -3113,7 +3115,7 @@
                                 όμβρων καὶ ὑετῶν καθ ἵστανται ⁑ </p>
                         </div>
                     </div>
-
+                    <!--
                     <div n="166" type="scholion">
                         <div type="lemma">
                             <p/>
