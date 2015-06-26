@@ -3638,7 +3638,7 @@
                     </div>
                     <div n="178" type="scholion">
                         <div type="lemma">
-                            <p>‡ τοῖσιν ἔπειτ’ <w>ἤϊσ<add place="supralinear">σ</add>ον</w></p>
+                            <p>‡ τοῖσιν ἔπειτ' <w>ἤϊσ<add place="supralinear">σ</add>ον</w></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.506</p>
@@ -3713,7 +3713,7 @@
                     </div>
                     <div n="183" type="scholion">
                         <div type="lemma">
-                            <p>δίχα δέ σφιν ἵνδανε βουλῇ·</p>
+                            <p>δίχα δέ σφιν <sic>ἵνδανε</sic> βουλῇ·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.510</p>
@@ -3759,7 +3759,7 @@
                                 μυρίων. <cit>
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:12.74-12.75</ref>
-                                    <q>νεφέλη δέ μιν ἀμφιβέβηκε τὸ μὲν οὔ ποτ' ἐρωεί</q>
+                                    <q>νεφέλη δέ μιν ἀμφιβέβηκε τὸ μὲν οὔ ποτ' ἐρώει</q>
                                 </cit>
                                 <cit>
                                     <ref type="urn"
@@ -3786,7 +3786,7 @@
                                         >urn:cts:greekLit:tlg0012.tlg002:10.513-10.514</ref>
                                     <q>ἔνθα μὲν εἰς <placeName n="urn:cite:hmt:place.place94"
                                             >Αχέροντα</placeName>
-                                        <placeName n="urn:cite:hmt:place.place"
+                                        <placeName n="urn:cite:hmt:place.place440"
                                             >Πυρὶφλεγέθον</placeName> τε ῥέουσι <placeName
                                             n="urn:cite:hmt:place.place279">Κωκυτός</placeName> θ
                                     </q>
@@ -3852,7 +3852,7 @@
                                 τὸ ολίζων βαρύνειν ὀφείλομεν καὶ γὰρ οὐδεποτε τοῖς εἰς <rs
                                     type="waw">ων</rs> ὀξυνομένοις ὀνόμασι παράκειται οὐδετέρου
                                 παρασχηματισμός τοῖς μέντοι βαρυνομένοις <q>σῶφρον</q> τλῆμον εἰ δε
-                                παράκειται τὸ <w>ὀλίζ<unclear>ο</unclear>ν</w> δηλονότι καὶ τὸ
+                                παράκειται τὸ <sic><w>ὀλίζ<unclear>ο</unclear>ν</w></sic> δηλονότι καὶ τὸ
                                 ἀρσενικὸν βαρύνεται· ἐσχημάτισται δὲ συγκριτικῶς κατα πάθος παρα γὰρ
                                 τὸ <q>ολιγώτερος</q>
                                 <choice>
@@ -3862,7 +3862,7 @@
                                 ὑπερθετικῶς δὲ ἐν τῷ <q>ὀλίγιστος</q> ἐξέπϊπτε τρίτος τύπος ὁ δια
                                 δύο <rs type="waw">σσ</rs>
                                 <q>ὀλίσσων</q> τὰ δε δύο <rs type="waw">σσ</rs> μετέπεσεν εἰς τὸ καὶ
-                                ἀπετελέσθη τὸ <q>ὀλίζον</q> οὗτως οὖν ἐσσχηματίσαμεν καὶ τὸ
+                                ἀπετελέσθη τὸ <q><sic>ὀλίζον</sic></q> οὕτως οὖν ἐσσχηματίσαμεν καὶ τὸ
                                     <q>μεῖζον</q> λέγω δὲ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
@@ -3891,7 +3891,7 @@
                                 </choice> τὸ <rs type="waw">α</rs>, παρά τε τὸ <q>ἀρῶ</q> καὶ
                                     <q>ἀρῶμαι</q> εκτείνομεν ὄνομα <q><persName
                                         n="urn:cite:hmt:pers.pers83">Ἀρήν</persName></q>·
-                                    <q>πισσοκονίας ἀρην</q>
+                                    <q><sic>πισσοκονίας</sic> ἀρὴν</q>
                                 <persName n="urn:cite:hmt:pers.pers1025">Κρατῖνος</persName> ⁑</p>
                         </div>
                     </div>
