@@ -3002,6 +3002,7 @@
                                 αἰτίαν ⁑</p>
                         </div>
                     </div>
+                    <!--
                     <div n="162" type="scholion">
                         <div type="lemma">
                             <p>‡ ἒν μὲν γαῖαν:</p>
@@ -3022,7 +3023,7 @@
                                     n="urn:cite:hmt:pers.pers17"><choice>
                                         <abbr>Ὅμρ</abbr>
                                         <expan>Ὅμηρος</expan>
-                                    </choice></persName> δὲ οὐκ ὰν προετραγώδησεν τὰ <choice>
+                                    </choice></persName> δὲ οὐκ ὰν προ ετραγώδησεν τὰ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
                                 </choice> τὰς φύσας εἰ μὴ καὶ τὴν τῆς ποικιλίας κατασκευὴν ἔμελλε
@@ -3052,10 +3053,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.486</p>
                         </div>
                         <div type="comment">
-                            <p>ἑπτὰ ἀστέρες κείμενοι ἐπι τῇ ουραων τοῦ <rs type="astro"
+                            <p>ἑπτὰ ἀστέρες κείμενοι ἐπι τῇ ουρᾶ τοῦ <rs type="astro"
                                     n="urn:cite:hmt:astro.6">Τάρου</rs> μᾶλλον δὲ ἐπι τοῦ
-                                χοτομήματος αὐτοῦ. ὁ γὰρ <rs type="astro" n="urn:cite:hmt:astro.6"
-                                    >Τᾶυρος</rs> σῶος οὐκ ανηστέρισται ἀλλ' ἕως τῶν ἰσχίων αὖται δε
+                                <sic>χοτομήματος</sic> αὐτοῦ. ὁ γὰρ <rs type="astro" n="urn:cite:hmt:astro.6"
+                                    >Τᾶυρος</rs> σῶος οὐκ ανηστέρισται ἀλλ' ἕως τῶν ἰσχίων αὗται δε
                                 εἰσιν <persName n="urn:cite:hmt:pers.pers462">Ἄτλαντος</persName>
                                 καὶ <persName n="urn:cite:hmt:pers.pers1002">Πληϊόνης</persName>
                                 θυγατέρες ὧν τὰ ονόματα· <persName n="urn:cite:hmt:pers.pers461"
@@ -3072,14 +3073,14 @@
                                     >Ωκεανου</persName> ἔσχεν θυγατέρας <num value="7">ζ</num>· αἳ
                                 τὴν <choice>
                                     <abbr>παρθνειαν</abbr>
-                                    <expan>παρθενεαίν</expan>
+                                    <expan>παρθενειαν</expan>
                                 </choice> ἀγαπήσασαι συνεκυνήγουν τῇ <persName
                                     n="urn:cite:hmt:pers.pers39">Ἀρτέμιδι</persName> θεασάμενος δε
                                     <persName n="urn:cite:hmt:pers.pers1009">Ωρίων</persName> ἠράσθη
-                                καὶ ἐδίωκε μιγὴναι βουλόμενος· αἱ δὲ <choice>
+                                καὶ ἐδίωκε μιγῆναι βουλόμενος· αἱ δὲ <choice>
                                     <abbr>πεκατληπτοι</abbr>
                                     <expan>περικατάληπτοι</expan>
-                                </choice> γενόμεναι θεοῖς ήυξαντο μεταβαλεῖν φυσιν· <persName
+                                </choice> γενόμεναι θεοῖς ηύξαντο μεταβαλεῖν φυσιν· <persName
                                     n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ ἐλεησας αὐτας καὶ
                                 δια τῶν <rs type="astro" n="urn:cite:hmt:astro.10"><rs type="astro"
                                         n="urn:cite:hmt:astro.5">ἄρκτων κατηστέρισεν</rs></rs>·
@@ -3088,15 +3089,16 @@
                                     <abbr>μρς</abbr>
                                     <expan>μητρός</expan>
                                 </choice> αὐτῶν· φασὶ δὲ <persName n="urn:cite:hmt:pers.pers1006"
-                                    >Ἡλέκτραν</persName> βουλόμενην τὴν <placeName
+                                    >Ἡλέκτραν</persName> <sic>βουλόμενην</sic> τὴν <placeName
                                     n="urn:cite:hmt:place.place6">Ἰλιου</placeName> πόρθησιν
-                                θεάσασθαι δια τὸ κτήσμα τῶν ἀπογόνων καταλιπεῖν <choice>
+                                θεάσασθαι δια τὸ κτίσμα τῶν ἀπογόνων καταλιπεῖν <choice>
                                     <sic>τῶν</sic>
                                     <corr>τὸν</corr>
                                 </choice> τόπων οὗ κατηστέριστο. δι ὅπερ οὔσας πρότερον ἑπτὰ
                                 γενεσθαι ἓξ ἡ ϊστορία παρα τοῖς Κυκλικοῖς ⁑ </p>
                         </div>
                     </div>
+                    -->
 
                     <div n="165" type="scholion">
                         <div type="lemma">
@@ -3113,7 +3115,7 @@
                                 όμβρων καὶ ὑετῶν καθ ἵστανται ⁑ </p>
                         </div>
                     </div>
-
+                    <!--
                     <div n="166" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3636,6 +3638,8 @@
                                 ψιλοῦται ⁑</p>
                         </div>
                     </div>
+                    
+                    -->
                     <div n="178" type="scholion">
                         <div type="lemma">
                             <p>‡ τοῖσιν ἔπειτ' <w>ἤϊσ<add place="supralinear">σ</add>ον</w></p>
