@@ -3002,8 +3002,6 @@
                                 αἰτίαν ⁑</p>
                         </div>
                     </div>
-                    
-                    <!--
                     <div n="162" type="scholion">
                         <div type="lemma">
                             <p>‡ ἒν μὲν γαῖαν:</p>
@@ -3310,7 +3308,7 @@
                                     <persName n="urn:cite:hmt:pers.pers347">Ὑριεὺς</persName> ὁ
                                     <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName> καὶ
                                     <persName n="urn:cite:hmt:pers.pers1008">Ἀλκυόνης</persName>
-                                μιᾶς τῶν <persName n="urn:cite:hmt:pers.pers465">Ἄτλαντος</persName>
+                                μιας τῶν <persName n="urn:cite:hmt:pers.pers465">Ἄτλαντος</persName>
                                 θυγατέρων ῴκει μὲν ἐν <placeName n="urn:cite:hmt:place.place135"
                                     >Τανάγρᾳ</placeName> τῆς <placeName
                                     n="urn:cite:hmt:place.place30">Βοιωτιας</placeName>
@@ -3319,7 +3317,7 @@
                                     n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> καὶ <persName
                                     n="urn:cite:hmt:pers.pers104">Ἑρμης</persName> ἐπι ξενωθεντες
                                 αὐτῷ καὶ τὴν φιλοφροσύνην ἀποδεξάμενοι παρῄνεσαν αἰτεῖν ὅτι ἂν
-                                βούλοιτο· ὁ δὲ ἄτεκνος ὠν ἠτήσατο παῖδα· λαβόντες οὖν οἱ θεοὶ τὴν
+                                βούλοιτο· ὁ δὲ ἄτεκνος ὠν ἠτήσατο παῖδα· λαβοντες οὖν οἱ θεοὶ τὴν
                                 τοῦ ἰερουργηθέντος αὐτοῖς βοὸς βύρσαν ἀπεσπέρμεναν εἰς αυτὴν καὶ
                                 ἐκέλευσαν κρῦψαι καταγῆν καὶ μετα δέκα μήνας ἀνελέσθαι. ὧν
                                 διελθόντων ἐγένετο ὁ ουρίων <choice>
@@ -3388,7 +3386,7 @@
                                 κατηστερίσθαι· καὶ ἡ ἐγγὺς ἐκείνης ἡ μικρὰ ἡ <rs type="astro"
                                     n="urn:cite:hmt:astro.10">Κυνόσουρα</rs> καλουμενη δια τὸ ὡς
                                 κυνος ἔχειν ἀνακεκλασμενην τὴν ουρας ἧς <persName
-                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> μέμνηται ὡς
+                                    n="urn:cite:hmt:pers.pesr17">Ὅμηρος</persName> μέμνηται ὡς
                                 ὕστερον εὑρε θείσης ὑπο Θαλοὺς τοῦ <placeName
                                     n="urn:cite:hmt:place.place120">Μιλησιου</placeName> ἑνὸς τῶν
                                 ἑπτὰ σοφῶν·</p>
@@ -3638,9 +3636,6 @@
                                 ψιλοῦται ⁑</p>
                         </div>
                     </div>
-                    
-                    -->
-
                     <div n="178" type="scholion">
                         <div type="lemma">
                             <p>‡ τοῖσιν ἔπειτ’ <w>ἤϊσ<add place="supralinear">σ</add>ον</w></p>
