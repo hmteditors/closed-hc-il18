@@ -4311,60 +4311,57 @@
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.590</p>
                             </div>
                             <div type="comment">
-                                <p>ἐγκατεσκευασε δὲ ἐπιμελῶς ὁ <persName
-                                        n="urn:cite:hmt:pers.pers192">Ηφαιστος</persName> καὶ χορὸν
-                                    ὁμοίαν τάξιν έχοντα χορευόντων τὸ ὑπο <persName
-                                        n="urn:cite:hmt:pers.pers316">Δαιάλου</persName> τοῦ
-                                    μηχανικοῦ κατασκευασθέντι <persName
-                                        n="urn:cite:hmt:pers.pers933">Ἀριάδνῃ</persName> ἐν
-                                        <placeName n="urn:cite:place.place360">Κνώσσῳ</placeName>
-                                    <choice>
-                                        <abbr>πο</abbr>
-                                        <expan>πόλει</expan>
-                                    </choice> τῆς <placeName n="urn:cite:hmt:place.place21"
-                                        >Κρήτης</placeName> ἱστόρηται γὰρ ὅτι <persName
-                                        n="urn:cite:hmt:pers.pers280">Θησέα</persName> παραγενόμενον
-                                    ἐξ <placeName n="urn:cite:hmt:place.place442"
-                                        >Αφιδνῶν</placeName> εἰς τὰς <placeName
-                                        n="urn:cite:hmt:place.place1">Ἀθήνας</placeName> νεωστὶ
-                                    καταλαβόντα δὲ τὸν δασμὸν οι <rs type="ethnic"
-                                        n="urn:cite:hmt:place.place1">Αθηναίοι</rs> τοῦτον ἐπι τῷ
-                                    δεδολοφονηκέναι <persName n="urn:cite:hmt:pers.pers1030"
-                                        >Ἀνδρόγεον</persName> τὸν <choice>
-                                        <abbr>παιδ</abbr>
-                                        <expan>παῖδα</expan>
-                                    </choice>
-                                    <persName n="urn:cite:hmt:pers.pers198">Μίνωος</persName>
-                                    αγωνιζόμενον καὶ νικῶντα παρ αυτοῖς τὰ Παναθήναια. <choice>
-                                        <abbr>ἑκοντ</abbr>
-                                        <expan>ἑκοντα</expan>
-                                    </choice> οὖν φασὶν αὐτὸν συγκαταλέξαι τοῖς ἀπιοῦσι καὶ
-                                    γενόμενον εἰς <placeName n="urn:cite:hmt:place.place21"
-                                        >Κρητην</placeName> ἡδέως ὀφθῆναι φασὶν ὑπο <persName
-                                        n="urn:cite:hmt:pers.pers933">Ἀρίαδνης</persName> τῆς τοῦ
-                                        <persName n="urn:cite:hmt:pers.pers198">Μίνως</persName>
-                                    θυγατρὸς καὶ δια <choice>
-                                        <abbr>τουτ</abbr>
-                                        <expan>τοῦτο</expan>
-                                    </choice> τέχνη <persName n="urn:cite:hmt:pers.pers316"
-                                        >Δαιδάλου</persName> σωθῆναι τρόπῳ τοιῷδε μιτῷ ἀγαθίδα ἔδωκε
-                                        <persName n="urn:cite:hmt:pers.pers316">Δαίδαλος</persName>
-                                    τῇ <persName n="urn:cite:hmt:pers.pers933">Ἀρίαδνῃ</persName>
-                                    εἰπὼν δοῦναι τῷ <persName n="urn:cite:hmt:pers.pers280"
-                                        >Θησεῖ</persName> ὅπως τὴν ἀρχὴν ἐξάψας τῆς εἰσόδου τῆς
-                                    αγαθῖδος <choice>
-                                        <abbr>ουτ</abbr>
-                                        <expan>οὕτως</expan>
-                                    </choice> ἀνελὼν αὐτὴν εἰσέλθοι εἴσ τὸν λαβύρινθον καὶ
-                                    περιγενόμενος τοῦ θηρίου πάλιν ἔχοι ῥαδίαν καὶ εὑρετὸν αὐτῷ τὴν
-                                    ἔξοδον τοῦ λαβυρῖνθου ποικίλως ἐπιπεπλεγμένας ἔχοντος τὰς
-                                    εἰσόδους ἐξελθὼν δὲ μετα τὸ νικῆσαι ὁ <persName
-                                        n="urn:cite:hmt:pers.pers280">Θησεὺς</persName> μετα τῶν
-                                    ηϊθεων καὶ παρθένων χορὸν τοιουτον ἔπλεκε ἐν κύκλῳ τοῖς θεοῖς
-                                    ὁποία καὶ ἡ τοῦ λαβυρίνθου εἴοδός τε καὶ ἔξοδος αὐτῷ εγεγόνει
-                                    τῆς δὴ χορείας τὴν ἐμπειρίαν ὁ <persName
-                                        n="urn:cite:hmt:pers.pers316">Δαίδαλος</persName> αὐτοῖς
-                                    ὑποδείξας ἐποίησεν ⁑</p>
+                                <p>ἐγκατεσκευασεν δὲ ἐπιμελῶς ὁ <persName
+                                    n="urn:cite:hmt:pers.pers192">Ηφαιστος</persName> καὶ χορὸν
+                                ὁμοίαν τάξιν έχοντα χορευόντων τὸ ὑπο <persName
+                                    n="urn:cite:hmt:pers.pers316">Δαιάλου</persName> τοῦ μηχανικοῦ
+                                κατασκευασθέντι <persName n="urn:cite:hmt:pers.pers933"
+                                    >Ἀριάδνῃ</persName> ἐν <placeName n="urn:cite:place.place360"
+                                    >Κνώσσῳ</placeName>
+                                <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλει</expan>
+                                </choice> τῆς <placeName n="urn:cite:hmt:place.place21"
+                                    >Κρήτης</placeName> ἱστόρηται γὰρ ὅτι <persName
+                                    n="urn:cite:hmt:pers.pers280">Θησέα</persName> παραγενόμενον ἐξ
+                                    <placeName n="urn:cite:hmt:place.place442">Αφιδνῶν</placeName>
+                                εἰς τὰς <placeName n="urn:cite:hmt:place.place1">Ἀθήνας</placeName>
+                                νεωστὶ καταλαβόντα δὲ τὸν δασμὸν οι <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place1">Αθηναίοι</rs> τοῦτον ἐπι τῷ
+                                δεδολοφονηκέναι <persName n="urn:cite:hmt:pers.pers1030"
+                                    >Ἀνδρόγεον</persName> τὸν <choice>
+                                    <abbr>παιδ</abbr>
+                                    <expan>παῖδα</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers198">Μίνωος</persName>
+                                αγωνιζόμενον καὶ νικῶντα παρ αυτοῖς τὰ Παναθήναια. <choice>
+                                    <abbr>ἑκοντ</abbr>
+                                    <expan>ἑκόντα</expan>
+                                </choice> οὖν φασὶν αὐτὸν συγκαταλέξαι τοῖς ἀπιοῦσι καὶ γενόμενον
+                                εἰς <placeName n="urn:cite:hmt:place.place21">Κρητην</placeName>
+                                ἡδέως ὀφθῆναι φασὶν ὑπο <persName n="urn:cite:hmt:pers.pers933"
+                                    >Ἀρίαδνης</persName> τῆς τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers198">Μίνως</persName> θυγατρὸς καὶ δια <choice>
+                                    <abbr>τουτ</abbr>
+                                    <expan>τοῦτο</expan>
+                                </choice> τέχνη <persName n="urn:cite:hmt:pers.pers316"
+                                    >Δαιδάλου</persName> σωθῆναι τρόπῳ τοιῷδε <sic>μιτῷ</sic>
+                                ἀγαθίδα ἔδωκε <persName n="urn:cite:hmt:pers.pers316"
+                                    >Δαίδαλος</persName> τῇ <persName n="urn:cite:hmt:pers.pers933"
+                                    >Ἀρίαδνῃ</persName> εἰπὼν δοῦναι τῷ <persName
+                                    n="urn:cite:hmt:pers.pers280">Θησεῖ</persName> ὅπως τὴν ἀρχὴν
+                                ἐξάψας τῆς εἰσόδου τῆς αγαθίδος <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ἀνελὼν αὐτὴν εἰσέλθοι εἴς τὸν λαβύρινθον καὶ περιγενόμενος
+                                τοῦ θηρίου πάλιν ἔχοι ῥαδίαν καὶ εὑρετὸν αὐτῷ τὴν ἔξοδον τοῦ
+                                λαβυρῖνθου ποικίλως ἐπιπεπλεγμένας ἔχοντος τὰς εἰσόδους ἐξελθὼν δὲ
+                                μετα τὸ νικῆσαι ὁ <persName n="urn:cite:hmt:pers.pers280"
+                                    >Θησεὺς</persName> μετα τῶν ηϊθεων καὶ παρθένων χορὸν τοιουτον
+                                ἔπλεκε ἐν κύκλῳ τοῖς θεοῖς ὁποία καὶ ἡ τοῦ λαβυρίνθου εἴσοδός τε καὶ
+                                ἔξοδος αὐτῷ εγεγόνει τῆς δὴ χορείας τὴν ἐμπειρίαν ὁ <persName
+                                    n="urn:cite:hmt:pers.pers316">Δαίδαλος</persName> αὐτοῖς
+                                ὑποδείξας ἐποίησεν ⁑</p>
                             </div>
                         </div>
                     <!--
