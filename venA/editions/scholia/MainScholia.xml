@@ -4148,7 +4148,7 @@
                                 <q>κυάνεον δὲ λέοντε</q> ⁑</p>
                         </div>
                     </div>
-               
+               <!--
                     
                     <div n="207" type="scholion">
                         <div type="lemma">
@@ -4187,7 +4187,7 @@
                     </div>
                     <div n="208" type="scholion">
                         <div type="lemma">
-                            <p>καί ρ’ αἱ μὲν·</p>
+                            <p>καί ρ' αἱ μὲν·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.597</p>
@@ -4213,7 +4213,7 @@
                                     <q>ἄρμενον</q> δὲ εὐ ηρμοσμένον πάντοθεν ⁑</p>
                         </div>
                     </div>
-                    
+                    -->
                     <div n="210" type="scholion">
                         <div type="lemma">
                             <p>ταῦρον ἐρύγμηλον</p>
