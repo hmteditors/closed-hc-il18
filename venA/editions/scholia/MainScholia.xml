@@ -3132,9 +3132,9 @@
                                 <persName n="urn:cite:hmt:pers.pers1012">Εὐδωρῃ</persName>
                                 <persName n="urn:cite:hmt:pers.pers1013">Διώνῃ</persName>
                                 <persName n="urn:cite:hmt:pers.pers1014">Αἰσύλῃ</persName>
-                                <persName n="urn:cite:hmt:pers.pers1015">Πολυξοῖ</persName> αὕται
+                                <persName n="urn:cite:hmt:pers.pers1015">Πολυξοῖ</persName> <sic>αὕται</sic>
                                 θρέψασαι τὸν <persName n="urn:cite:hmt:pers.pers59"
-                                    >Διόνυσον</persName> περίεσαν συν αυτῳ τὴν ευρεθεῖσα ἄμπελον ὑπο
+                                    >Διόνυσον</persName> περίεσαν συν αυτῷ τὴν ευρεθεῖσα ἄμπελον ὑπο
                                 τοῦ <choice>
                                     <abbr>θυ</abbr>
                                     <expan>θεοῦ</expan>
@@ -3181,13 +3181,13 @@
                                 κυνηγοῦντα ὄφις κτεινει· καὶ αἱ μεν πέντε τὸν αδελφὸν θρηνουσαι
                                 ἀπόλλυνται: τὰς δὲ λοιπας δι οικτον καταστερίσας <persName
                                     n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>, <w>Ὑ<add
-                                        place="supralinear">ά</add>δας</w> ἐπωνόμασας ἐπῳνύμια τοῦ <choice>
+                                        place="supralinear">ά</add>δας</w> ἐπωνόμασας ἐπῳνυμία τοῦ <choice>
                                     <abbr>ἀδε</abbr>
                                     <expan>ἀδελφοῦ</expan>
                                 </choice>· αἱ δὲ πλείους <num value="7">ζ</num> βραδέως μὲν πλὴν
                                 ἀποθανοῦσαι <rs type="astro" n="urn:cite:hmt:astro.3">Πληϊάδας</rs>
                                 εἴρηνται· <persName n="urn:cite:hmt:pers.pers255"
-                                    >Φερεκύδης</persName> δὲ καθὰ πρόειρηται τὰς <rs type="astro"
+                                    >Φερεκύδης</persName> δὲ καθὰ προείρηται τὰς <rs type="astro"
                                     n="urn:cite:hmt:astro.4">Ὑάδας</rs>. Δωδωνίδας νύμφας φησὶν
                                 εἶναι καὶ <persName n="urn:cite:hmt:pers.pers59">Διονύσου</persName>
                                 τροφοὺς ἃς παρακαταθέσθαι τὸν <persName n="urn:cite:hmt:pers.pers59"
@@ -3239,21 +3239,21 @@
                                     <persName n="urn:cite:hmt:pers.pers133">Σισύφῳ</persName> θνητῳ
                                 ὄντι ὦν <persName n="urn:cite:hmt:pers.pers719">Γλαύκον</persName>
                                 διὸ καὶ αμαυρον εῖναι <rs type="astro" n="urn:cite:hmt:astro.4"
-                                    >Ὑάδες</rs> δε εϊρηνται ἤτοι παρὰ τὸ <choice>
+                                    >Ὑάδες</rs> δε εΐρηνται ἤτοι παρὰ τὸ <choice>
                                     <abbr>σχημ</abbr>
                                     <expan>σχῆμα</expan>
                                 </choice> τῆς τῶν ἀστερων θέσεω τῷ γὰρ <rs type="waw">Υ</rs>
-                                στοιχειώ παραπλήσιόν ἐστιν. ἢ ἐπεὶ ἀνατελλουσῶν αὐτῶν καὶ δυνουσων
+                                στοιχείω παραπλήσιόν ἐστιν. ἢ ἐπεὶ ἀνατελλουσῶν αὐτῶν καὶ δυνουσων
                                 ὕει ὁ <persName n="urn:cite:hmt:pers.pers8">Ζεύς</persName>· αἱ δὲ
                                 Πλειάδες ἤτοι ἀπο τῆς <choice>
                                     <abbr>μρς</abbr>
                                     <expan>μητρὸς</expan>
                                 </choice> αὐτῶν <persName n="urn:cite:hmt:pers.pers1002"
                                     >Πληϊόνης</persName>· ἢ ὅτι πλείους ὁμοῦ κατα μίαν συναγωγὴν
-                                ἐισὶ βότρυν γὰρ αὐτας λεγοῦσιν ἢ ὅτι μὲν πλείους καὶ ἑπτὰ δοκυσιν
-                                ἐπι δὲ τῆς ἀληθειάς ἐλάττους εἰσιν ἢ <rs type="astro"
+                                ἐισὶ βότρυν γὰρ αὐτας λεγοῦσιν ἢ ὅτι μὲν πλείους καὶ ἑπτὰ δοκουσιν
+                                ἐπι δὲ τῆς ἀληθείας ἐλάττους εἰσιν ἢ <rs type="astro"
                                     n="urn:cite:hmt:asto.3">Πλησιάδας</rs> πλησίον γὰρ κεῖνται. ἢ
-                                ὅτι πλείους δι αὐτας αἱ τῶν ωρων ἐπισημασίαι ἢ ὅτι πλειωνος ὅ ἐστιν
+                                ὅτι πλείους δι αὐτας αἱ τῶν ωρῶν ἐπισημασίαι ἢ ὅτι πλειωνος ὅ ἐστιν
                                 ἐνιαυτου σημαντικαὶ χειμῶνα γὰρ καὶ θέρος διορίζουσι καθὸ
                                 ἐπιφέρονται καὶ δια μόνων αὐτῶν σημειοῦνται τὰς ἑωας ἐπιτολὰς πρὸς
                                 θέρος καὶ τὰς ἐσπερίους πρὸς ἄροτρον ὡς <persName
@@ -3272,15 +3272,15 @@
                                 δὲ ἑώα <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> τὸν διάμετρον ἠλιου ὄντος <rs type="astro"
+                                </choice> τὸν διάμετρον ἡλιου ὄντος <rs type="astro"
                                     n="urn:cite:hmt:astro.8">Σκορπιῳ</rs>· <rs type="astro"
                                     n="urn:cite:hmt:astro.6">Ταύρου</rs> δὲ ὄντος ἡλιῳ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> τὸ εἰκος ἑκατέρωθι ἐπίφασις γίνεται· καὶ γὰρ τὸν
-                                προανατελλοντο κριον ἐπι πέντε ἡμέρας προκαταλάμπει καταρχας ἐγγὺς
+                                </choice> τὸ εἰκός ἑκατέρωθι ἐπίφασις γίνεται· καὶ γὰρ τὸν
+                                προ ανατελλοντα κριον ἐπι πέντε ἡμέρας προκαταλάμπει καταρχας ἐγγὺς
                                 ὧν αὐτοῦ καὶ τοὺς προ ἀνατέλλοντας διδύμους ἐπ άλλας ἡμερας πέντε
-                                ὥσπερ τὸ ἔν τινι καιόμενον πῦρ θερμης ἀπόρροιαν ἔχει αραχεῖαν καὶ
+                                ὥσπερ τὸ ἔν τινι καιόμενον πῦρ θερμης ἀπόρροιαν ἔχει βραχεῖαν καὶ
                                 πρὸς τοὺς ἑκατέρωθεν. δια τοῦτο καὶ <persName
                                     n="urn:cite:hmt:pers.pers4">Ησίοδος</persName> ἔφη·<cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0020.tlg002:385-386</ref>
