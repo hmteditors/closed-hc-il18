@@ -4213,7 +4213,6 @@
                                     <q>ἄρμενον</q> δὲ εὐ ηρμοσμένον πάντοθεν ⁑</p>
                         </div>
                     </div>
-                    -->
                     <div n="210" type="scholion">
                         <div type="lemma">
                             <p>ταῦρον ἐρύγμηλον</p>
@@ -4233,16 +4232,16 @@
                                 <q>ἀπατηλός</q>· μὴ ούτως δὲ ἔχοντα βαρύνεσθαι <q>βέβηλος</q>
                                 <q>κίβδηλος</q>
                                 <q>κάπηλος</q>· εἰ δὴ καὶ τὸ <q>ερυγμηλος</q> οὐκ έχει θηλυκον
-                                δηλονότι ὓγιῶς βαρυτονηθήσεται καὶ οὐ δεόντως αὐτῷ <persName
-                                    n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> ὀξύνει·
-                                ἐγένετο δὲ παρα τὸ <q>ἐρύγω</q> ἔνθεν παρατατικὸς <cit>
+                                δηλονότι <sic>ὓγιῶς</sic> βαρυτονηθήσεται καὶ οὐ δεόντως αὐτῷ
+                                    <persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName>
+                                ὀξύνει· ἐγένετο δὲ παρα τὸ <q>ἐρύγω</q> ἔνθεν παρατατικὸς <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.404</ref>
-                                    <q>ἤρυγεν ἑλκόμενος <choice>
-                                            <abbr>Ἔλικι</abbr>
-                                            <expan>Ἔλικωνιον</expan>
-                                        </choice></q>
+                                    <q>ἤρυγεν ἑλκόμενος <sic><choice>
+                                                <abbr>Ἔλικι</abbr>
+                                                <expan>Ἔλικωνιον</expan>
+                                            </choice></sic></q>
                                 </cit>· <q>ἐρυγηλος</q>. καὶ ἐν πλεονασμῷ τοῦ <rs type="waw">μ</rs>
-                                <q>ἐρυγμηλος</q> ⁑</p>
+                                <q><sic>ἐρυγμηλος</sic></q> ⁑</p>
                         </div>
                     </div>
                     <div n="211" type="scholion">
@@ -4261,7 +4260,8 @@
                                 χωρὶς τοῦ <rs type="waw">ϊ</rs> ⁑</p>
                         </div>
                     </div>
-                    <!--
+                    -->
+                    
                     <div n="" type="scholion">
                         <div n="212" type="scholion">
                             <div type="lemma">
@@ -4303,6 +4303,7 @@
                                     πλεονασμὸν τοῦ <rs type="waw">ϊ</rs> δεχομένῳ ⁑</p>
                             </div>
                         </div>
+                        <!--
                         <div n="214" type="scholion">
                             <div type="lemma">
                                 <p>εν δε χορὸν ποίκιλλε:</p>
@@ -4496,9 +4497,9 @@
                                     </choice> ⁑</p>
                             </div>
                         </div>
-                        </div>
+                        
                         -->
-                    
+                    </div>
                 </body>
             </text>
         </group>
