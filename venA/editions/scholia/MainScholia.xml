@@ -4260,9 +4260,7 @@
                                 χωρὶς τοῦ <rs type="waw">ϊ</rs> ⁑</p>
                         </div>
                     </div>
-                    -->
-                    
-                    <div n="" type="scholion">
+                     <div n="" type="scholion">
                         <div n="212" type="scholion">
                             <div type="lemma">
                                 <p>ἔγκατα καὶ μέλαν αἷμα:</p>
@@ -4303,7 +4301,8 @@
                                     πλεονασμὸν τοῦ <rs type="waw">ϊ</rs> δεχομένῳ ⁑</p>
                             </div>
                         </div>
-                        <!--
+                          -->
+                        
                         <div n="214" type="scholion">
                             <div type="lemma">
                                 <p>εν δε χορὸν ποίκιλλε:</p>
@@ -4368,6 +4367,7 @@
                                     ὑποδείξας ἐποίησεν ⁑</p>
                             </div>
                         </div>
+                    <!--
                         <div n="215" type="scholion">
                             <div type="lemma">
                                 <p>τῷ ΐκελον</p>
