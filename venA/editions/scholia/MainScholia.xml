@@ -3251,7 +3251,7 @@
                                     >Πληϊόνης</persName>· ἢ ὅτι πλείους ὁμοῦ κατα μίαν συναγωγὴν
                                 ἐισὶ βότρυν γὰρ αὐτας λεγοῦσιν ἢ ὅτι μὲν πλείους καὶ ἑπτὰ δοκουσιν
                                 ἐπι δὲ τῆς ἀληθείας ἐλάττους εἰσιν ἢ <rs type="astro"
-                                    n="urn:cite:hmt:asto.3">Πλησιάδας</rs> πλησίον γὰρ κεῖνται. ἢ
+                                    n="urn:cite:hmt:astro.3">Πλησιάδας</rs> πλησίον γὰρ κεῖνται. ἢ
                                 ὅτι πλείους δι αὐτας αἱ τῶν ωρῶν ἐπισημασίαι ἢ ὅτι πλειωνος ὅ ἐστιν
                                 <sic>ὲνιαυτου</sic> σημαντικαὶ χειμῶνα γὰρ καὶ θέρος διορίζουσι καθὸ
                                 ἐπιφέρονται καὶ δια μόνων αὐτῶν σημειοῦνται τὰς ἑωας ἐπιτολὰς πρὸς
@@ -3393,7 +3393,6 @@
                                 ἑπτὰ σοφῶν·</p>
                         </div>
                     </div>
-  -->                 
                     <div n="171" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3405,7 +3404,7 @@
                             <p><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>, <persName
                                     n="urn:cite:hmt:pers.pers1021">Καλλιστους</persName> τῆς
                                     <persName n="urn:cite:hmt:pers.pers1022">Λυκαονος</persName>
-                                ερασθεῖς ἐμίσγετο αὐτῇ λανθάνων <persName
+                                ερασθεὶς ἐμίσγετο αὐτῇ λανθάνων <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥραν</persName>. ἐπιγνοῦσα δὲ ἡ
                                 θεὸς μετέβαλεν αὐτὴν εἰς ἄρκτον. καὶ ὡς θηρίον <persName
                                     n="urn:cite:hmt:pers.pers39">Ἀρτέμιδι</persName> προσέταξε
@@ -3418,7 +3417,7 @@
                                 ⁑</p>
                         </div>
                     </div>
-                    <!-- 
+                    
                     <div n="172" type="scholion">
                         <div type="lemma">
                             <p>ἥ τ' αὐτοῦ <abbr>στρεφετ</abbr><expan>στρέφεται</expan>:</p>
@@ -3428,15 +3427,15 @@
                         </div>
                         <div type="comment">
                             <p>ἥτις περι τὸν ἀρκτικὸν καὶ ἀεὶ φανερὸν καλουμενον κύκλον ήτοι <sic>πώλον</sic>
-                                στρέφεται καὶ ἐπιτηρεῖ τὸν <rs type="astro" n="urn:cite:hmt:asto.1"
+                                στρέφεται καὶ ἐπιτηρεῖ τὸν <rs type="astro" n="urn:cite:hmt:astro.1"
                                     >Ωρίωνα</rs> νεύουσα εἰς αυτὸν ὡς κυνηγέτην· βλέπει γὰρ ἡ μεγάλη
-                                    <rs type="astro" n="urn:cite:hmt:asto.5">ἄρκτος</rs> προς τὸ τοῦ
-                                    <rs type="astro" n="urn:cite:hmt:asto.1">Ωρίωνος</rs> ἄστρον·
-                                    <rs type="astro" n="urn:cite:hmt:asto.9">πολοι</rs> δὲ καλοῦνται
+                                    <rs type="astro" n="urn:cite:hmt:astro.5">ἄρκτος</rs> προς τὸ τοῦ
+                                    <rs type="astro" n="urn:cite:hmt:astro.1">Ωρίωνος</rs> ἄστρον·
+                                    <rs type="astro" n="urn:cite:hmt:asrto.9">πολοι</rs> δὲ καλοῦνται
                                 τὰ άκρα τοῦ <sic>αξωνος</sic> περι ἃ ἀποτελεῖται καὶ στρέφεται ὁ κόσμος ⁑</p>
                         </div>
                     </div>
-                      -->       
+                         
                     <div n="173" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3450,25 +3449,25 @@
                                     <expan>ἐστι</expan>
                                 </choice>, ἀντι τοῦ μόνη οὐ δύνει εἰς τὸν <persName
                                     n="urn:cite:hmt:pers.pers123">Ωκεανόν</persName>. αἱ γὰρ <rs
-                                    type="astro" n="urn:cite:hmt:asto.10"><rs type="astro"
-                                        n="urn:cite:hmt:asto.5">άρκτοι</rs></rs> οὐ δύνουσιν οὖσαι
-                                ἐν τῷ ἀειφανερῷ αἵ εισιν ἀμφότεραι τοῦ ἁπαντων καλουμένου <rs
-                                    type="astro" n="urn:cite:hmt:asto.9">πόλου</rs> ἀρκτικαί· μόνη
+                                    type="astro" n="urn:cite:hmt:astro.10"><rs type="astro"
+                                        n="urn:cite:hmt:astro.5">άρκτοι</rs></rs> οὐ δύνουσιν οὖσαι
+                                ἐν τῷ ἀεὶ φανερῷ αἵ εισιν ἀμφότεραι τοῦ ἁπαντων καλουμένου <rs
+                                    type="astro" n="urn:cite:hmt:astro.9">πόλου</rs> ἀρκτικαί· μόνη
                                 οὖν δῆλον ὅτι τῶν κατηστερισμένων ἄμοιρος ἐστι τῶν <persName
                                     n="urn:cite:hmt:pers.pers123">Ωκεανου</persName> ρείθρων. καὶ οὐ
-                                καταδύεται ἐπεί τοι καὶ ἄλλα τινα. ἀειφανῆ ὅσα ὁ αρκτικος
+                                καταδύεται ἐπεί τοι καὶ ἄλλα τινα. ἀειφανῆ ὅσα ὁ αρκτικός
                                 ἀποτέμνεται κυκλος. ἔστι δὲ ἥ τε <rs type="astro"
-                                    n="urn:cite:hmt:asto.10">Κυνόσουρα</rs> καλουμένη ἡ <rs
-                                    type="astro" n="urn:cite:hmt:asto.10">ἄρκτος</rs> καὶ ὁ δι
-                                αμφοτερων τῶν <rs type="astro" n="urn:cite:hmt:asto.10"><rs
-                                        type="astro" n="urn:cite:hmt:asto.5">ἄρκτων</rs></rs>
-                                <rs type="astro" n="urn:cite:hmt:asto.11">δράκων</rs> καὶ ἡ χεὶρ τοῦ
-                                    <rs type="astro" n="urn:cite:hmt:asto.12">Βοώτου</rs>· μέχρη τὲ
-                                τοῦ <rs type="astro" n="urn:cite:hmt:asto.13"><sic>Κιφεως</sic></rs>
-                                τὰ ἀπο ϊξύως ἕως ποδῶν ⁑</p>
+                                    n="urn:cite:hmt:astro.10">Κυνόσουρα</rs> καλουμένη ἡ <rs
+                                    type="astro" n="urn:cite:hmt:astro.10">ἄρκτος</rs> καὶ ὁ δι
+                                αμφοτερων τῶν <rs type="astro" n="urn:cite:hmt:astro.10"><rs
+                                        type="astro" n="urn:cite:hmt:astro.5">ἄρκτων</rs></rs>
+                                <rs type="astro" n="urn:cite:hmt:astro.11">δράκων</rs> καὶ ἡ χεὶρ τοῦ
+                                    <rs type="astro" n="urn:cite:hmt:astro.12">Βοώτου</rs>· <sic>μέχρη</sic> τὲ
+                                τοῦ <rs type="astro" n="urn:cite:hmt:astro.13"><sic>Κιφεως</sic></rs>
+                                τὰ ἀπο <sic>ϊξύως</sic> ἕως ποδῶν ⁑</p>
                         </div>
                     </div>
-                    <!-- 
+                     -->  
                     <div n="174" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3589,6 +3588,7 @@
                                 αὐτον ὃν ἐκάλουν ὑμέναιον. ⁑</p>
                         </div>
                     </div>
+                    <!-- 
                     <div n="176" type="scholion">
                         <div type="lemma">
                             <p>ἐνθάδε νεῖκος ὀρώρει</p>
