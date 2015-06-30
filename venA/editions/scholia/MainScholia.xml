@@ -3467,7 +3467,6 @@
                                 τὰ ἀπο <sic>ϊξύως</sic> ἕως ποδῶν ⁑</p>
                         </div>
                     </div>
-                     -->  
                     <div n="174" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3499,7 +3498,11 @@
                                     <abbr>πρωτ</abbr>
                                     <expan>πρώτη</expan>
                                 </choice> πόλις αἱ <placeName n="urn:cite:hmt:place.place1"
-                                    >Αθηναι</placeName> κατ/κατὰ δε τὴν φυσιν τῶν στοιχειων ὁ <choice>
+                                    >Αθηναι</placeName>
+                                <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> δε τὴν φυσιν τῶν <sic>στοιχιων</sic> ὁ <choice>
                                     <abbr>θς</abbr>
                                     <expan>θεὸς</expan>
                                 </choice> τὴν <choice>
@@ -3512,7 +3515,8 @@
                                     <abbr>πο</abbr>
                                     <expan>πόλει</expan>
                                 </choice>. παρα γὰρ <rs type="ethnic" n="urn:cite:hmt:place.place1"
-                                    >Ἀθηναίοις</rs> πρώτον ἐγένετο δικαστηριον ἐπι <persName
+                                    >Ἀθηναίοις</rs>
+                                <sic>πρώτον</sic> ἐγένετο δικαστηριον ἐπι <persName
                                     n="urn:cite:hmt:pers.pers1024">Αλιρροθίω</persName> τὸ <persName
                                     n="urn:cite:hmt:pers.pers47"
                                         ><w>Ποσειδῶν<unclear>ος</unclear></w></persName>· οἱ δὲ
@@ -3521,8 +3525,10 @@
                                 λαμβάνουσι καὶ δια <choice>
                                     <abbr>τουτ</abbr>
                                     <expan>τοῦτο</expan>
-                                </choice> λέγει κεῖσθαι ἐν μέσῳ χρυσοῦ δύο τάλαντα· τὴν δὲ ἑτέραν
-                                πο/πόλιν οῦσαν τὴν <placeName n="urn:cite:hmt:place.place283"
+                                </choice> λέγει κεῖσθαι ἐν μέσῳ χρυσοῦ δύο τάλαντα· τὴν δὲ ἑτέραν <choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλιν</expan>
+                                </choice> οῦσαν τὴν <placeName n="urn:cite:hmt:place.place283"
                                     >Ἐλευσινα</placeName> πτόλεμον δὲ ἔσχον <rs type="ethnic"
                                     n="urn:cite:hmt:place.place1">Ἀθηναῖοι</rs> πρὸς <placeName
                                     n="urn:cite:hmt:place.place283">Ἐλευσῖνας</placeName> ὃν αὐτοῖς
@@ -3530,30 +3536,33 @@
                                     >Εὔμολπος</persName> ὁ <persName n="urn:cite:hmt:pers.pers47"
                                     >Ποσειδῶνος</persName> βοηθοί τε αὐτῆς εἰσὶν <persName
                                     n="urn:cite:hmt:pers.pers83">Ἄρης</persName> τε καὶ <persName
-                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName>. ὁ μὲν γὰρ χάρεις
-                                ἀποδιδοὺς ὅτι ἀπελύθη κριθεὶς ἐν Αρείῳ πάγῳ· ἡ δὲ ὅτι τῆς <choice>
+                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName>. ὁ μὲν γὰρ
+                                    <sic>χάρεις</sic> ἀποδιδοὺς ὅτι ἀπελύθη κριθεὶς ἐν Αρείῳ πάγῳ· ἡ
+                                δὲ ὅτι τῆς <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλεως</expan>
                                 </choice> ὡς οικειας ἐκήδετο καὶ τὰ ἐπαγόμενα δὲ ἴδια <placeName
-                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνος</placeName> ευρία
-                                τριπολος ἐπεί περ <rs type="ethni" n="urn:cite:hmt:place.place283"
-                                    >Ἐλευσῖνι</rs> πρῶτον καρποὺς δη μήτηρ ἔδωκεν. ἡ δὲ σταφυλῇσι
-                                μέγα βρίθουσαν ἀλῳην ἐπι <placeName n="urn:cite:hmt:place.place271"
-                                    >Ϊκὰριῳ</placeName> καὶ <persName n="urn:cite:hmt:pers.pers59"
-                                    >Διονύσῳ</persName> πορεία· ὁ δὲ ποικιλλόμενος χωρὸς <persName
-                                    n="urn:cite:hmt:pers.pers933">Ἀριάδνης</persName> καὶ <persName
-                                    n="urn:cite:hmt:pers.pers280">Θησέως</persName> ἕχει πραξεις
-                                ΐδιος δὲ καὶ ὁ τεχνίτης τῶν <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place1">Αθηνῶν</rs>
+                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνος</placeName>
+                                <sic>εὑρία</sic> τριπολος ἐπεί περ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place283">Ἐλευσῖνι</rs> πρῶτον καρποὺς δη
+                                μήτηρ ἔδωκεν. ἡ δὲ σταφυλῇσι μέγα βρίθουσαν ἁλῳην ἐπι <placeName
+                                    n="urn:cite:hmt:place.place271">Ϊκὰριῳ</placeName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers59">Διονύσῳ</persName> πορεία· ὁ δὲ
+                                ποικιλλόμενος <sic>χωρὸς</sic>
+                                <persName n="urn:cite:hmt:pers.pers933">Ἀριάδνης</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers280">Θησέως</persName>
+                                <sic>ἕχει</sic> πραξεις ἰ̈διος δὲ καὶ ὁ τεχνίτης τῶν <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place1">Αθηνῶν</rs>
                                 <persName n="urn:cite:hmt:pers.pers192">Ἥφαιστος</persName>.
                                     <persName n="urn:cite:hmt:pers.pers11">Ἐριχθωνιῳ</persName> γὰρ
                                 τῷ υἱῷ χαριζόμενος βασιλεύοντι τῶν <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place1">Ἀθηνῶν</rs> τὴν τοι αύτων
-                                κατασκευὴν παρεις ήγαγε τὸν Ἀρειον παγον ἑρμηνεύει τὸν ϊερὸν κύκλον
-                                οἱ δὲ δικασταὶ <rs type="ethnic" n="urn:cite:hmt:place.place1"
-                                    >Ἀθηνων</rs>· δια ποίαν δὲ αιτιαν μονος ὁ <persName
+                                    n="urn:cite:hmt:place.place1">Ἀθηνῶν</rs> τὴν τοι
+                                    <sic>αύτων</sic> κατασκευὴν παρεις ήγαγε τὸν Άρειον παγον
+                                ἑρμηνεύει τὸν ϊερὸν κύκλον οἱ δὲ δικασταὶ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place1">Ἀθηνων</rs>· δια ποίαν δὲ
+                                    <sic>αετιαν</sic> μονος ὁ <persName
                                     n="urn:cite:hmt:pers.pers123">Ὠκεανὸς</persName> ποταμὸς οὐ
-                                πάρεστι τῇ ἐκκλησιᾳ τῶν θεῶν· ἑητεον δὲ ὅτι ἐπεὶ συνεκτικὸν ἔχει τὸ
+                                πάρεστι τῇ ἐκκλησιᾳ τῶν θεῶν· ῥητεον δὲ ὅτι ἐπεὶ συνεκτικὸν ἔχει τὸ
                                 τοῦ κόσμου ῥεῦμα· φησὶ γὰρ <persName n="urn:cite:hmt:pers.pers123"
                                     >Ὠκεανὸς</persName> ᾧ πάσα <choice>
                                     <abbr>περίρρυτ</abbr>
@@ -3569,26 +3578,24 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.493</p>
                         </div>
                         <div type="comment">
-                            <p>ἐξῆπτο διεγήγερτο πλείση γαμήλιος ὡδῄ τὸν δὲ ὑμεναιον ετυμολογουσιν
-                                ὁ. μεν ἁπο του μαίειν ὁμου τον νυμφιον καὶ την νύμφιην· ἄλλοι δὲ
-                                φισικῶς ἐπεὶ ὑμείν <choice>
-                                    <abbr>εστ</abbr>
-                                    <expan>εστιν</expan>
-                                </choice> ὄρηγνυμενος ἐν τη τον παρθένων δια κορήσει. οἱ δὲ ὅτι
+                            <p>ἐξῆπτο διεγήγερτο πλείστη γαμήλιος ὠδῄ τὸν δὲ ὑμεναιον ετυμολογοῦσιν
+                                οἱ μεν ἀπο του <sic>μαίειν</sic> ὁμοῦ τον νυμφιον καὶ τὴν νύμφιην·
+                                ἄλλοι δὲ φυσικῶς ἐπεὶ <sic><w>ὑμ<unclear>εί</unclear>ν</w></sic>
+                                ἐστιν ὁ ρηγνύμενος ἐν τη τον παρθένων δια κορήσει. οἱ δὲ ὅτι
                                     <persName n="urn:cite:hmt:pers.pers1026">Ὑμέναιός</persName> τις
                                     <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργεῖος</rs>
-                                παραπλεών τας <placeName n="urn:cite:hmt:place.place1"
+                                <sic>παραπλεών</sic> τας <placeName n="urn:cite:hmt:place.place1"
                                     >Ἀθηνας</placeName> κατέλαβεν <placeName
                                     n="urn:cite:hmt:place.place76">Ἀττικὰς</placeName> παρθένους
-                                ἀαπαζομένας ὑπο <rs type="ethnic" n="urn:cite:hmt:pers.pers433"
+                                ἀσπαζομένας ὑπο <rs type="ethnic" n="urn:cite:hmt:pers.pers433"
                                     >Πελασγῶν</rs> τινων αἷς ἐπιφανεὶς αἴτιος ἐγένετο του μὴ
                                 βιασθῆναι· ἀποδιώξας τοὺς <rs type="ethnic"
                                     n="urn:cite:hmt:pers.pers433">Πελασγούς</rs>. δια τοῦτο οὖν αἱ
-                                νομίμως γαμούμεναι ὥς ἐπι καλούμεναι αὐτον ὕμνον τινα ἐλεγον εἰς
+                                νομίμως γαμούμεναι ὥς ἐπι καλούμεναι αὐτον ὕμνον τινα ἔλεγον εἰς
                                 αὐτον ὃν ἐκάλουν ὑμέναιον. ⁑</p>
                         </div>
                     </div>
-                    <!-- 
+                    -->  
                     <div n="176" type="scholion">
                         <div type="lemma">
                             <p>ἐνθάδε νεῖκος ὀρώρει</p>
