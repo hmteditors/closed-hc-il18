@@ -4148,10 +4148,7 @@
                                     n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName>
                                 <q>κυάνεον δὲ λέοντε</q> ⁑</p>
                         </div>
-                    </div>
-               <!--
-                    
-                    <div n="207" type="scholion">
+                    </div> <div n="207" type="scholion">
                         <div type="lemma">
                             <p>‡ σταθμούς τε κλισίας τε:</p>
                         </div>
@@ -4447,32 +4444,31 @@
                                 </choice> ἢ ὅτι ὀθόνας εἶχον καὶ στεφανας ⁑</p>
                             </div>
                         </div>
-                         -->
                         <div n="216" type="scholion">
                             <div type="lemma">
-                                <p>ἀμφεσίβοιαι</p>
-                            </div>
+                            <p><sic>ἀμφεσίβοιαι</sic></p>
+                        </div>
                             <div type="ref">
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.593</p>
                             </div>
                             <div type="comment">
                                 <p>ἔντιμοι καὶ δια τὴν ευμορφίαν βόας εὑρίσκουσαι <w>ἕδν<add
-                                            place="supralinear">α</add></w>
-                                    <choice>
-                                        <abbr>θρέμματ</abbr>
-                                        <expan>θρέμματα</expan>
-                                    </choice> γὰρ τὸ παλαιὸν <choice>
-                                        <abbr>ἐδίδοτ</abbr>
-                                        <expan>ἐδίδοτο</expan>
-                                    </choice> προ γαμων δῶρα. ὠνόμασται δὲ ἀπο μέρους ἐπειδὴ ἔντιμοι
-                                    τὸ παλαιὸν οἱ βόες . <q>ἄλφειν</q> γὰρ τὸ εὑρίσκειν καὶ
-                                        <q>ἄλφη</q> ἡ τιμή καὶ ἄλφα τὸ <choice>
-                                        <abbr>στοιχ</abbr>
-                                        <expan>στοιχεῖον</expan>
-                                    </choice> ὅτι <choice>
-                                        <abbr>εὑρεθ</abbr>
-                                        <expan>εὑρέθη</expan>
-                                    </choice> προ τῶν αλλων ⁑</p>
+                                        place="supralinear">α</add></w>
+                                <choice>
+                                    <abbr>θρέμματ</abbr>
+                                    <expan>θρέμματα</expan>
+                                </choice> γὰρ τὸ παλαιὸν <choice>
+                                    <abbr>ἐδίδοτ</abbr>
+                                    <expan>ἐδίδοτο</expan>
+                                </choice> προ γαμων δῶρα. ὠνόμασται δὲ ἀπο μέρους ἐπειδὴ ἔντιμοι τὸ
+                                παλαιὸν οἱ βόες . <q><sic>ἄλφειν</sic></q> γὰρ τὸ εὑρίσκειν καὶ
+                                        <q><sic>ἄλφη</sic></q> ἡ τιμή καὶ ἄλφα τὸ <choice>
+                                    <abbr>στοιχ</abbr>
+                                    <expan>στοιχεῖον</expan>
+                                </choice> ὅτι <choice>
+                                    <abbr>εὑρεθ</abbr>
+                                    <expan>εὑρέθη</expan>
+                                </choice> προ τῶν αλλων ⁑</p>
                             </div>
                         </div>
                         <div n="217" type="scholion">
@@ -4492,6 +4488,7 @@
                                     </choice> ⁑</p>
                             </div>
                         </div>
+                     </div>
                    </body>
             </text>
         </group>
