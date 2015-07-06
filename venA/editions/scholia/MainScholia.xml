@@ -650,7 +650,7 @@
                     </div>
                     <div n="33" type="scholion">
                         <div type="lemma">
-                            <p>‡ ἀλήμεναι, υἱὰς <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                            <p>‡ ἀλήμεναι, υἱας <rs type="ethnic" n="urn:cite:hmt:place.place96"
                                     >Αχαιῶν</rs>:</p>
                         </div>
                         <div type="ref">
@@ -1142,7 +1142,7 @@
                         </div>
                         <div type="comment">
                             <p>προς <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτον</persName>
-                                μεταγράφοντα ῥίμφ' έα γοῦνα φέρει. καὶ ὅτι λέγει πόδες αὐτὴν ἔφερον
+                                μεταγράφοντα ῥίμφ' <sic>έα</sic> γοῦνα φέρει. καὶ ὅτι λέγει πόδες αὐτὴν ἔφερον
                                 οὐκ αυτῆ τοὺς πόδας ⁑</p>
                         </div>
                     </div>
@@ -1332,7 +1332,7 @@
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers991">Χαῖρις</persName> τῷ τὰς
                                 συναλειφθείσας προθέσεις μὴ ἀναστρέφεσθαι, καὶ ἐνθάδε οὐκ
-                                αναστρέφεσθαι, καὶ ἐνθάδε οὐκ αναστρεφεν ἵνα μὴ διάφορον
+                                <sic>αναστρέφεσθαι</sic>, καὶ ἐνθάδε οὐκ αναστρεφεν ἵνα μὴ διάφορον
                                 σημαινόμενον νοηθῆ διαφέρει γὰρ τὸ παρενεγκεῖν <persName
                                     n="urn:cite:hmt:pers.pers192">Ἡφαίστου</persName> ὅπλα ὅτι δὲ
                                 καὶ ἐν ἄλλοις ἀναγνώσμασιν ὁ ἀνὴρ τοιοῦτος, προ εἴπομεν <choice>
@@ -1626,9 +1626,9 @@
                                 </choice> εἶναι καὶ ἤλιον ἐπιτυγχανόντων οὖν τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place6">Τρώων</rs> χρονίζειν· ἡδόμενόν δὲ
                                 καὶ μὴ <choice>
-                                    <sic>κοίντα</sic>
-                                    <corr>κοὶντα</corr>
-                                </choice> αὐτοῖς τὸ ἐπίτευγμα <persName
+                                    <sic>κοὶνον</sic>
+                                    <corr>κοίνον</corr>
+                                </choice> τα αὐτοῖς τὸ ἐπίτευγμα <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥραν</persName> δὲ τὰ ἐναντία
                                 βουλομένην αὐτὸν ἀναγκάζειν· ηδόμενον δὲ καὶ μὴ <sic>κύνοντα</sic>
                                 αὐτοῖς τὸ ἐπίτευγμα <persName n="urn:cite:hmt:pers.pers116"
@@ -1922,7 +1922,7 @@
                         </div>
                         <div type="comment">
                             <p>ἡ διπλῆ ὅτι τοιοῦτον ἐστι τὸ λεγόμενον πρότερον αὐτὸν οἱ κύνες
-                                κατέδονται ἠ ἐκπέρσει καὶ οὐκ ἐστιν ἐλλειπεὴς ὁ λόγος ὥσπερ οὐδ' ἐπ'
+                                κατέδονται ἠ ἐκπέρσει καὶ οὐκ ἐστιν <sic>ἐλλειπεὴς</sic> ὁ λόγος ὥσπερ οὐδ' ἐπ'
                                 εκείνου <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.29</ref>
                                     <q>τὴν δ' ἐγὼ οὐ λύσω πρίν μιν καὶ γῆρας ἔπεισιν</q>
@@ -2039,7 +2039,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.300-18.301</p>
                         </div>
                         <div type="comment">
-                            <p>τῶν <rs type="ethnic">Τρώων</rs> ὅστις ἂν ὑπερβαλόντως ἀνιᾶται ἐπι
+                            <p>τῶν <rs type="ethnic">Τρώων</rs> ὅστις ἂν <sic>ὑπερβαλόντως</sic> ἀνιᾶται ἐπι
                                 τοῖς χρήμασιν ὡς μέλλων ἀπολύειν αὐτὰ ὑπο πολεμίων τοῦτο γὰρ
                                 ἐλλεῖπον προς ὑπακούεται <choice>
                                     <sic>συναγαγών</sic>
@@ -2830,7 +2830,7 @@
                                 </cit> δια δε τῶν ἑξῆς ἐπιδείκνυσιν ὅτι τε ὁ <persName
                                     n="urn:cite:hmt:pers.pers158">Πατροκλος</persName> τελευτήσας
                                 ἀπώλεσε τὰ ὅπλα καὶ πάρεστιν ἕτερα ληψομένη, δια μέντοι τούτων οὐδὲν
-                                ἀναγκαιον λέγεται καὶ ψεῦδος περιεχουσιν οὐ γὰρ ταῖς λιταῖς πεισθεῖς
+                                ἀναγκαιον λέγεται καὶ ψεῦδος περιεχουσιν οὐ γὰρ ταῖς λιταῖς <sic>πεισθεῖς</sic>
                                     <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> καὶ
                                     <persName n="urn:cite:hmt:pers.pers127"><choice>
                                         <abbr>Αἴαντ</abbr>
@@ -3234,7 +3234,7 @@
                                 <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνι</persName> ὧν
                                     <persName n="urn:cite:hmt:pers.pers1018">Λύκων</persName>
                                 <persName n="urn:cite:hmt:pers.pers1007">Στεροπὴν</persName>
-                                <persName n="urn:cite:hmt:pers.pers83">Ἄρει</persName> ὂν Οἰνόμαον
+                                <persName n="urn:cite:hmt:pers.pers83">Ἄρει</persName> ὂν <persName n="urn:cite:hmt:pers.pers49">Οἰνόμαον</persName>
                                     <persName n="urn:cite:hmt:pers.pers1005">Μερόπην</persName> δὲ
                                     <persName n="urn:cite:hmt:pers.pers133">Σισύφῳ</persName> θνητῷ
                                 ὄντι ὦν <persName n="urn:cite:hmt:pers.pers719">Γλαύκον</persName>
@@ -3319,7 +3319,7 @@
                                     n="urn:cite:hmt:pers.pers47">Ποσειδῶν</persName> καὶ <persName
                                     n="urn:cite:hmt:pers.pers104">Ἑρμης</persName> ἐπιξενωθεντες
                                 αὐτῷ καὶ τὴν φιλοφροσύνην ἀποδεξάμενοι παρῄνεσαν αἰτεῖν ὅτι ἂν
-                                βούλοιτο· ὁ δὲ ἄτεκνος ὢν ἠτήσατο παῖδα· λαβόντες οὖν οἱ θεοὶ τὴν
+                                βούλοιτο· ὁ δὲ ἄτεκνος ὢν <sic>ἠτήσατο</sic> παῖδα· λαβόντες οὖν οἱ θεοὶ τὴν
                                 τοῦ ἱερουργηθέντος αὐτοῖς βοὸς βύρσαν <w>ἀπεσπέρμ<unclear>η</unclear>ναν</w> εἰς αυτὴν καὶ
                                 ἐκέλευσαν <sic>κρῦψαι</sic> καταγῆν καὶ μετα δέκα μήνας ἀνελέσθαι. ὧν
                                 διελθόντων ἐγένετο ὁ ουρίων <choice>
