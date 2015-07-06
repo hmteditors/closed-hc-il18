@@ -726,7 +726,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.538</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν τῇ Μασσαλέωτικῆ <q>είμα τ' ἔχε</q> ⁑</p>
+                            <p>ἐν τῇ Μασσαλέωτικῆ <q><sic>είμα</sic> τ' ἔχε</q> ⁑</p>
                         </div>
                     </div>
                     <div n="48" type="scholion">
@@ -742,7 +742,7 @@
                                     <abbr>γρ</abbr>
                                     <expan>γράφεται</expan>
                                 </choice>
-                                <q>τέμενος βαθὺλήϊον</q> ⁑</p>
+                                <q>τέμενος βαθὺ λήϊον</q> ⁑</p>
                         </div>
                     </div>
                     <div n="49" type="scholion">
