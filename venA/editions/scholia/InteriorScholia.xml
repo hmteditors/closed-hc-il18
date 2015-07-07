@@ -431,7 +431,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>π</abbr>
                                     <expan>πόλεως</expan>
                                 </choice>
-                                <abbr>χρηματ</abbr><expan>χρήματα</expan> ἀφειδεῖν χρέ καὶ τῶν
+                                <abbr>χρηματ</abbr><expan>χρήματα</expan> ἀφειδεῖν <sic>χρέ</sic> καὶ τῶν
                                 σωμάτων ⁑</p>
                         </div>
                     </div>
@@ -730,7 +730,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.538</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν τῇ Μασσαλέωτικῆ <q>είμα τ' ἔχε</q> ⁑</p>
+                            <p>ἐν τῇ Μασσαλέωτικῆ <q><sic>είμα</sic> τ' ἔχε</q> ⁑</p>
                         </div>
                     </div>
                     <div n="48" type="scholion">
