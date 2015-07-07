@@ -716,6 +716,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <expan>σπεύδοντι</expan>
                                     </choice></q> ⁑</p>
                         </div>
+                    </div>
                         <div n="50" type="scholion">
                             <div type="lemma">
                                 <p/>
@@ -1120,7 +1121,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             </div>
                         </div>
                         
-                    </div>
+                    
                 </body>
             </text>
         </group>
