@@ -1,7 +1,7 @@
 Scholion,GlossText,CommentsOn,GlossType
-urn:cts:greekLit:tlg5026.msAil.hmt:18.1,"οτὅτι ὥσπερ",urn:cts:greekLit:tlg0012.tlg001.msA:18.1@Ὡς,
-urn:cts:greekLit:tlg5026.msAil.hmt:18.2,"θείω καλῷ ",urn:cts:greekLit:tlg0012.tlg001.msA:18.25@νεκταρέῳ,
-urn:cts:greekLit:tlg5026.msAil.hmt:18.3,"ουτοὕτωΖηνοδΖηνόδοτος⁑",urn:cts:greekLit:tlg0012.tlg001.msA:18.34@ἀποτμήξειε,
+urn:cts:greekLit:tlg5026.msAil.hmt:18.1,"οτὅτι ὥσπερ",urn:cts:greekLit:tlg0012.tlg001.msA:18.1@Ὡς,urn:cite:hmt:iltype.gloss
+urn:cts:greekLit:tlg5026.msAil.hmt:18.2,"θείω καλῷ ",urn:cts:greekLit:tlg0012.tlg001.msA:18.25@νεκταρέῳ,urn:cite:hmt:iltype.gloss
+urn:cts:greekLit:tlg5026.msAil.hmt:18.3,"ουτοὕτωΖηνοδΖηνόδοτος⁑",urn:cts:greekLit:tlg0012.tlg001.msA:18.34@ἀποτμήξειε,urn:cite:hmt:iltype.srcref
 urn:cts:greekLit:tlg5026.msAil.hmt:18.4,"λαμπρον",urn:cts:greekLit:tlg0012.tlg001.msA:18.50@ἀργύφεον,
 urn:cts:greekLit:tlg5026.msAil.hmt:18.5,"ἐπιθυμία:",urn:cts:greekLit:tlg0012.tlg001.msA:18.80@ἦδος,
 urn:cts:greekLit:tlg5026.msAil.hmt:18.6,"εω",urn:cts:greekLit:tlg0012.tlg001.msA:18.100@ἄρῆς,
