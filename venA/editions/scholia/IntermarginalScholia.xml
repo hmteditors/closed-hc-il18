@@ -794,10 +794,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <abbr>βραχ</abbr>
                                         <expan>βραχὺ</expan>
                                     </choice> διασταλτέον ἐπι τὸ <q>αποδοῦναι</q> ἐν γαρ τῷ δήμῳ
-                                    ἐλεγεν <q><choice>
+                                    ἐλεγεν <choice>
                                             <abbr>παντ</abbr>
                                             <expan>πάντα</expan>
-                                        </choice> ἀποδεδοκέναι</q> οὐ τῷ δημῳ <q>παραδεδωκέναι</q>
+                                        </choice> ἀποδεδοκέναι οὐ τῷ δημῳ παραδεδωκέναι
                                     ⁑</p>
                             </div>
                         </div>
