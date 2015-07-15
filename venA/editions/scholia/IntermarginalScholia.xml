@@ -228,7 +228,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice>
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
-                                </choice> ἀντι ὑφ' <q><persName n="urn:cite:hmt:pers.pers172"
+                                </choice> ἀντι <q> ὑφ' <persName n="urn:cite:hmt:pers.pers172"
                                         >Έκτορος</persName> δίου</q> ⁑</p>
                         </div>
                     </div>
