@@ -193,7 +193,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
-                                </choice> τοῦ ἵνα <q>γνῶσι</q> ⁑</p>
+                                </choice> τοῦ <q>ἵνα γνῶσι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -302,7 +302,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντὶ</expan>
-                                </choice> ὑπο <q>στυγεροῦ</q></p>
+                                </choice> <q>ὑπο στυγεροῦ</q></p>
                         </div>
                     </div>
                     <div n="19" type="scholion">
