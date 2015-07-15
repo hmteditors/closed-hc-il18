@@ -695,8 +695,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>οτ</abbr>
                                     <expan>ὅτι</expan>
                                 </choice> τὸ <q><choice>
-                                        <abbr>πάσαι</abbr>
-                                        <expan>πᾶσαι</expan>
+                                        <sic>πάσαι</sic>
+                                        <corr>πᾶσαι</corr>
                                     </choice></q> παρελκει διὸ ἡ διπλη ⁑</p>
                         </div>
                     </div>
