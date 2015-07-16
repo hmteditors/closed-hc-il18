@@ -3293,9 +3293,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>δια τὸ μη θαμίζειν ἐστόχασται τὴν νῦν παρουσίαν αὐτῆς ὡς κατὰ χρείαν
                                 γενομένην· <persName
                                     n="urn:cite:hmt:pers.pers137">Πλάτων</persName> δὲ προς τοῦτο
-                                γενόμενος φησί. <q><persName
+                                γενόμενος φησί. <cit><ref type="urn">urn:cts:greekLit:tlg0004.tlg001:3.5</ref><q><persName
                                         n="urn:cite:hmt:pers.pers137">Πλάτων</persName> νύ τι σεῖο
-                                    χατίζει</q> ⁑</p>
+                                    χατίζει</q></cit> ⁑</p>
                         </div>
                     </div>
                     <div
