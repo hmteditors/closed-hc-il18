@@ -106,26 +106,23 @@ urn:cite:hmt:reuse.18_113,urn:cts:greekLit:tlg5026.msA.hmt:18.36,"ἀνέρος 
 urn:cite:hmt:reuse.18_114,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ἀπο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.92
 urn:cite:hmt:reuse.18_115,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ὑπ",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.92
 urn:cite:hmt:reuse.18_116,urn:cts:greekLit:tlg5026.msA.hmt:18.38,"αὐτίκα",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.98
-urn:cite:hmt:reuse.18_117,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"Ἄρεω",,
-urn:cite:hmt:reuse.18_118,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς",,
-urn:cite:hmt:reuse.18_119,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς ἀλκτῆρα",,
-urn:cite:hmt:reuse.18_120,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"Ἄρεω ἀλκτῆρα",,
-urn:cite:hmt:reuse.18_121,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"εδησεν",,
-urn:cite:hmt:reuse.18_122,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' ἐπεὶ οὐ νεομαί γε",,
-urn:cite:hmt:reuse.18_123,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς",,
-urn:cite:hmt:reuse.18_124,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"αμείνονές εἰσὶ καὶ ἄλλοι",,
-urn:cite:hmt:reuse.18_125,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"ὡς ἐρις ἔκ τε θέωνθεῶν",,
-urn:cite:hmt:reuse.18_126,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' ἐπεὶ οὐ νέομαι",,
-urn:cite:hmt:reuse.18_127,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' εῖμ' ὄφρα φίλης κεφαλῆς",,
-urn:cite:hmt:reuse.18_128,urn:cts:greekLit:tlg5026.msA.hmt:18.44,"ἔρϊν",,
-urn:cite:hmt:reuse.18_129,urn:cts:greekLit:tlg5026.msA.hmt:18.44,"ἔχθραν",,
-urn:cite:hmt:reuse.18_130,urn:cts:greekLit:tlg5026.msA.hmt:18.44,"καὶ χόλος",,
-urn:cite:hmt:reuse.18_131,urn:cts:greekLit:tlg5026.msA.hmt:18.47,"ὡς δ' ὅτε καπνὸς ἰὼν ἐξ άστεος αἰθέρα ἵκηται",,
-urn:cite:hmt:reuse.18_132,urn:cts:greekLit:tlg5026.msA.hmt:18.54,"χάλκεα",,
-urn:cite:hmt:reuse.18_133,urn:cts:greekLit:tlg5026.msA.hmt:18.54,"ἐτήτυμον",,
-urn:cite:hmt:reuse.18_134,urn:cts:greekLit:tlg5026.msA.hmt:18.57,"ἀγορεῦσαι",,
-urn:cite:hmt:reuse.18_135,urn:cts:greekLit:tlg5026.msA.hmt:18.60,"Ἕκτωρ τὲ Πριάμοιοσὺῒ ΐκελος ἀλκὴνἀλκήν, ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει ἐλκέμεναι μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει πῆξαι ἀνα σκόλοπας οἳ τάμονθ' ἁπαλῆς ἀπο δειρῆς",,
-urn:cite:hmt:reuse.18_136,urn:cts:greekLit:tlg5026.msA.hmt:18.61,"μέγα ἀχεων",,
+urn:cite:hmt:reuse.18_117,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"Ἄρεω",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
+urn:cite:hmt:reuse.18_118,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
+urn:cite:hmt:reuse.18_119,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς ἀλκτῆρα",urn:cite:hmt:reusetype.quote2,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
+urn:cite:hmt:reuse.18_120,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"Ἄρεω ἀλκτῆρα",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
+urn:cite:hmt:reuse.18_121,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"εδησεν",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
+urn:cite:hmt:reuse.18_122,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' ἐπεὶ οὐ νεομαί γε",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.101
+urn:cite:hmt:reuse.18_123,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.114
+urn:cite:hmt:reuse.18_124,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"αμείνονές εἰσὶ καὶ ἄλλοι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.106
+urn:cite:hmt:reuse.18_125,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"ὡς ἐρις ἔκ τε θέωνθεῶν",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.107
+urn:cite:hmt:reuse.18_126,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' ἐπεὶ οὐ νέομαι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.101
+urn:cite:hmt:reuse.18_127,urn:cts:greekLit:tlg5026.msA.hmt:18.42,"νῦν δ' εῖμ' ὄφρα φίλης κεφαλῆς",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.114
+urn:cite:hmt:reuse.18_130,urn:cts:greekLit:tlg5026.msA.hmt:18.44,"καὶ χόλος",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.108
+urn:cite:hmt:reuse.18_132,urn:cts:greekLit:tlg5026.msA.hmt:18.54,"χάλκεα",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.131
+urn:cite:hmt:reuse.18_133,urn:cts:greekLit:tlg5026.msA.hmt:18.54,"ἐτήτυμον",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.128
+urn:cite:hmt:reuse.18_134,urn:cts:greekLit:tlg5026.msA.hmt:18.57,"ἀγορεῦσαι",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.142
+urn:cite:hmt:reuse.18_135,urn:cts:greekLit:tlg5026.msA.hmt:18.60,"Ἕκτωρ τὲ Πριάμοιοσὺῒ ΐκελος ἀλκὴνἀλκήν, ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει ἐλκέμεναι μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει πῆξαι ἀνα σκόλοπας οἳ τάμονθ' ἁπαλῆς ἀπο δειρῆς",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.154-158
+urn:cite:hmt:reuse.18_136,urn:cts:greekLit:tlg5026.msA.hmt:18.61,"μέγα ἀχεων",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.160
 urn:cite:hmt:reuse.18_137,urn:cts:greekLit:tlg5026.msA.hmt:18.62,"τίθεσθαι",,
 urn:cite:hmt:reuse.18_138,urn:cts:greekLit:tlg5026.msA.hmt:18.62,"δίημι",,
 urn:cite:hmt:reuse.18_139,urn:cts:greekLit:tlg5026.msA.hmt:18.62,"δίεσαν",,
