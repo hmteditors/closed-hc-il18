@@ -2795,7 +2795,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div
                             type="comment">
-                            <p>σκύμνος ὡς <q>ὕμνος</q> εἰς ἰδιότητα ἀνεγνώσθη· τὸ μέντοι
+                            <p><q>σκύμνος</q> ὡς <q>ὕμνος</q> εἰς ἰδιότητα ἀνεγνώσθη· τὸ μέντοι
                                     <sic>ἀνδρονυμικὸν</sic> ὀξύνεσθαι ἀξιοῖ ὁ <persName
                                     n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> προς
                                 διαφοράν· ὁ μέντοι λόγος συναγωνίζεται τῇ βαρείᾳ τάσει τα γὰρ εἰς <rs
@@ -2805,10 +2805,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>κύκνος</q>· <q>λύχνος</q>
                                 <q><placeName
                                         n="urn:cite:hmt:place.place436">Κύθνος</placeName></q>·
-                                οὕτως ἄρα καὶ σκύμνος· ἡ διπλῆ δὲ ὅτι <choice>
+                                οὕτως ἄρα καὶ <q>σκύμνος</q>· ἡ διπλῆ δὲ ὅτι <choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice> τοὺς κυνηγοὺς καταχρηστικῶς λέγουσιν οἱ ποιηταί ⁑</p>
+                                </choice> <q>τοὺς κυνηγοὺς</q> καταχρηστικῶς λέγουσιν οἱ ποιηταί ⁑</p>
                         </div>
                     </div>
                     <div
