@@ -1011,9 +1011,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName> καὶ ἔστι τὸ
                                 λεγόμενον ἐμοῦ ἐδέησε τὸ ἀλεξητῆρα γενέσθαι τοῦ <persName
                                     n="urn:cite:hmt:pers.pers83">Ἄρεω</persName> καθ ὃν ἀπώλετο ἀπ
-                                ευθείας τῆς ὁ <persName
-                                    n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> ὡς ὁ <persName
-                                    n="urn:cite:hmt:pers.pers980">Πείρεως</persName>, <cit>
+                                ευθείας τῆς <q>ὁ <persName
+                                    n="urn:cite:hmt:pers.pers83">Ἄρεως</persName></q> ὡς <q>ὁ <persName
+                                    n="urn:cite:hmt:pers.pers980">Πείρεως</persName></q>, <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:20.484</ref>
                                     <q><persName
@@ -1046,7 +1046,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 βοηθόν· <persName
                                     n="urn:cite:hmt:pers.pers485">Πτολεμαῖος</persName> δὲ ὁ <persName
                                     n="urn:cite:hmt:pers.pers485">Ασκαλωνίτης</persName> περισσὸν τὸ
-                                ἔδησεν φησίν ⁑</p>
+                                <q>ἔδησεν</q> φησίν ⁑</p>
                         </div>
                     </div>
                     <div
@@ -1128,7 +1128,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <expan><persName
                                             n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName></expan>
                                 </choice> σύγχυσιν κόσμου δοκῶν αὐτὸν εὔχεσθαι πρὸς ὃν ἄν τις εἴποι.
-                                ὅτι οὐ λέγει νῦν τὴν ἐναντίωσιν <q>ἔρϊν</q>, ἀλλα τὴν <q>ἔχθραν</q>
+                                ὅτι οὐ λέγει νῦν τὴν ἐναντίωσιν ἔρϊν, ἀλλα τὴν ἔχθραν
                                 ὅθεν ἐπιφέρει <q>καὶ χόλος</q> οὐ γὰρ ἡ τῶν πραγμάτων ἐναντίωσις
                                 τοὺς φρονίμους ἐξίστησι τῶν λογισμῶν ⁑</p>
                         </div>
@@ -1189,7 +1189,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:2.399</ref>
                                     <q>κάπνισάν τε κατα κλισίας</q>
-                                </cit>·, καὶ <q>ὡς δ' ὅτε καπνὸς ἰὼν ἐξ άστεος αἰθέρα ἵκηται</q>·
+                                </cit>·, καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:18.207</ref><q>ὡς δ' ὅτε καπνὸς ἰὼν ἐξ άστεος αἰθέρα ἵκηται</q></cit>·
                                 ἄτοπον γὰρ λαμπούσῃ φλογὶ καπνὸν εἰκάζειν. ζέσις δὲ οὐκ ἂν χωρὶς
                                 πυρώσεως γένοιτο ἡ δίνη δὲ παρεπεται τοῖς ὀργιζομένοις δια τὸ
                                 σπεύδειν ἀμύνασθαι τὸν ἀντίπαλον· τὸν δε καπνὸν παρείληφε προς τὴν
@@ -1372,10 +1372,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit>
                                 <persName
                                     n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸν χρυσοχόον
-                                λέγών· στικτέον δὲ ἤτοι ἐπι τὸ <q>ἐτήτυμον</q> ἵνα λείπῃ τὸ ἐστί· ὁ
+                                λέγών· στικτέον δὲ ἤτοι ἐπι τὸ <q>ἐτήτυμον</q> ἵνα λείπῃ τὸ <q>ἐστί</q>· ὁ
                                 δὲ λόγος ταῦτα ἀληθῶς ἐστιν ἡ συναπτέον ἐστι δὲ σχῆμα σολοικοφανες
-                                ὅτι τῷ πληθυντικῶ τὰ ἑνικὰ ἐπενήνεκται ἐτήτυμον κακόν· ἀλλα τὸ μὲν
-                                ἐτήτυμον δύναιτ ἂν ἀντι ἐπιρρήματος κεῖσθαι· τὰ δὲ ἄλλα παραπλήσια
+                                ὅτι τῷ πληθυντικῶ τὰ ἑνικὰ ἐπενήνεκται <q>ἐτήτυμον</q> <q>κακόν</q>· ἀλλα τὸ μὲν
+                                <q>ἐτήτυμον</q> δύναιτ ἂν ἀντι ἐπιρρήματος κεῖσθαι· τὰ δὲ ἄλλα παραπλήσια
                                 ἐκείνῳ δύναται εἶναι· <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:4.31-4.32</ref>
