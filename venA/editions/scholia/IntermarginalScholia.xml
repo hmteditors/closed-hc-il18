@@ -1085,7 +1085,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <p/>
                             </div>
                             <div type="ref">
-                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.604_605</p>
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.603-18.604_605</p>
                             </div>
                             <div type="comment">
                                 <p><choice>
@@ -1094,7 +1094,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice> πρὸς τὸ <choice>
                                         <abbr>σημαινομε</abbr>
                                         <expan>σημαινόμενον</expan>
-                                    </choice> ἀπήντηκεν <q>ὅμιλος</q> τερπόμενοι ⁑</p>
+                                    </choice> ἀπήντηκεν <q>ὅμιλος</q> <q>τερπόμενοι</q> ⁑</p>
                             </div>
                         </div>
                         <div n="75" type="scholion">
