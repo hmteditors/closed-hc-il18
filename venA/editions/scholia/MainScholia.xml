@@ -1613,8 +1613,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                             n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName></expan>
                                 </choice> κατα γενικὴν <q><persName
                                         n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>
-                                    ἐπάμυνον</q>. ἐλλείπει δὲ ἡ <q>περι</q> περὶ <persName
-                                    n="urn:cite:hmt:pers.pers158">Πατροκλου</persName>· ὅμοιον δέ
+                                    ἐπάμυνον</q>. ἐλλείπει δὲ ἡ <q>περι</q> <q>περὶ <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλου</persName></q>· ὅμοιον δέ
                                 ἐστι τὸ <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:16.522</ref>
