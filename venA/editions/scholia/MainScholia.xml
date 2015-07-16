@@ -1957,10 +1957,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div
                             type="comment">
-                            <p>οὔτε φαίνεται τῇ <q><choice>
+                            <p>οὔτε φαίνεται τῇ <choice>
                                         <abbr>μρι</abbr>
                                         <expan>μητρὶ</expan>
-                                    </choice> ἀπειθῶν</q>. δια τὸ μὴ κεχωρηκέναι εἰς μέσην τὴν
+                                    </choice> ἀπειθῶν. δια τὸ μὴ κεχωρηκέναι εἰς μέσην τὴν
                                 παράταξιν, οὔτε τῆς <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥρας</persName> ἀνηκουστῶν δια τὸ
                                 μὴ πεφηνέναι ἐν τῷ πολέμῳ. ἄλλως δε οικονομία ἐστι τοῦ ποιητοῦ τὸ
