@@ -3789,9 +3789,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName> ἀνῄρηται οὐκ
                                 ἂν ἐκ δευτέρου ἔλεγεν καὶ ὅτι <q><rs
                                         n="urn:cite:hmt:place.place6"
-                                        type="ethnic">Τρωσὶν</rs></q> ἀντι τοῦ <q>ὑπο <rs
+                                        type="ethnic">Τρωσὶν</rs></q> ἀντι τοῦ ὑπο <rs
                                         n="urn:cite:hmt:place.place6"
-                                        type="ethnic">Τρώων</rs></q> ⁑</p>
+                                        type="ethnic">Τρώων</rs> ⁑</p>
                         </div>
                     </div>
                     <div
