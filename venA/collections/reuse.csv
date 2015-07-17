@@ -280,13 +280,14 @@ urn:cite:hmt:reuse.18_314,urn:cts:greekLit:tlg5026.msA.hmt:18.210,"ερυγμη�
 urn:cite:hmt:reuse.18_315,urn:cts:greekLit:tlg5026.msA.hmt:18.210,"ἐρύγω",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_316,urn:cts:greekLit:tlg5026.msA.hmt:18.210,"ἐρυγηλος",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_317,urn:cts:greekLit:tlg5026.msA.hmt:18.210,"ἐρυγμηλος",urn:cite:hmt:reusetype.langusage,
-urn:cite:hmt:reuse.18_318,urn:cts:greekLit:tlg5026.msA.hmt:18.211,"τοὺς δὲ κύνες μετεκίαθον",,
-urn:cite:hmt:reuse.18_319,urn:cts:greekLit:tlg5026.msA.hmt:18.211,"ἕλκετο",,
-urn:cite:hmt:reuse.18_320,urn:cts:greekLit:tlg5026.msA.hmt:18.212,"λαφύσσετον",,
-urn:cite:hmt:reuse.18_321,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ουτοὕτως",,
-urn:cite:hmt:reuse.18_322,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"αύτως",,
-urn:cite:hmt:reuse.18_323,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ἐνδίεσαν",,
-urn:cite:hmt:reuse.18_324,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ἐνδίησαν",,
-urn:cite:hmt:reuse.18_325,urn:cts:greekLit:tlg5026.msA.hmt:18.215,"τῷ ΐκελον. οἷον ποτὲ ἐνι Κνωσῷ",,
-urn:cite:hmt:reuse.18_326,urn:cts:greekLit:tlg5026.msA.hmt:18.216,"ἄλφειν",,
-urn:cite:hmt:reuse.18_327,urn:cts:greekLit:tlg5026.msA.hmt:18.216,"ἄλφη",,
+urn:cite:hmt:reuse.18_318,urn:cts:greekLit:tlg5026.msA.hmt:18.211,"τοὺς δὲ κύνες μετεκίαθον",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.581
+urn:cite:hmt:reuse.18_319,urn:cts:greekLit:tlg5026.msA.hmt:18.211,"ἕλκετο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.581
+urn:cite:hmt:reuse.18_320,urn:cts:greekLit:tlg5026.msA.hmt:18.212,"λαφύσσετον",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.583
+urn:cite:hmt:reuse.18_321,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ουτοὕτως",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.584
+urn:cite:hmt:reuse.18_322,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"αύτως",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.584
+urn:cite:hmt:reuse.18_323,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ἐνδίεσαν",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.584
+urn:cite:hmt:reuse.18_324,urn:cts:greekLit:tlg5026.msA.hmt:18.213,"ἐνδίησαν",urn:cite:hmt:reusetype.langusage,
+urn:cite:hmt:reuse.18_325,urn:cts:greekLit:tlg5026.msA.hmt:18.215,"τῷ ΐκελον. οἷον ποτὲ ἐνι Κνωσῷ",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.591
+urn:cite:hmt:reuse.18_326,urn:cts:greekLit:tlg5026.msA.hmt:18.216,"ἄλφειν",urn:cite:hmt:reusetype.langusage,
+urn:cite:hmt:reuse.18_327,urn:cts:greekLit:tlg5026.msA.hmt:18.216,"ἄλφη",urn:cite:hmt:reusetype.langusage,
+
