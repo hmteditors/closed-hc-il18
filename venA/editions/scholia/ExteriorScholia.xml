@@ -74,11 +74,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.377</p>
                         </div>
                         <div type="comment">
-                            <p>τα <rs type="waw">β</rs> <num value="2">β</num> δασειαν ειχον εις το <rs type="waw">η</rs></p>
+                            <p>τα <rs type="waw">β</rs>
+                                <num value="2">β</num> δασειαν ειχον εις το <rs type="waw"
+                                >η</rs></p>
                         </div>
                     </div>
-                    
-                
                     <div n="5" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -101,6 +101,25 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><sic>ἐλίσοντο</sic></p>
                         </div>
                     </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.490</p>
+                        </div>
+                        <div type="comment">
+                            <p>πολις διὰ <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τοῦ</expan>
+                                </choice>
+                                <sic><unclear>ιει</unclear></sic>
+                                <choice>
+                                    <abbr>παντ</abbr>
+                                    <expan>πάντα</expan></choice> <sic><unclear>βο</unclear></sic>
+                                </p>
+                        </div>
+                    </div>
                     <div n="7" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -120,7 +139,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.560</p>
                         </div>
                         <div type="comment">
-                            <p>πὸλλ' <choice><abbr>ἐπαλ</abbr><expan>ἐπάλυνον</expan></choice></p>
+                            <p>πὸλλ' <choice>
+                                    <abbr>ἐπαλ</abbr>
+                                    <expan>ἐπάλυνον</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
@@ -145,7 +167,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἄλλοτε δ' </p>
                         </div>
                     </div>
-                    
+
                 </body>
             </text>
         </group>
