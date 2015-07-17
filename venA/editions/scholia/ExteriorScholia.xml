@@ -63,7 +63,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.227</p>
                         </div>
                         <div type="comment">
-                            <p><q>τὸ δ' ἔδαιε</q></p>
+                            <p>τὸ δ' ἔδαιε</p>
                         </div>
                     </div>
                     <div n="4" type="scholion">
@@ -84,7 +84,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.395</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.398</p>
                         </div>
                         <div type="comment">
                             <p>θ'</p>
@@ -139,10 +139,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.560</p>
                         </div>
                         <div type="comment">
-                            <p>πὸλλ' <choice>
+                            <p><del>πὸλλ' <choice>
                                     <abbr>ἐπαλ</abbr>
                                     <expan>ἐπάλυνον</expan>
-                                </choice></p>
+                                </choice></del></p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
@@ -164,7 +164,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.602</p>
                         </div>
                         <div type="comment">
-                            <p>ἄλλοτε δ' </p>
+                            <p>ἄλλοτε δ'</p>
                         </div>
                     </div>
 
