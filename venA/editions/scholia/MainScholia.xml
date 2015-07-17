@@ -3414,7 +3414,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>εν αλλῳ και ουτος <choice>
                                     <abbr>εὑρέθ</abbr>
                                     <expan>εὑρέθη</expan>
-                                </choice>· ἀπέστραπτο <q>δέ</q>· <q>τόφρα οἱ ἐγγύθεν ἦλθε θεὰ <persName
+                                </choice>· ἀπέστραπτο δέ· <q>τόφρα οἱ ἐγγύθεν ἦλθε θεὰ <persName
                                         n="urn:cite:hmt:pers.pers19">Θετις</persName>
                                     ἀργυρόπεζα·</q></p>
                         </div>
