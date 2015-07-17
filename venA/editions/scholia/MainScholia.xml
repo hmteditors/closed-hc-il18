@@ -3473,10 +3473,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <sic>κινητίκον</sic>
                                     <corr>κινητικόν</corr>
                                 </choice>
-                                <q><persName
-                                        n="urn:cite:hmt:pers.pers189">Πρωτέας</persName></q> δὲ τῷ
+                                <persName
+                                        n="urn:cite:hmt:pers.pers189">Πρωτέας</persName> δὲ τῷ
                                 ορμημένῳ παρα τὸ <rs
-                                    type="waw">ἄω</rs>, ἄλλοι δὲ ἐκ παραλλήλου τὸ μέγα παρα τὴν αῖαν
+                                    type="waw">ἄω</rs>, ἄλλοι δὲ ἐκ παραλλήλου τὸ μέγα παρα τὴν <q>αῖαν</q>
                                 τὴν γῆν· ἐγὼ δὲ ἐπιζητῶ τὸ <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:21.395</ref>
