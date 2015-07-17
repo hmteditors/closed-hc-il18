@@ -38,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.86</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς ὄφελες</p>
+                            <p><q>ὡς ὄφελες</q></p>
                         </div>
                     </div>
                     <div n="2" type="scholion">
@@ -49,10 +49,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.93</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers158">Μενοιτιάδεα</persName><choice>
+                            <p><q><persName n="urn:cite:hmt:pers.pers158">Μενοιτιάδεα</persName><choice>
                                     <abbr>απ</abbr>
                                     <expan>ἀπὸ</expan>
-                                </choice></p>
+                                </choice></q></p>
                         </div>
                     </div>
                     <div n="3" type="scholion">
@@ -84,10 +84,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.395</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.398</p>
                         </div>
                         <div type="comment">
-                            <p>θ'</p>
+                            <p><q>θ'</q></p>
                         </div>
                     </div>
                     <div n="6" type="scholion">
@@ -98,7 +98,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.448</p>
                         </div>
                         <div type="comment">
-                            <p><sic>ἐλίσοντο</sic></p>
+                            <p><q><sic>ἐλίσοντο</sic></q></p>
                         </div>
                     </div>
                     <div n="11" type="scholion">
@@ -128,7 +128,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.550</p>
                         </div>
                         <div type="comment">
-                            <p>βαθυλήϊον</p>
+                            <p><q>βαθυλήϊον</q></p>
                         </div>
                     </div>
                     <div n="8" type="scholion">
@@ -139,10 +139,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.560</p>
                         </div>
                         <div type="comment">
-                            <p>πὸλλ' <choice>
+                            <p><q><del>πὸλλ' <choice>
                                     <abbr>ἐπαλ</abbr>
                                     <expan>ἐπάλυνον</expan>
-                                </choice></p>
+                                </choice></del></q></p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
@@ -153,7 +153,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.571</p>
                         </div>
                         <div type="comment">
-                            <p>ὁμαρτῃ</p>
+                            <p><q>ὁμαρτῃ</q></p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
@@ -164,7 +164,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.602</p>
                         </div>
                         <div type="comment">
-                            <p>ἄλλοτε δ' </p>
+                            <p><q>ἄλλοτε δ'</q></p>
                         </div>
                     </div>
 
