@@ -826,7 +826,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             type="lemma">
                             <p>‡ ἀλήμεναι, υἱας <rs
                                     n="urn:cite:hmt:place.place96"
-                                    type="ethnic">Αχαιῶν</rs>:</p>
+                                    type="ethnic">Αχαιῶν</rs>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -980,7 +980,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div
                             type="comment">
-                            <p>τινὲς <w>περι<del>θ</del>έσπασαν</w> τὸ ἀρῆς ἵνα σημαίνηται βλάβης.
+                            <p>τινὲς <w>περι<del>θ</del>έσπασαν</w> τὸ <q>ἀρῆς</q> ἵνα σημαίνηται βλάβης.
                                 οὕτως καὶ ὁ <choice>
                                     <abbr><persName
                                             n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτ</persName></abbr>
