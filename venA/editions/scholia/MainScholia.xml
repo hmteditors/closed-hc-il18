@@ -1348,7 +1348,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>‡ ναὶ δὴ ταῦτά γε πάντα:</p>
+                            <p>‡ ναὶ δὴ ταῦτά γε πάντα⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -1550,7 +1550,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>πεινάοντα δίεσθαι:</p>
+                            <p>πεινάοντα δίεσθαι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -1581,7 +1581,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>ἀπαρέμφατ</abbr>
                                     <expan>ἀπαρέμφατον</expan>
                                 </choice>
-                                <q>τίθεσθαι</q>· οὕτως καὶ παρα τὸ <q>δίενται</q> τὸ <q>δίεσθαι</q>:
+                                <q>τίθεσθαι</q>· οὕτως καὶ παρα τὸ <q>δίενται</q> τὸ <q>δίεσθαι</q>⁚
                                 ἐπίσταται δὲ καὶ ὑποτακτικὸν αὐτοῦ <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg001:17.110</ref>
@@ -1627,7 +1627,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>οἱ δὲ ἐρύσσασθαι:</p>
+                            <p>οἱ δὲ ἐρύσσασθαι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -1684,7 +1684,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>τίς γάρ σε θεῶν:</p>
+                            <p>τίς γάρ σε θεῶν⁚</p>
                         </div>
                         <div
                             type="ref">
