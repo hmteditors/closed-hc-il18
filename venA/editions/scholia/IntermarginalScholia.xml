@@ -163,7 +163,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.86</p>
                         </div>
                         <div type="comment">
-                            <p>ταῦτα ἀπ αλλης ἀρχῆς ἀναγνωστέον:</p>
+                            <p>ταῦτα ἀπ αλλης ἀρχῆς ἀναγνωστέον⁚</p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
@@ -199,7 +199,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.99</p>
                         </div>
                         <div type="comment">
-                            <p>στικτέον ἐπι τὸ <rs type="waw">αμῦναι</rs>:</p>
+                            <p>στικτέον ἐπι τὸ <rs type="waw">αμῦναι</rs>⁚</p>
                         </div>
                     </div>
                     <div n="13" type="scholion">
@@ -214,7 +214,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <abbr>Αρισταρχ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> δια τοῦ <rs type="waw">ω</rs>
-                                <q><persName n="urn:cite:hmt:pers.pers83">Ἄρεω</persName></q>:</p>
+                                <q><persName n="urn:cite:hmt:pers.pers83">Ἄρεω</persName></q>⁚</p>
                         </div>
                     </div>
                     <div n="14" type="scholion">
@@ -262,7 +262,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <choice>
                                     <abbr>Αριστ</abbr>
                                     <expan>Ἀρίσταρχος</expan>
-                                </choice> αλλοι δὲ <q>αδινᾷ</q> ⁑</p>
+                                </choice> αλλοι δὲ <q><sic>αδινᾷ</sic></q> ⁑</p>
                         </div>
                     </div>
                     <div n="17" type="scholion">
