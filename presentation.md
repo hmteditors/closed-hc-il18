@@ -136,9 +136,10 @@ ___
 
 **Avenues for Future Analysis**
 
-- Still need to evaluate the strength of the correlation between multiforms and mentions of the Alexandrian editors
-- Broadening the sample size by adding text reuse analyses of other books
-- Looking at the lemmata to analyze Multiform 2 -- see above
+- Evaluate the strength of the correlation between multiforms and mentions of the Alexandrian editors
+- Broaden the sample size by adding text reuse analyses of other Iliadic books
+- Look at the lemmata to analyze Multiform 2 
+- Investiage the connection between ὅτι scholia and Aristarchean critical signs
 
 ___
 
