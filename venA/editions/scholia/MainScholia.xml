@@ -1020,7 +1020,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                             n="urn:cite:hmt:pers.pers980">Πείρεω</persName> υἱόν</q>
                                 </cit>· ἐν δε τοῖς εἰκαιοτέροις, <q>ἀρῆς</q> τῆς βλάβης, ἐπεὶ καὶ <persName
                                     n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
-                                <q>ἀρῆς ἀλκτῆρα</q> βλάβης καὶ κακώσεως ἔφη ⁑</p>
+                                <cit><ref type ="urn">urn:cts:greekLit:tlg0020.tlg003:29</ref><q>ἀρῆς ἀλκτῆρα</q></cit> βλάβης καὶ κακώσεως ἔφη ⁑</p>
                         </div>
                     </div>
                     <div
