@@ -131,7 +131,6 @@ ___
 **Results**
 
 - There is a correlation between the occurance of a multiform and references to one of the three Alexandrian grammarians (Aristophanes, Aristarchus, or Zenodotus)
-- Multiforms tend to appear more often in conjunction with the Aristarchan critical signs
 
 ___
 
