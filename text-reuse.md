@@ -1,14 +1,14 @@
-**Analyzing Text Reuse in the Scholia to Reveal Multiformity**
+#Analyzing Text Reuse in the Scholia to Reveal Multiformity
 
-*Brian Clark, Claude Hanley, Stephanie Lindeborg, Stephanie Neville,*
+Brian Clark, Claude Hanley, Stephanie Lindeborg, Stephanie Neville,
 
-*Charlie Schufreider, Alex Simrell, Melody Wauke*
+Charlie Schufreider, Alex Simrell, Melody Wauke
 
 ___
 
-**Research Question**
+## Research Question
 
-- Multiformity in the Iliad
+- Multiformity in the *Iliad*, and "the Homeric Question"
 -  Present in the scholia
 - Not evident in Erbse or Dindorf
 - Alexandrian apparatus criticus
@@ -16,138 +16,212 @@ ___
 
 ___
 
-**Broader Questions**
 
-##Text reuse: ##
 
-Text reuse refers to the meaningful reiteration of text
+##Broader context: text reuse##
 
-Sources for text reuse include both extant and lost works, the occasional paraphrase, and hypothetical uses of language. 
+
+Berti: *text reuse* is
+
+>the meaningful reiteration of text, usually beyond the simple repetition of common language
+    
+
+Sources for text reuse:
+
+- literal quotation of extant or lost works
+- paraphrase
+
 ___
 
-**Process**
+## Method
 
-- Systematic extraction of the non-cited quotes in *Iliad* 18
-- Close reading of the scholia
-- Classification into six categories
-	- Quote 1 
-	- Quote 2
-	- Quote 3
-	- Language Usage
-	- Multiform 1
-	- Multiform 2
+1. Automatically extract quoted with citations (TBA)
+2. Automatically extraction quoted material without citations:
+    - Close reading of the scholia
+    - Classification into six categories
+
 
 ___
 
 #Specific Examples of Categories#
 ___
 
-**Quote 1**
 
-Quotation from an extant text
+## 1. Quotation from an extant text ##
 
-- text taken from the Iliadic line that the scholion is commenting on
 
-18.114:   "νῦν δ' εῖμ'. ὄφρα φίλης κεφαλῆς"
 
-Scholion
+Text quotes Iliadic line that the scholion is commenting on
 
-φησὶ τὸ εξῆς· "νῦν δ' ἐπεὶ οὐ νεομαί γε" "νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς" 
+Lemma to scholion on 18.101:   "νῦν δ' ἐπεὶ οὐ νεομαί γε"
+
+Scholion commenting on 18.101-18.114:
+
+>φησὶ τὸ εξῆς· "νῦν δ' ἐπεὶ οὐ νεομαί γε" "νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς" 
+
+( Consider using μέχρι τοῦ "αμείνονές εἰσὶ καὶ ἄλλοι" ? good example citing part of the passage in discussion of how to puncutate properly)
 
 ___
-**Quote 2**
 
-Quotation from a text that is no longer extant
+## 2. Quotation from a text that is no longer extant ##
 
-- 18.521:"ἐν ποταμῷ. ὅθι τ' ᾱρδμὸς ἔην πάντεσσι βοτοῖσιν."
 
-- Quote: "'πισσοκονίας ἀρὴν' Κρατῖνος"
-___
-**Quote 3**
 
-Quotation of hypothetical speech or text 'contrafactual quotation'
+Main scholion to *Iliad* 18.521, lemma: "αρδμος"
 
-- 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
-
-- Quote: "οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω"
+Quotes Cratinus to show that alpha is short: "'πισσοκονίας ἀρὴν' Κρατῖνος"
 
 
 ___
-**Language Usage**
 
-Example of usage quoted from a native speaker's knowledge of the language
+## 3. Quotation of hypothetical speech or text 'contrafactual quotation'
 
-18.501: "ἄμφω δ᾽ ἱέσθην ἐπὶ ἴστορι πεῖραρ ἑλέσθαι."
+- *Iliad* 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
 
-Quote:
+Scholion:
+
+>τέλειον ἐγκώμιον τοῦ φρονίμου τὰ δὲ ἐναντια ἐπι τοῦ ἄφρονος 
+> "οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω"
+
+
+___
+
+
+## 4. Example of usage quoted from a native speaker's knowledge of the language
+
+*Iliad* 18.501: "ἄμφω δ᾽ ἱέσθην ἐπὶ ἴστορι πεῖραρ ἑλέσθαι."
+
+Scholion on the line:
+
 "ἀπο τοῦ 'είδω' 'εἴσω'. 'ἵστωρ' ἐλλείψαντος τοῦ ε ἐπεὶ τῷ ϊ τὸ στ ἐπεφέρετο ὡς ἐν τῷ 'ἱστῷ' 'ἱστίον' 'ἵστημι'"
 
 ___
 
-**Multiform 1**
+## 5.Direct quotation of a multiform for a given passage
 
-- Direct quotation of a multiform for a given passage
+*Iliad* 18.230-231:
 
-18.230-231: ἔνθα δὲ καὶ τότ᾽ ὄλοντο δυώδεκα φῶτες ἄριστοι
-ἀμφὶ σφοῖς ὀχέεσσι καὶ ἔγχεσιν 
+>ἔνθα δὲ καὶ τότ᾽ ὄλοντο δυώδεκα φῶτες ἄριστοι
+>/ ἀμφὶ σφοῖς ὀχέεσσι καὶ ἔγχεσιν 
 
-Scholion: Ζηνόδοτος γράφει "ἔνθα δε κοῦροι ὄλοντο δυώδεκα πάντες ἄριστοι οἷσιν ἐν βελέεσσιν"
+Scholion on that line: 
+
+>ἡ διπλῆ ὅτι Ζηνόδοτος γράφει "ἔνθα δε κοῦροι ὄλοντο δυώδεκα πάντες ἄριστοι / οἷσιν ἐν βελέεσσιν"
 
 
 ___
 
-**Multiform 2**
+## 6. Apparent multiform, not explicitly identified in the text of the scholion ##
 
-- Apparent multiform, not explicitly identified in the text of the scholion  
+
 - Lemma of the scholion does not align with the VA text
 
-___
-**Sample Size**
-
-- 617 Lines
- 
-
-##All scholia in 18: ##
-
-**Total Scholia: 399** 
-
-Main Scholia: 217 
-
-Intermarginal Scholia: 78 
-
-Interlinear Scholia: 38 
-
-Interior Scholia: 55 
-
-Exterior Scholia: 11 
+??
 ___
 
-**Numbers of Quotes**
+## Sample we studied:  all scholia to *Iliad* 18
 
-
-
-Quote 1: 86 
-
-Quote 2: 5 
-
-Quote 3: 4 
-
-Language Usage: 109 
-
-Multiform 1: 87 
+- 617 lines of the *Iliad*
+- 25 pages of the Venetus A
+- total scholia: 399
+- words in text of scholia: ??
 
 ___
-**Graphs et cetera -- still needed**
+
+
+## Breakdown by class of reuse
+
+
+
+Direct quote: 86 
+
+Lost work: 5 
+
+Hypothetical: 4 
+
+Language usage: 109 
+
+Multiform: 87 
+
+
+---
+
+## Breakdown by type of scholion ##
+
+
+Main scholia: 217 
+
+Intermarginal scholia: 78 
+
+Interlinear scholia: 38 
+
+Interior scholia: 55 
+
+Exterior scholia: 11 
+
 
 ___
-**Results**
 
-- There is a correlation between the occurrence of a multiform and references to one of the three Alexandrian grammarians 
+## Graphs et cetera -- still needed ##
+
+
+
+---
+
+
+## A "tenth-century critical apparatus" ##
+
+
+(Link to or pull up HTML page)
+
+---
+
+## Are citations of multiforms and citations of Alexandrian scholars connected?
+
+---
+
+## chi square test for independence ##
+
+1. compares two sets of categorical data (minimum of 5 occurrences in cross-tabulation cells)
+3. starts from *null hypothesis* : the two sets of data are *independent*
+4. *p-value* measures  probability of randomly getting the observed data.  E.g., 0.01 means you would expect this set of values only 1 time in a 100.
+
+
+---
+
+## Meaning of chi square test ##
+
+
+1. Define a *significance level* (e.g., 0.01 means you consider it significant if the observed data would not show up randomly in more than 1/100 trials)
+2. If *p* &lt; significance level, reject the null hypothesis:  conclude that the two sets of data **are** correlated
+
+
+
+
+___
+
+## Results ##
+
+
+- *p* value = 1.2 * -42 decimal places
+- -> There is a correlation between the occurrence of a multiform and references to one of the three Alexandrian grammarians 
      - Aristophanes, Aristarchus, or Zenodotus
 
+
+
+
+----
+
+## Provisional interpretations ##
+
+
+- multiforms are discussed together with citation of Alexandrian editors
+- does this support the suggestion that the Alexandrian editions fixed the range of multiforms we see in the scholia?
+- despite the range of topics we find in the scholia, the Alexandrians are cited in contexts dealing with multiforms
+
 ___
 
-**Avenues for Future Analysis**
+## Avenues for Future Analysis
 
 - Evaluate the strength of the correlation between multiforms and mentions of the Alexandrian editors
      - Research the connection betwwen the multiforms and the Alexandrian editors
