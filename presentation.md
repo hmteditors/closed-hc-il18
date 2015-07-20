@@ -91,6 +91,7 @@ ___
 - Apparent multiform, not explicitly identified as such in the text of the scholion.  
 - Lemma of the Scholion does not align with the manuscript text
 - Our analysis has not focused on this yet.
+
 ___
 **Sample Size**
 
