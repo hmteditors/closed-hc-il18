@@ -32,8 +32,10 @@ ___
 	- Multiform 1
 	- Multiform 2
 ___
+
 **Specific Examples of Categories**
 ___
+
 **Quote 1**
 
 Quotation from an extant text.
@@ -50,6 +52,7 @@ Quotation from an actual text that is no longer extant.
 - 18.521:"ἐν ποταμῷ. ὅθι τ' ᾱρδμὸς ἔην πάντεσσι βοτοῖσιν."
 
 - Quote: "'πισσοκονίας ἀρὴν' Κρατῖνος"
+
 ___
 **Quote 3**
 
@@ -58,6 +61,7 @@ Quotation of hypothetical speech or text 'contrafactual quotation'
 - Quote: "οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω"
 
 - 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
+
 ___
 **Language Usage**
 
