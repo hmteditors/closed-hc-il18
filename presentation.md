@@ -1,131 +1,141 @@
-**Reuse of Language in the Scholia**
+**Analyzing Text Reuse in the Scholia to Reveal Multiformity**
 
-*Brian Clark, Claude Hanley, Stephanie Lindeborg, Stephanie Neville, Charlie Schufreider, Alex Simrell, Melody Wauke*
+*Brian Clark, Claude Hanley, Stephanie Lindeborg, Stephanie Neville,*
 
-___
-
-**Introduction to the Problem**
-
-Multiformity in the Iliad -- We know that there is multiformity in the scholia, but it's scattered throughout different scholia types.  It's also embedded with other quotes, and requires closer analysis.
-
-There is no way to extract the multiforms from Erbse or Dindorf
-
-Reflects the status of the canonical text of the poems during the later Hellenistic period.  It's akin to an Alexandrian app crit for the later Hellenistic period. **should we include the graphic here as well?**
+*Charlie Schufreider, Alex Simrell, Melody Wauke*
 
 ___
 
-**Broader Questions of Text Reuse**
+**Research Question**
 
--Text reuse refers to the meaningful reiteration of text.  Sources for text reuse include both extant and lost works, the occasional paraphrase, and hypothetical uses of language. 
+- Multiformity in the Iliad
+-  Present in the scholia
+- Not evident in Erbse or Dindorf
+- Alexandrian apparatus criticus
+
+
+___
+
+**Broader Questions**
+
+##Text reuse: ##
+
+Text reuse refers to the meaningful reiteration of text
+
+Sources for text reuse include both extant and lost works, the occasional paraphrase, and hypothetical uses of language. 
 ___
 
 **Process**
 
-- We systematically extracted all of the non-cited q's in our edition of Iliad 18
-- We did a close reading of the Scholia with uncited q's to assign each of them to a subcategory
-- Assigned each of them a urn for text reuse analysis
-- Subdivided the q's into five categories
+- Systematic extraction of the non-cited quotes in *Iliad* 18
+- Close reading of the scholia
+- Classification into six categories
 	- Quote 1 
 	- Quote 2
 	- Quote 3
-	- Langusage
+	- Language Usage
 	- Multiform 1
 	- Multiform 2
 
 ___
 
-**Specific Examples of Categories**
+#Specific Examples of Categories#
 ___
 
 **Quote 1**
 
-Quotation from an extant text.
+Quotation from an extant text
 
-- 18.38: "ἄλλαι θ', αἳ κατὰ βένθος ἁλὸς Νηρηΐδες ἦσαν·"
+- text taken from the Iliadic line that the scholion is commenting on
 
-- Quote: "ἄλλαι δ' αἳ κατα βένθος ἁλὸς Νηρηϊδες ἦσαν"
+18.114:   "νῦν δ' εῖμ'. ὄφρα φίλης κεφαλῆς"
+
+Scholion
+
+φησὶ τὸ εξῆς· "νῦν δ' ἐπεὶ οὐ νεομαί γε" "νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς" 
 
 ___
 **Quote 2**
 
-Quotation from an actual text that is no longer extant.
+Quotation from a text that is no longer extant
 
 - 18.521:"ἐν ποταμῷ. ὅθι τ' ᾱρδμὸς ἔην πάντεσσι βοτοῖσιν."
 
 - Quote: "'πισσοκονίας ἀρὴν' Κρατῖνος"
-
 ___
 **Quote 3**
 
 Quotation of hypothetical speech or text 'contrafactual quotation'
 
+- 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
+
 - Quote: "οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω"
 
-- 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
 
 ___
 **Language Usage**
 
-Example of usage quoted from a native speaker's knowledge of the language, not necessarily from a textual example
+Example of usage quoted from a native speaker's knowledge of the language
 
-- Quote: "'τρυφερὰ' 'νήπια' 'πρᾶα' κατ επικράτησιν δὲ τοῦ ἄρρενος εἴρηκε φρονέοντες εἰπὼν καὶ οὐ φρονέουσαι:"
+18.501: "ἄμφω δ᾽ ἱέσθην ἐπὶ ἴστορι πεῖραρ ἑλέσθαι."
 
-- 18.567: "παρθενικαὶ δὲ καὶ ἠΐθεοι "ἀταλὰ" φρονέοντες."
+Quote:
+"ἀπο τοῦ 'είδω' 'εἴσω'. 'ἵστωρ' ἐλλείψαντος τοῦ ε ἐπεὶ τῷ ϊ τὸ στ ἐπεφέρετο ὡς ἐν τῷ 'ἱστῷ' 'ἱστίον' 'ἵστημι'"
 
 ___
 
 **Multiform 1**
 
-- *still needs formating fixes*
-
 - Direct quotation of a multiform for a given passage
 
-- Can be scanned
+Quote: "Ἕκτωρ τὲ Πριάμοιοσὺῒ ΐκελος ἀλκὴνἀλκήν, / ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει  / ἐλκέμεναι μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει / πῆξαι ἀνα σκόλοπας οἳ τάμονθ' ἁπαλῆς ἀπο δειρῆς"
 
-- Quote: "Ἕκτωρ τὲ Πριάμοιοσὺῒ ΐκελος ἀλκὴνἀλκήν, / ὅς μιν τρὶς μετόπισθε ποδῶν λάβε καὶ μέγ' ἀϋτει  / ἐλκέμεναι μεμαώς κεφαλὴν δέ ἑ θυμὸς ἀνώγει / πῆξαι ἀνα σκόλοπας οἳ τάμονθ' ἁπαλῆς ἀπο δειρῆς"
+18.154-18.158: 
 
-- 18.154-18.158: "Ἕκτωρ τὲ Πριάμοιο πάϊς φλογὶ εἴκελος ἀλκήν./ τρὶς μέν μιν μετ' όπισθε ποδῶν λάβε φαίδιμος Ἕκτωρ/ ἑλκέμεναι μεμαὼς. μέγα δὲ Τρώεσσιν ὁμόκλα·/ τρὶς δὲ δύ' Αἴαντες, θοῦριν ἐπιειμένοι ἀλκὴν. / νεκροῦ ἀπεστυφέλιξαν· ὃ δ' ἔμπεδον, ἀλκὶ πεποιθὼς."
+"Ἕκτωρ τὲ Πριάμοιο πάϊς φλογὶ εἴκελος ἀλκήν./ τρὶς μέν μιν μετ' όπισθε ποδῶν λάβε φαίδιμος Ἕκτωρ/ ἑλκέμεναι μεμαὼς. μέγα δὲ Τρώεσσιν ὁμόκλα·/ τρὶς δὲ δύ' Αἴαντες, θοῦριν ἐπιειμένοι ἀλκὴν. / νεκροῦ ἀπεστυφέλιξαν· ὃ δ' ἔμπεδον, ἀλκὶ πεποιθὼς."
 
 
 ___
 
 **Multiform 2**
 
-- Apparent multiform, not explicitly identified as such in the text of the scholion.  
-- Lemma of the Scholion does not align with the manuscript text
-- Our analysis has not focused on this yet.
+- Apparent multiform, not explicitly identified in the text of the scholion  
+- Lemma of the scholion does not align with the VA text
 
 ___
 **Sample Size**
 
-All types of scholia in 18:
+- 617 Lines
+ 
 
-617 Lines
+##All scholia in 18: ##
 
-399 scholia
+**Total Scholia: 399** 
 
-217 Main Scholia
+Main Scholia: 217 
 
-78 Intermarginal Scholia
+Intermarginal Scholia: 78 
 
-38 Interlinear Interlinear
+Interlinear Scholia: 38 
 
-55 Interior Scholia
+Interior Scholia: 55 
 
-10 Exterior Scholia
+Exterior Scholia: 11 
 ___
 
 **Numbers of Quotes**
 
-109 Langusage
 
-86 Quote1
 
-5 Quote2
+Quote 1: 86 
 
-4 Quote3
+Quote 2: 5 
 
-87 Multiform 1
+Quote 3: 4 
+
+Language Usage: 109 
+
+Multiform 1: 87 
 
 ___
 **Graphs et cetera -- still needed**
@@ -133,17 +143,17 @@ ___
 ___
 **Results**
 
-- There is a correlation between the occurance of a multiform and references to one of the three Alexandrian grammarians (Aristophanes, Aristarchus, or Zenodotus)
+- There is a correlation between the occurrence of a multiform and references to one of the three Alexandrian grammarians 
+     - Aristophanes, Aristarchus, or Zenodotus
 
 ___
 
 **Avenues for Future Analysis**
 
 - Evaluate the strength of the correlation between multiforms and mentions of the Alexandrian editors
+     - Research the connection betwwen the multiforms and the Alexandrian editors
 - Broaden the sample size by adding text reuse analyses of other Iliadic books
 - Look at the lemmata to analyze Multiform 2 
-- Investiage the connection between ὅτι scholia and Aristarchean critical signs
+- Investigate the connection between ὅτι scholia and Aristarchean critical signs
 
 ___
-
-
