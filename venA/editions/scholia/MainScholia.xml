@@ -135,7 +135,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>νηυσὶν ἐπι κλονέονται:</p>
+                            <p>νηυσὶν ἐπι κλονέονται⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -161,7 +161,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὡς ποτέ μοι <choice>
                                     <abbr>μηρ</abbr>
                                     <expan>μήτηρ</expan>
-                                </choice> διεπέφραδε:</p>
+                            </choice> διεπέφραδε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -200,7 +200,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>Μυρμιδόνων τὸν ἄριστον:</p>
+                            <p>Μυρμιδόνων τὸν ἄριστον⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -342,7 +342,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             type="comment">
                             <p><q>ἀψ ἐπι νηας ϊέναι</q> οὕτως ἡ <persName
                                     n="urn:cite:hmt:pers.pers16">Ἀρισταρχου</persName>. ἐπ ἐνίαις δὲ
-                                φαύλως <q>νηας ἐπ ὰψ ϊέναι</q>:</p>
+                                φαύλως <q>νηας ἐπ ὰψ ϊέναι</q>⁚</p>
                         </div>
                     </div>
                     <div
@@ -350,7 +350,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>δάκρυα θερμὰ χεων:</p>
+                            <p>δάκρυα θερμὰ χεων⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -369,7 +369,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p><sic>ᾥ</sic> μοι <persName
-                                    n="urn:cite:hmt:pers.pers184">Πηλέος</persName> ὑιε:</p>
+                                n="urn:cite:hmt:pers.pers184">Πηλέος</persName> ὑιε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -413,7 +413,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>τὸν δ' ἄχεος νεφέλη:</p>
+                            <p>τὸν δ' ἄχεος νεφέλη⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -442,12 +442,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἀπολογεῖται λέγων ὅτι δια τὴν ὑπερβολὴν τῶν πεπραγμένων θρηνεῖ. καὶ <choice>
                                     <abbr>ἄλλω</abbr>
                                     <expan>ἄλλως</expan>
-                                </choice>: συνήθη ταῦτα τῷ τε βίῳ <cit>
+                                </choice>⁚ συνήθη ταῦτα τῷ τε βίῳ <cit>
                                     <ref
                                         type="urn">urn:cts:greekLit:tlg0012.tlg002:4.197-4.198</ref>
                                     <q>τοῦτό νυ καὶ γερας οῖον ὀϊζυροῖσι βρότοισι κείρασθαι τε κόμην
                                             <sic>βαλέην</sic> τ' ἀπο δάκρυ παρειῶν</q>
-                                </cit>: αλλως ει γὰρ <persName
+                                </cit>⁚ αλλως ει γὰρ <persName
                                     n="urn:cite:hmt:pers.pers712">Ἀντίλοχον</persName> ἥττονα φίλον <choice>
                                     <abbr>κατλαμβάνει</abbr>
                                     <expan>καταλαμβάνει</expan>
@@ -465,7 +465,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p>κεῖται <persName
-                                    n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName>:</p>
+                                n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -1020,7 +1020,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                             n="urn:cite:hmt:pers.pers980">Πείρεω</persName> υἱόν</q>
                                 </cit>· ἐν δε τοῖς εἰκαιοτέροις, <q>ἀρῆς</q> τῆς βλάβης, ἐπεὶ καὶ <persName
                                     n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
-                                <cit><ref type ="urn">urn:cts:greekLit:tlg0020.tlg003:29</ref><q>ἀρῆς ἀλκτῆρα</q></cit> βλάβης καὶ κακώσεως ἔφη ⁑</p>
+                                <q>ἀρῆς ἀλκτῆρα</q> βλάβης καὶ κακώσεως ἔφη ⁑</p>
                         </div>
                     </div>
                     <div
@@ -5288,9 +5288,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div
                             type="comment">
-                            <p>τρυφερὰ
-                                νήπια
-                                πρᾶα κατ επικράτησιν δὲ τοῦ ἄρρενος εἴρηκε φρονέοντες εἰπὼν
+                            <p><q>τρυφερὰ</q>
+                                <q>νήπια</q>
+                                <q>πρᾶα</q> κατ επικράτησιν δὲ τοῦ ἄρρενος εἴρηκε φρονέοντες εἰπὼν
                                 καὶ οὐ φρονέουσαι: </p>
                         </div>
                     </div>
