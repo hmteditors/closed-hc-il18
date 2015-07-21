@@ -2858,15 +2858,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="156" type="scholion">
                         <div type="lemma">
-                            <p>αι γάρ μιν θανάτοιο:</p>
+                            <p>αι γάρ μιν θανάτοιο⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.464-18.466</p>
                         </div>
                         <div type="comment">
                             <p>διασταλτέον ἐπι τὸ <q>ϊκάνοι</q> τὸ γὰρ <q><sic>ὃς</sic></q> κυρίως
-                                κεῖται ἐπιφερόμενον ὁ δὲ λόγος εῖθε γὰρ αὐτὸν καὶ τοῦ θανάτου
-                                δυναίμην ἀπαλλάξαι ὡς κάλλιστα ὅπλα ἕχει ⁑</p>
+                                κεῖται ἐπιφερόμενον ὁ δὲ λόγος <sic>εῖθε</sic> γὰρ αὐτὸν καὶ τοῦ θανάτου
+                                δυναίμην ἀπαλλάξαι ὡς κάλλιστα ὅπλα <sic>ἕχει</sic> ⁑</p>
                         </div>
                     </div>
                     <div n="157" type="scholion">
@@ -2874,7 +2874,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><choice>
                                     <abbr>ανων</abbr>
                                     <expan>ἀνθρώπων</expan>
-                                </choice> πολέων:</p>
+                            </choice> πολέων⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.467</p>
@@ -2898,30 +2898,30 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>δια τοῦ <rs type="waw">σ</rs>
                                 <q>εὔπρηστον</q> τινὲς δια τοῦ <rs type="waw">κ</rs> καὶ ἀκούουσι
-                                πρὸς πράξιν ευάρμοστον ⁑</p>
+                                πρὸς <sic>πράξιν</sic> ευάρμοστον ⁑</p>
                         </div>
                     </div>
                     <div n="159" type="scholion">
                         <div type="lemma">
-                            <p>πυράγρην:</p>
+                            <p>πυράγρην⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.477</p>
                         </div>
                         <div type="comment">
-                            <p>τὸν χαλκευτικὸν καρκῖνον τὸν ὀξύλαβον παρα τὸ τὰ ἐκ πυρὸς ἀγρεύειν ὅ
+                            <p>τὸν χαλκευτικὸν <sic>καρκῖνον</sic> τὸν ὀξύλαβον παρα τὸ τὰ ἐκ πυρὸς ἀγρεύειν ὅ
                                 ἐστι λαμβάνειν ⁑</p>
                         </div>
                     </div>
                     <div n="160" type="scholion">
                         <div type="lemma">
-                            <p>ῥαιστῆρα: </p>
+                            <p>ῥαιστῆρα⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.477</p>
                         </div>
                         <div type="comment">
-                            <p> σφοῖραν σιδηρὰν παρα τὸ ῥαίζειν ὅ ἐστιν ἐνεργεῖν ⁑</p>
+                            <p> <sic>σφοῖραν</sic> <sic>σιδηρὰν</sic> παρα τὸ ῥαίζειν ὅ ἐστιν ἐνεργεῖν ⁑</p>
                         </div>
                     </div>
                     <div n="161" type="scholion">
@@ -2933,7 +2933,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p> δια τί μάχαιραν ὁ <persName n="urn:cite:hmt:pers.pers192"
-                                    >Ἥφαιστος</persName> οὐ κατασκευάζει: ὅτι ἡ μάχαιρα παντὶ
+                                >Ἥφαιστος</persName> οὐ κατασκευάζει⁚ ὅτι ἡ μάχαιρα παντὶ
                                 ἁρμόζει· τὸ γὰρ σκεῦος εὔκτητον τὸ δε δόρυ ὑπεξῄρηται δι' ετέραν
                                 αἰτίαν ⁑</p>
                         </div>
