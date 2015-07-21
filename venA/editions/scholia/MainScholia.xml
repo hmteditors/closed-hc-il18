@@ -2668,7 +2668,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="comment">
                             <p>τῶν <rs
-                                    type="ethnic">Τρώων</rs> ὅστις ἂν <sic>ὑπερβαλόντως</sic>
+                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ὅστις ἂν <sic>ὑπερβαλόντως</sic>
                                 ἀνιᾶται ἐπι τοῖς χρήμασιν ὡς μέλλων ἀπολύειν αὐτὰ ὑπο πολεμίων τοῦτο
                                 γὰρ ἐλλεῖπον προς ὑπακούεται <choice>
                                     <sic>συναγαγών</sic>
