@@ -57,9 +57,7 @@ Lemma to scholion on 18.101:   "νῦν δ' ἐπεὶ οὐ νεομαί γε"
 
 Scholion commenting on 18.101-18.114:
 
->φησὶ τὸ εξῆς· "νῦν δ' ἐπεὶ οὐ νεομαί γε" "νῦν δ' εἰμ' ὄφρα φίλης κεφαλῆς" 
-
-( Consider using μέχρι τοῦ "αμείνονές εἰσὶ καὶ ἄλλοι" ? good example citing part of the passage in discussion of how to puncutate properly)
+>αἱ ὑποστιγμαὶ δὲ μέχρι τοῦ "αμείνονές εἰσὶ καὶ ἄλλοι" ἀποτελοῦνται τοῦ  ἐπεὶ συνδέσμου τὸν λογον ρτῶντος ἵν' ᾗ ἀνταπόδοσις.
 
 ___
 
