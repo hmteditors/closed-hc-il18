@@ -2318,7 +2318,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἀμφι μάλα φράζεσθε φίλοι:</p>
+                            <p>ἀμφι μάλα φράζεσθε φίλοι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2336,7 +2336,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>τόφρα δὲ ῥηΐτεροι:</p>
+                            <p>τόφρα δὲ ῥηΐτεροι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2380,7 +2380,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἀλλα περι πτολιος τε <choice>
                                     <abbr>μαχήσετ</abbr>
                                     <expan>μαχήσεται</expan>
-                                </choice>:</p>
+                            </choice>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2435,7 +2435,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>εἰ δ' ὰν ἐμοῖς ἐπέεσσι:</p>
+                            <p>εἰ δ' ὰν ἐμοῖς ἐπέεσσι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2487,7 +2487,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>‡ παντοίου δρόμου άσῃ:</p>
+                            <p>‡ παντοίου δρόμου άσῃ⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2555,7 +2555,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ὃς κέλεαι κατα άστυ:</p>
+                            <p>ὃς κέλεαι κατα άστυ⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2576,7 +2576,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>κτήματα περνάμενα:</p>
+                            <p>κτήματα περνάμενα⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2981,7 +2981,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             type="lemma">
                             <p><persName
                                     n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ' <persName
-                                    n="urn:cite:hmt:pers.pers116">Ἥρην</persName>:</p>
+                                        n="urn:cite:hmt:pers.pers116">Ἥρην</persName>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -3092,7 +3092,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p><sic>ὀφρά</sic> οἱ αὐτόματοι:</p>
+                            <p><sic>ὀφρά</sic> οἱ αὐτόματοι⁚</p>
                         </div>
                         <div
                             type="ref">
