@@ -3912,7 +3912,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>‡ ἒν μὲν γαῖαν:</p>
+                            <p>‡ ἒν μὲν γαῖαν⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -3945,7 +3945,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>σελήνην τε πλήθουσαν: </p>
+                            <p>σελήνην τε πλήθουσαν⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -3965,7 +3965,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             type="lemma">
                             <p><rs
                                     n="urn:cite:hmt:astro.3"
-                                    type="astro">Πληϊάδας</rs> θ': </p>
+                                    type="astro">Πληϊάδας</rs> θ'⁚ </p>
                         </div>
                         <div
                             type="ref">
@@ -4034,7 +4034,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             type="lemma">
                             <p><rs
                                     n="urn:cite:hmt:astro.4"
-                                    type="astro">Ὑάδας</rs> τε:</p>
+                                    type="astro">Ὑάδας</rs> τε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4110,7 +4110,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite:hmt:astro.3"
                                     type="astro">Πηληϊάδας</rs> θ' <rs
                                     n="urn:cite:hmt:astro.4"
-                                    type="astro">Υάδας</rs> τε:</p>
+                                    type="astro">Υάδας</rs> τε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4138,7 +4138,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         type="urn">Τίμαιος</ref></title> θυγατέρες δώδεκα καὶ υἱὸς <persName
                                     n="urn:cite:hmt:pers.pers173">Υἱας</persName>· τοῦτον ἐν <placeName
                                     n="urn:cite:hmt:place.place3">Λιβύη</placeName> κυνηγοῦντα ὄφις
-                                κτεινει· καὶ αἱ μεν πέντε τὸν αδελφὸν θρηνουσαι ἀπόλλυνται: τὰς δὲ
+                                κτεινει· καὶ αἱ μεν πέντε τὸν αδελφὸν θρηνουσαι ἀπόλλυνται⁚ τὰς δὲ
                                 λοιπας δι οικτον καταστερίσας <persName
                                     n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>, <w>Ὑ<add
                                         place="supralinear">ά</add>δας</w> ἐπωνόμασας
@@ -4454,7 +4454,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἥ τ' αὐτοῦ <abbr>στρεφετ</abbr><expan>στρέφεται</expan>:</p>
+                            <p>ἥ τ' αὐτοῦ <abbr>στρεφετ</abbr><expan>στρέφεται</expan>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4714,7 +4714,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἐπι ΐστορι:</p>
+                            <p>ἐπι ΐστορι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4769,7 +4769,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἔπειτ' ἤϊσσον:</p>
+                            <p>ἔπειτ' ἤϊσσον⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4828,7 +4828,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τὴν δ' ετερην <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλιν</expan>
-                                </choice>:</p>
+                            </choice>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -4872,7 +4872,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>κτῆσιν όσην:</p>
+                            <p>κτῆσιν όσην⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5044,7 +5044,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>αρδμος:</p>
+                            <p>αρδμος⁚</p>
                         </div>
                         <div
                             type="ref">
