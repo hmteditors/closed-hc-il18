@@ -2119,7 +2119,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite:hmt:place.place6"
                                     type="ethnic">Τρώων</rs> χρονίζειν· ἡδόμενόν δὲ καὶ μὴ <choice>
                                     <sic>κοὶνον</sic>
-                                    <corr>κοίνον</corr>
+                                    <corr><sic>κοίνον</sic></corr>
                                 </choice> τα αὐτοῖς τὸ ἐπίτευγμα <persName
                                     n="urn:cite:hmt:pers.pers116">Ἥραν</persName> δὲ τὰ ἐναντία
                                 βουλομένην αὐτὸν ἀναγκάζειν· ηδόμενον δὲ καὶ μὴ <sic>κύνοντα</sic>
@@ -2704,7 +2704,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p>ξυνὸς <persName
-                                    n="urn:cite:hmt:pers.pers83">Ἐνυάλιος</persName>:</p>
+                                n="urn:cite:hmt:pers.pers83">Ἐνυάλιος</persName>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2769,7 +2769,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>πυκνὰ μάλα στενάχων ὥς τε λις ἠϋγένειος:</p>
+                            <p>πυκνὰ μάλα στενάχων ὥς τε λις ἠϋγένειος⁚</p>
                         </div>
                         <div
                             type="ref">
