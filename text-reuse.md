@@ -117,6 +117,28 @@ ___
 ??
 ___
 
+
+## Breakdown by type of scholion ##
+
+
+Main scholia: 217 
+
+Intermarginal scholia: 78 
+
+Interlinear scholia: 38 
+
+Interior scholia: 55 
+
+Exterior scholia: 11 
+
+
+___
+
+
+
+----
+
+
 ## Sample we studied:  all scholia to *Iliad* 18
 
 - 617 lines of the *Iliad*
@@ -140,28 +162,6 @@ Hypothetical: 4
 Language usage: 109 
 
 Multiform: 87 
-
-
----
-
-## Breakdown by type of scholion ##
-
-
-Main scholia: 217 
-
-Intermarginal scholia: 78 
-
-Interlinear scholia: 38 
-
-Interior scholia: 55 
-
-Exterior scholia: 11 
-
-
-___
-
-## Graphs et cetera -- still needed ##
-
 
 
 ---
@@ -222,7 +222,7 @@ ___
 ## Avenues for Future Analysis
 
 - Evaluate the strength of the correlation between multiforms and mentions of the Alexandrian editors
-     - Research the connection betwwen the multiforms and the Alexandrian editors
+     - Research the connection between the multiforms and the Alexandrian editors
 - Broaden the sample size by adding text reuse analyses of other Iliadic books
 - Look at the lemmata to analyze Multiform 2 
 - Investigate the connection between ὅτι scholia and Aristarchean critical signs
