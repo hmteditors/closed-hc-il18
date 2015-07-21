@@ -905,7 +905,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         </choice></persName>
                                     <q><choice>
                                             <abbr>τεθνῃωτ</abbr>
-                                            <expan>τεθνῃῶτα</expan>
+                                            <expan><sic>τεθνῃῶτα</sic></expan>
                                         </choice></q> ⁑</p>
                             </div>
                         </div>
