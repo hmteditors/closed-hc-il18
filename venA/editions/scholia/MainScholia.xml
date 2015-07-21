@@ -369,7 +369,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p><sic>ᾥ</sic> μοι <persName
-                                n="urn:cite:hmt:pers.pers184">Πηλέος</persName> ὑιε⁚</p>
+                                n="urn:cite:hmt:pers.pers184">Πηλέος</persName> υἱε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2238,8 +2238,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div
                             type="comment">
-                            <p>τέλειον ἐγκώμιον τοῦ φρονίμου τὰ δὲ ἐναντια ἐπι τοῦ ἄφρονος <q>οὐδέ
-                                    τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω</q> ⁑</p>
+                            <p>τέλειον ἐγκώμιον τοῦ φρονίμου τὰ δὲ ἐναντια ἐπι τοῦ ἄφρονος <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.343</ref><q>οὐδέ
+                                τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω</q></cit> ⁑</p>
                         </div>
                     </div>
                     <div
