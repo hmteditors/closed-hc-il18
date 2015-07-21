@@ -3954,7 +3954,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="comment">
                             <p>τὴν οἶον πεπληρωμενην καὶ ἐγκύμονα τοῦ ηλιακοῦ φωτὸς λέγει δὲ
-                                    <sic>τῆν</sic> παρά σεληνον· εἴρηται δὲ σελήνη οἶον εἰ σελας
+                                    <sic>τῆν</sic> παρά <sic>σεληνον</sic>· εἴρηται δὲ σελήνη οἶον εἰ σελας
                                 νέον. ⁑</p>
                         </div>
                     </div>
@@ -4094,7 +4094,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 θαλασσης συνεδίωξε τὸν <persName
                                     n="urn:cite:hmt:pers.pers59">Διόνυσον</persName> ἐκεινας δὲ ὁ <persName
                                     n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ἐλεήσας
-                                καρηστέρισαν· ἡ ἱστορία παρα <persName
+                                κατηστέρισεν· ἡ ἱστορία παρα <persName
                                     n="urn:cite:hmt:pers.pers255"><choice>
                                         <abbr>Φερεκυδ</abbr>
                                         <expan>Φερεκύδει</expan>
@@ -4248,9 +4248,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         type="urn">urn:cts:greekLit:tlg0020.tlg002:383-384</ref>
                                     <q><rs
                                             n="urn:cite:hmt:astro.3"
-                                            type="astro">Πληϊάδων</rs> Ἄτληγενέων ἐπιτελλομενάων.
+                                            type="astro">Πληϊάδων</rs> <sic>Ἄτληγενέων</sic> ἐπιτελλομενάων.
                                         ἄρχεσθ' ἀμήτοιο· ἀρότροιο δὲ δυσομενάων.</q>
-                                </cit> τὰς δὲ Ἄτλαντας ὁ τυχιας· κλαιούσας αὐτὰς <choice>
+                                </cit> τὰς δὲ Ἄτλαντας ἀτυχιας· κλαιούσας αὐτὰς <choice>
                                     <sic><abbr>κατστερισθῆναι</abbr>
                                         <expan>καταστερισθῆναι</expan></sic>
                                 </choice> φησιν ὁ <persName
@@ -4657,7 +4657,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="comment">
                             <p>ἐξῆπτο διεγήγερτο πλείστη γαμήλιος ὠδή. τὸν δὲ ὑμεναιον ετυμολογοῦσιν
-                                οἱ μεν ἀπο του <sic>μαίειν</sic> ὁμοῦ τον νυμφιον καὶ τὴν νύμφιην·
+                                οἱ μεν ἀπο του <sic>μαίειν</sic> ὁμοῦ τον νυμφιον καὶ τὴν νύμφιον·
                                 ἄλλοι δὲ φυσικῶς ἐπεὶ <sic><w>ὑμ<unclear>εί</unclear>ν</w></sic>
                                 ἐστιν ὁ ρηγνύμενος ἐν τη τον παρθένων δια κορήσει. οἱ δὲ ὅτι <persName
                                     n="urn:cite:hmt:pers.pers1026">Ὑμέναιός</persName> τις <rs
