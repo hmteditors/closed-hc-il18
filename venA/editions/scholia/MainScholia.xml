@@ -621,7 +621,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>δυσαριτοτόκεια⁚</p>
+                            <p><sic>δυσαριτοτόκεια</sic>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -972,7 +972,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἐμεῖο δὲ δῆσεν ἀρῆς:</p>
+                            <p>ἐμεῖο δὲ δῆσεν ἀρῆς⁚</p>
                         </div>
                         <div
                             type="ref">
