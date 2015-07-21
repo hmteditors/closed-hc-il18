@@ -136,8 +136,6 @@ ___
 
 
 
-----
-
 
 ## Sample we studied:  all scholia to *Iliad* 18
 
