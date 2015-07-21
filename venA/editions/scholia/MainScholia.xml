@@ -4892,7 +4892,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τεῖχος μέν ρ' ἄλοχοι τε φίλαι καὶ <choice>
                                     <abbr>νηπ</abbr>
                                     <expan>νήπια</expan>
-                                </choice> τέκνα ῥύατ' ἐφεσταῶτος·</p>
+                                </choice> τέκνα ῥύατ' <sic>ἐφεσταῶτος</sic>·</p>
                         </div>
                         <div
                             type="ref">
@@ -5097,7 +5097,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>εἰράων προπάροιθε:</p>
+                            <p>εἰράων προπάροιθε⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5136,7 +5136,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>νεκρούς τ' ἀλλήλων: </p>
+                            <p>νεκρούς τ' ἀλλήλων⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5154,7 +5154,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>νειόν:</p>
+                            <p>νειόν⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5172,7 +5172,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>τέλεον ϊκεσθαι:</p>
+                            <p>τέλεον ϊκεσθαι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5209,7 +5209,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>ἐν δ' ετίθει τέμενος:</p>
+                            <p>ἐν δ' ετίθει τέμενος⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5226,7 +5226,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div
                             type="lemma">
                             <p/>
-                            <p>ἔριθοι:</p>
+                            <p>ἔριθοι⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5247,7 +5247,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>βασιλεὺς δ' ἐν τοῖσι σιωπῇ:</p>
+                            <p>βασιλεὺς δ' ἐν τοῖσι σιωπῇ⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5263,7 +5263,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>δεῖπνον ἐρίθοισι: </p>
+                            <p>δεῖπνον ἐρίθοισι⁚ </p>
                         </div>
                         <div
                             type="ref">
@@ -5280,7 +5280,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>ἀταλὰ φρονέοντες:</p>
+                            <p>ἀταλὰ φρονέοντες⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -5291,7 +5291,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><q>τρυφερὰ</q>
                                 <q>νήπια</q>
                                 <q>πρᾶα</q> κατ επικράτησιν δὲ τοῦ ἄρρενος εἴρηκε φρονέοντες εἰπὼν
-                                καὶ οὐ φρονέουσαι: </p>
+                                καὶ οὐ φρονέουσαι⁚ </p>
                         </div>
                     </div>
                     <div
@@ -5365,7 +5365,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>παρ' ποταμὸν κελάδοντα:</p>
+                            <p>παρ' ποταμὸν κελάδοντα⁚</p>
                         </div>
                         <div
                             type="ref">
