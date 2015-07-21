@@ -2740,7 +2740,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 δὲ τὰ χρήματα ἃ προέτεινεν αὐτοῖς· τρίτον ὅτι τὴν μὲν ἀπόλαυσιν
                                 ἐκείνοις ἐχαρίσατο τὸν δὲ κίνδυνον αὐτὸς ἐπανεῖλεν παννύχιοι <persName
                                     n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>· ὅρα τὰς
-                                μεταβάσεις ὡς πυκίλαι· ποτε μὲν ἐν τοῖς ἔργοις ὁτὲ δὲ ἐν τοῖς λόγοις
+                                μεταβάσεις ὡς <sic>πυκίλαι</sic>· ποτε μὲν ἐν τοῖς ἔργοις ὁτὲ δὲ ἐν τοῖς λόγοις
                                 ἀγωνιζομένου τοῦ ποιητοῦ· νῦν δὲ καὶ ἐφ ενι εἴδει τῷ θρήνῳ ⁑</p>
                         </div>
                     </div>
@@ -2860,7 +2860,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <choice>
                                     <abbr>μηρ</abbr>
                                     <expan>μήτηρ</expan>
-                                </choice>:</p>
+                                </choice>⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2884,7 +2884,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>‡ ἐν δ' ὠτειλὰς πλῆσαν:</p>
+                            <p>‡ ἐν δ' ὠτειλὰς πλῆσαν⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -2904,7 +2904,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>λιτί:</p>
+                            <p>λιτί⁚</p>
                         </div>
                         <div
                             type="ref">
@@ -3452,7 +3452,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         type="scholion">
                         <div
                             type="lemma">
-                            <p>πέλωρ αίητον:</p>
+                            <p>πέλωρ αίητον⁚</p>
                         </div>
                         <div
                             type="ref">

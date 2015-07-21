@@ -557,7 +557,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.352</p>
                         </div>
                         <div type="comment">
-                            <p>προς το <q><sic>λιτη</sic></q>:</p>
+                            <p>προς το <q><sic>λιτη</sic></q>⁚</p>
                         </div>
                     </div>
                     <div n="39" type="scholion">
@@ -629,7 +629,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.411</p>
                         </div>
                         <div type="comment">
-                            <p>δασύνεται τὸ <q>ἁραιαί</q>:</p>
+                            <p>δασύνεται τὸ <q>ἁραιαί</q>⁚</p>
                         </div>
                     </div>
                     <div n="44" type="scholion">
