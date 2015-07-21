@@ -820,7 +820,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <q><choice>
                                             <abbr>ἀμφοτερωθ</abbr>
                                             <expan>ἀμφοτέρωθεν</expan>
-                                        </choice></q> ἡ Μασσαλιωτικη <q><choice>
+                                        </choice></q> ἡ <title>Μασσαλιωτικη</title> <q><choice>
                                             <abbr>ἀμφοτέρωθ</abbr>
                                             <expan>ἀμφοτέρωθεν</expan>
                                         </choice> ἐπίπνυον αμφις αρωγοι</q> ⁑ </p>
@@ -1027,7 +1027,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         n="urn:cite:hmt:pers.pers16"><choice>
                                             <abbr>Ἀρισταρχ</abbr>
                                             <expan>Ἀριστάρχου</expan>
-                                        </choice></persName>:</p>
+                                        </choice></persName>⁚</p>
                             </div>
                         </div>
                         <div n="69" type="scholion">

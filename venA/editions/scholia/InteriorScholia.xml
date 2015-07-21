@@ -857,7 +857,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> τῶν <choice>
                                     <abbr>χωρευοντ</abbr>
                                     <expan><sic>χωρευόντων</sic></expan>
-                                </choice>:</p>
+                                </choice>⁚</p>
                         </div>
                     </div>
                     <div n="53" type="scholion">
@@ -868,7 +868,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.594</p>
                         </div>
                         <div type="comment">
-                            <p>κατ επικράτειαν τοῦ αρσενικος·:</p>
+                            <p>κατ επικράτειαν τοῦ αρσενικος·⁚</p>
                         </div>
                     </div>
                     <div n="54" type="scholion">
