@@ -713,7 +713,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.506</p>
                         </div>
                         <div type="comment">
-                            <p>κατέσειον ἐπι τὸ σιωπῆσαι: ⁑</p>
+                            <p>κατέσειον ἐπι τὸ σιωπῆσαι⁚ ⁑</p>
                         </div>
                     </div>
                     <div n="43" type="scholion">
@@ -772,7 +772,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></persName> δυικῶς <q><choice>
                                         <abbr>τερπομέ</abbr>
                                         <expan>τερπομένω</expan>
-                                    </choice></q> : </p>
+                                    </choice></q> ⁚ </p>
                         </div>
                     </div>
                     <div n="47" type="scholion">
@@ -899,7 +899,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <expan>γράφεται</expan>
                                 </choice>
                                 <q>τεύχεα καλὰ φέρουσα πάρ <persName n="urn:cite:hmt:pers.pers192"
-                                        >Ἡφαίστοιο</persName> ἄνακτος</q>:</p>
+                                    >Ἡφαίστοιο</persName> ἄνακτος</q>⁚</p>
                         </div>
                     </div>
 
