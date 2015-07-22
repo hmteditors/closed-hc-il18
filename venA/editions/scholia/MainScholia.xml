@@ -4421,7 +4421,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="217" type="scholion">
                         <div type="lemma">
-                            <p>ἡ δ' ΐριξ·</p>
+                            <p>ἡ δ' <sic>ΐριξ</sic>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.616</p>
