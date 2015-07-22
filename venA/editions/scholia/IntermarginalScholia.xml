@@ -797,7 +797,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     ἐλεγεν <choice>
                                             <abbr>παντ</abbr>
                                             <expan>πάντα</expan>
-                                        </choice> ἀποδεδοκέναι οὐ τῷ δημῳ παραδεδωκέναι
+                                        </choice> <sic>ἀποδεδοκέναι</sic> οὐ τῷ δημῳ παραδεδωκέναι
                                     ⁑</p>
                             </div>
                         </div>
