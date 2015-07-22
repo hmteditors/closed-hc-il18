@@ -4123,7 +4123,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="207a" type="scholion">
                         <div type="lemma">
-                            <p>τῶν δ' ἐμὲν λεπτὰς ὁθόνας⁚</p>
+                            <p>τῶν δ' ἐμὲν λεπτὰς <sic>ὁθόνας</sic>⁚</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.595</p>

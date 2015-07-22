@@ -823,7 +823,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         </choice></q> ἡ <title>Μασσαλιωτικη</title> <q><choice>
                                             <abbr>ἀμφοτέρωθ</abbr>
                                             <expan>ἀμφοτέρωθεν</expan>
-                                        </choice> ἐπίπνυον αμφις αρωγοι</q> ⁑ </p>
+                                        </choice> <sic>ἐπίπνυον</sic> αμφις αρωγοι</q> ⁑ </p>
                             </div>
                         </div>
                         <div n="56" type="scholion">
@@ -849,7 +849,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             </div>
                             <div type="comment">
                                 <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
-                                    <q>ἀμοιβηδὸν</q> ὡς <cit>
+                                    <q><sic>ἀμοιβηδὸν</sic></q> ὡς <cit>
                                         <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.463</ref>
                                         <q>κλαγγηδὸν</q>
                                     </cit>, <choice>
@@ -874,7 +874,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                             <abbr>Ζηνοδ</abbr>
                                             <expan>Ζηνοδότῳ</expan>
                                         </choice></persName>
-                                    <q>πῶυι μεγ οιων</q>⁑</p>
+                                    <q><sic>πῶυι</sic> μεγ οιων</q>⁑</p>
                             </div>
                         </div>
                         <div n="59" type="scholion">
@@ -1041,7 +1041,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <p><choice>
                                         <abbr>οτ</abbr>
                                         <expan>ὅτι</expan>
-                                    </choice> σταθμους τὰς κατ ἀγρον βοοστάσεις ⁑</p>
+                                    </choice> σταθμους τὰς κατ αγρον βοοστάσεις ⁑</p>
                             </div>
                         </div>
                         <div n="70" type="scholion">
@@ -1052,7 +1052,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.592</p>
                             </div>
                             <div type="comment">
-                                <p>παρο <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                <p>παρα <persName n="urn:cite:hmt:pers.pers15"><choice>
                                             <abbr>Ζηνοδ</abbr>
                                             <expan>Ζηνοδότῳ</expan>
                                         </choice></persName>
@@ -1079,7 +1079,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.601</p>
                             </div>
                             <div type="comment">
-                                <p><w>κυλῖσ<unclear>ῃ</unclear></w> ἀποπειρήσηται ⁑</p>
+                                <p><w><sic>κυλῖσ<unclear>ῃ</unclear></sic></w> ἀποπειρήσηται ⁑</p>
                             </div>
                         </div>
                         <div n="73" type="scholion">
