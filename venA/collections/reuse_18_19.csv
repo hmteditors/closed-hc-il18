@@ -23,8 +23,8 @@ urn:cite:hmt:reuse.18_19_21,urn:cts:greekLit:tlg5026.msAint.hmt:18.40,"υπὑπ
 urn:cite:hmt:reuse.18_19_22,urn:cts:greekLit:tlg5026.msAint.hmt:18.40,"μετμετά",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_23,urn:cts:greekLit:tlg5026.msAint.hmt:18.40,"μετὰ δαϊδων",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_24,urn:cts:greekLit:tlg5026.msAint.hmt:18.40,"ᾀδων ὑπ αυλητηρος",urn:cite:hmt:reusetype.quote2,urn:cts:greekLit:tlg0012.tlg001.msA:18.492
-urn:cite:hmt:reuse.18_19_25,urn:cts:greekLit:tlg5026.msAint.hmt:18.57,"αποκταμενου",,
-urn:cite:hmt:reuse.18_19_26,urn:cts:greekLit:tlg5026.msAint.hmt:18.58,"δήμῳ πιφράσκων",,
+urn:cite:hmt:reuse.18_19_25,urn:cts:greekLit:tlg5026.msAint.hmt:18.57,"αποκταμενου",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.499
+urn:cite:hmt:reuse.18_19_26,urn:cts:greekLit:tlg5026.msAint.hmt:18.58,"δήμῳ πιφράσκων",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.500
 urn:cite:hmt:reuse.18_19_27,urn:cts:greekLit:tlg5026.msAint.hmt:18.44,"ρύατο",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.515
 urn:cite:hmt:reuse.18_19_28,urn:cts:greekLit:tlg5026.msAint.hmt:18.46,"τερπομέτερπομένω",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.526
 urn:cite:hmt:reuse.18_19_29,urn:cts:greekLit:tlg5026.msAint.hmt:18.47,"είμα τ' ἔχε",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.538
@@ -85,7 +85,7 @@ urn:cite:hmt:reuse.18_19_83,urn:cts:greekLit:tlg5026.msAim.hmt:18.68,"δύο π�
 urn:cite:hmt:reuse.18_19_84,urn:cts:greekLit:tlg5026.msAim.hmt:18.70,"Αριηδῃ",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.592
 urn:cite:hmt:reuse.18_19_85,urn:cts:greekLit:tlg5026.msAim.hmt:18.71,"καλὰς οθόνας",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.595
 urn:cite:hmt:reuse.18_19_86,urn:cts:greekLit:tlg5026.msAim.hmt:18.73,"ὅμιλος",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.603
-urn:cite:hmt:reuse.18_19_87,urn:cts:greekLit:tlg5026.msAim.hmt:18.73,"τερπόμενοι",,
+urn:cite:hmt:reuse.18_19_87,urn:cts:greekLit:tlg5026.msAim.hmt:18.73,"τερπόμενοι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.604_605
 urn:cite:hmt:reuse.18_19_88,urn:cts:greekLit:tlg5026.msA.hmt:18.8,"χερσὶν ὑπο Τρώων",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.11
 urn:cite:hmt:reuse.18_19_89,urn:cts:greekLit:tlg5026.msA.hmt:18.9,"Μυρμιδόνων τὸν ἄριστον",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.10
 urn:cite:hmt:reuse.18_19_90,urn:cts:greekLit:tlg5026.msA.hmt:18.12,"ἀψ ἐπι νηας ϊέναι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.14
