@@ -89,15 +89,15 @@ urn:cite:hmt:reuse.18_19_87,urn:cts:greekLit:tlg5026.msAim.hmt:18.73,"τερπό
 urn:cite:hmt:reuse.18_19_88,urn:cts:greekLit:tlg5026.msA.hmt:18.8,"χερσὶν ὑπο Τρώων",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.11
 urn:cite:hmt:reuse.18_19_89,urn:cts:greekLit:tlg5026.msA.hmt:18.9,"Μυρμιδόνων τὸν ἄριστον",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.10
 urn:cite:hmt:reuse.18_19_90,urn:cts:greekLit:tlg5026.msA.hmt:18.12,"ἀψ ἐπι νηας ϊέναι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.14
-urn:cite:hmt:reuse.18_19_91,urn:cts:greekLit:tlg5026.msA.hmt:18.12,"νηας ἐπ ὰψ ϊέναι",,
+urn:cite:hmt:reuse.18_19_91,urn:cts:greekLit:tlg5026.msA.hmt:18.12,"νηας ἐπ ὰψ ϊέναι",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.14
 urn:cite:hmt:reuse.18_19_92,urn:cts:greekLit:tlg5026.msA.hmt:18.15,"σκυλεύσας τὰ ὄπλα ἔχει",urn:cite:hmt:reusetype.quote3,urn:cts:greekLit:tlg0012.tlg001.msA:18.21
-urn:cite:hmt:reuse.18_19_93,urn:cts:greekLit:tlg5026.msA.hmt:18.18,"ἡρωϊστί",,
+urn:cite:hmt:reuse.18_19_93,urn:cts:greekLit:tlg5026.msA.hmt:18.18,"ἡρωϊστί",urn:cite:hmt:reusetype.quote2,
 urn:cite:hmt:reuse.18_19_94,urn:cts:greekLit:tlg5026.msA.hmt:18.18,"ταχέως",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_95,urn:cts:greekLit:tlg5026.msA.hmt:18.21,"ἄλλαι δ' αἳ κατα βένθος ἁλὸς Νηρηϊδες ἦσαν",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.49
 urn:cite:hmt:reuse.18_19_96,urn:cts:greekLit:tlg5026.msA.hmt:18.21,"ἔνθα",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.39
 urn:cite:hmt:reuse.18_19_97,urn:cts:greekLit:tlg5026.msA.hmt:18.22,"Γλαύκη",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.39
 urn:cite:hmt:reuse.18_19_98,urn:cts:greekLit:tlg5026.msA.hmt:18.22,"Νημερτής τε καὶ Ἀψευδής",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.46
-urn:cite:hmt:reuse.18_19_99,urn:cts:greekLit:tlg5026.msA.hmt:18.30,"ἀπο",,
+urn:cite:hmt:reuse.18_19_99,urn:cts:greekLit:tlg5026.msA.hmt:18.30,"ἀπο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.64
 urn:cite:hmt:reuse.18_19_100,urn:cts:greekLit:tlg5026.msA.hmt:18.33,"ἀλῆναι",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_101,urn:cts:greekLit:tlg5026.msA.hmt:18.33,"ἀλήμεναι",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.76
 urn:cite:hmt:reuse.18_19_102,urn:cts:greekLit:tlg5026.msA.hmt:18.34,"παθέειν τ' ἀεκήλια ἔργα·",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.77
@@ -106,18 +106,17 @@ urn:cite:hmt:reuse.18_19_104,urn:cts:greekLit:tlg5026.msA.hmt:18.35,"αίθ' ὄ
 urn:cite:hmt:reuse.18_19_105,urn:cts:greekLit:tlg5026.msA.hmt:18.36,"ἵνα",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.88
 urn:cite:hmt:reuse.18_19_106,urn:cts:greekLit:tlg5026.msA.hmt:18.36,"ἀποφθιμένοιο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.89
 urn:cite:hmt:reuse.18_19_107,urn:cts:greekLit:tlg5026.msA.hmt:18.36,"ἀνέρος ἔμβαλον εὐνῇ",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.85
-urn:cite:hmt:reuse.18_19_108,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ἀπολέσσῃ",,
+urn:cite:hmt:reuse.18_19_108,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ἀπολέσσῃ",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_109,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ἀπο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.92
-urn:cite:hmt:reuse.18_19_110,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ὑπο",,
-urn:cite:hmt:reuse.18_19_111,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ὑπ εμῷ",,
-urn:cite:hmt:reuse.18_19_112,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"δουρὶ εμῷ",,
+urn:cite:hmt:reuse.18_19_110,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ὑπο",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.92
+urn:cite:hmt:reuse.18_19_111,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"ὑπ εμῷ",urn:cite:hmt:reusetype.langusage,
+urn:cite:hmt:reuse.18_19_112,urn:cts:greekLit:tlg5026.msA.hmt:18.37,"δουρὶ εμῷ",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_113,urn:cts:greekLit:tlg5026.msA.hmt:18.38,"αὐτίκα",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.98
-urn:cite:hmt:reuse.18_19_114,urn:cts:greekLit:tlg5026.msA.hmt:18.39,"ἀρῆς",,
+urn:cite:hmt:reuse.18_19_114,urn:cts:greekLit:tlg5026.msA.hmt:18.39,"ἀρῆς",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
 urn:cite:hmt:reuse.18_19_115,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"Ἄρεω",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
-urn:cite:hmt:reuse.18_19_116,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ὁ Ἄρεως",,
-urn:cite:hmt:reuse.18_19_117,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ὁ Πείρεως",,
+urn:cite:hmt:reuse.18_19_116,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ὁ Ἄρεως",urn:cite:hmt:reusetype.langusage,
+urn:cite:hmt:reuse.18_19_117,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ὁ Πείρεως",urn:cite:hmt:reusetype.langusage,
 urn:cite:hmt:reuse.18_19_118,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς",urn:cite:hmt:reusetype.quote1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
-urn:cite:hmt:reuse.18_19_119,urn:cts:greekLit:tlg5026.msA.hmt:18.40,"ἀρῆς ἀλκτῆρα",,
 urn:cite:hmt:reuse.18_19_120,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"Ἄρεω ἀλκτῆρα",urn:cite:hmt:reusetype.multiform1,urn:cts:greekLit:tlg0012.tlg001.msA:18.100
 urn:cite:hmt:reuse.18_19_121,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"εδησεν",,
 urn:cite:hmt:reuse.18_19_122,urn:cts:greekLit:tlg5026.msA.hmt:18.41,"ἔδησεν",,
