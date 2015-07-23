@@ -2832,8 +2832,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <q>γὰρ</q>
                                 <q>ό</q> ἀντι ὑποτακτικοῦ κεῖται τὸ <q>ὃς</q>· <q>ὃς γὰρ ἦν</q>
                                 αὐτῷ, τοῦτον ἀπώλεσεν ὁ εταῖρος λείπει γὰρ τὸ <q>τοιουτον</q> τῆς
-                                ἀναφορὰς ἐπι τὸν θώρακα οὐκ επι τὸν <q><persName
-                                        n="urn:cite:hmt:pers.pers158">Πατροκλον</persName></q> οὔσης
+                                ἀναφορὰς ἐπι τὸν θώρακα οὐκ επι τὸν <persName
+                                        n="urn:cite:hmt:pers.pers158">Πατροκλον</persName> οὔσης
                                 ὡς ᾠήθησάν <choice>
                                     <sic>τινές</sic>
                                     <corr>τινες</corr>
