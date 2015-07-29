@@ -23,7 +23,7 @@ ___
 ##Broader context: text reuse##
 
 
-Berti: *text reuse* is
+Monica Berti: *text reuse* is
 
 >the meaningful reiteration of text, usually beyond the simple repetition of common language
     
