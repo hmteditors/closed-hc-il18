@@ -18,7 +18,37 @@ ___
 
 ___
 
+# Homer Multitext Project#
 
+>one sentence
+
+***
+
+#Manuscripts of the HMT#
+
+- Venetus A (10th Century CE)
+- Venetus B (15th Century CE)
+- Marciana 841 (12th/13th Century CE)
+- Escorial Υ.I.1 (11th Century CE)
+- Escorial Ω.I.12 (11th Century CE)
+- Genavensis 44 (13th Century CE)
+
+***
+
+#The Venetus A Manuscript (*Marcianus Graecus* 822)#
+
+
+[Folio 12r of the Venetus A](http://www.homermultitext.org/hmt-digital/ict.html?urn=urn:cite:hmt:vaimg.VA012RN-0013)
+
+***
+
+#Editing Process#
+
+![XML of 12r][Img1]
+
+[Img1]:  ScreenShot.png 
+
+***
 
 ##Broader context: text reuse##
 
