@@ -11,7 +11,7 @@ ___
 ## Research Question
 
 - Multiformity in the *Iliad*, and "the Homeric Question"
--  Present in the scholia
+     -  Present in the scholia
 - Not evident in modern printed editions
 - an "Alexandrian apparatus criticus"
 
