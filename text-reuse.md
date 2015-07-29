@@ -98,7 +98,7 @@ ___
 
 **need to update all these numbers**
 
-- 617 lines of the *Iliad*
+- 1041 lines of the *Iliad*
 - 25 pages of the Venetus A
 - total scholia: 399
 - words in text of scholia: more than 9400
