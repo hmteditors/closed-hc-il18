@@ -209,9 +209,12 @@ ___
 ## Provisional interpretations ##
 
 
-- multiforms are discussed together with citation of Alexandrian editors
-- does this support the suggestion that the Alexandrian editions fixed the range of multiforms we see in the scholia?
-- despite the range of topics we find in the scholia, the Alexandrians are cited in contexts dealing with multiforms
+- Multiforms are discussed in conjunction with a citation of the Alexandrian editors -- Aristarchus, Zenodotus, and Aristophanes
+- "Canonical Multiforms"
+	- Papyri which predate the Alexandrians reflect a far more diverse tradition of multiforms than those attested to by Alexandrian editions
+	- This implies that something caused these multiforms to fall out of use in texts in the Hellenistic period.
+	- The association of the Alexandrians with the multiforms indicates that they were responsible for the multiforms which are attested to in the manuscript tradition.
+	- We suspect, from these facts, that the Alexandrians were responsible for editing down the diversity of multiforms which earlier papyri reflect -- in short, that Aristarchus, Zenodotus, and Aristophanes were chiefly responsible for setting the text of the Iliad as we know it today.
 
 ___
 
