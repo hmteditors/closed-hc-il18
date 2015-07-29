@@ -220,7 +220,7 @@ ___
 
 ## Avenues for Future Analysis
 
-- Research the connection between the multiforms and the Alexandrian editors
+- Further research the connection between the multiforms and the Alexandrian editors
 - Broaden the sample size by adding text reuse analyses of other Iliadic books
 - Run statistical analysis on other trends we've noticed over the years
 
