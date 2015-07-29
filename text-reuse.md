@@ -12,7 +12,7 @@ ___
 
 - Multiformity in the *Iliad*, and "the Homeric Question"
 -  Present in the scholia
-- Not evident in Erbse or Dindorf
+- Not evident in modern printed editions
 - an "Alexandrian apparatus criticus"
 
 
