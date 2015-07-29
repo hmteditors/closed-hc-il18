@@ -18,9 +18,9 @@ ___
 
 ___
 
-# Homer Multitext Project#
+# Homer Multitext project#
 
->one sentence
+>seeks to present the Homeric poems in a framework that reflects the oral tradition in which they were composed 
 
 ***
 
