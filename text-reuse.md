@@ -8,15 +8,6 @@ Charlie Schufreider, Alex Simrell, Melody Wauke
 
 ___
 
-## Research Question
-
-- Multiformity in the *Iliad*, and "the Homeric Question"
-     -  Present in the scholia
-- Not evident in modern printed editions
-- an "Alexandrian apparatus criticus"
-
-
-___
 
 # Homer Multitext project#
 
@@ -40,7 +31,7 @@ ___
 
 [Folio 12r of the Venetus A](http://www.homermultitext.org/hmt-digital/ict.html?urn=urn:cite:hmt:vaimg.VA012RN-0013)
 
-***
+------
 
 #Editing Process#
 
@@ -48,7 +39,18 @@ ___
 
 [Img1]:  ScreenShot.png 
 
-***
+-----
+
+## Research Question
+
+- Multiformity in the *Iliad*, and "the Homeric Question"
+     -  Present in the scholia
+- Not evident in modern printed editions
+- an "Alexandrian apparatus criticus"
+
+
+___
+
 
 ##Broader context: text reuse##
 
