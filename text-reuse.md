@@ -75,6 +75,17 @@ ___
     - Analysis recorded in simple `.csv` file
     - Classification into six categories
 
+
+-----
+
+##Categories##
+
+     1. Direct quote from the Iliad line
+     2. Quote from a no longer extant source
+     3. Quotation of hypothetical speech or "contrafactual quotation"
+     4. Phrase quoted from native speaker's knowledge of the language
+     5. multiform
+
 ___
 
 
