@@ -75,15 +75,11 @@ ___
     - Analysis recorded in simple `.csv` file
     - Classification into six categories
 
-
-___
-
-#Specific Examples of Categories#
 ___
 
 
 
-## 5.Direct quotation of a multiform for a given passage
+## Direct quotation of a multiform for a given passage
 
 *Iliad* 18.230-231:
 
@@ -98,9 +94,9 @@ Scholion on that line:
 ___
 
 
-## Sample we studied:  all scholia to *Iliad* 18
+## Sample we studied:  all scholia to *Iliad* 18 and 19
 
-
+**need to update all these numbers**
 
 - 617 lines of the *Iliad*
 - 25 pages of the Venetus A
