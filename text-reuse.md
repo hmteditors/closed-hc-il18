@@ -109,9 +109,19 @@ ___
 >ἔνθα δὲ καὶ τότ᾽ ὄλοντο δυώδεκα φῶτες ἄριστοι
 >/ ἀμφὶ σφοῖς ὀχέεσσι καὶ ἔγχεσιν 
 
-Scholion on that line: 
+Translation:
+
+>And there at that time the twelve best men died 
+>/ by both their chariots and spears
+---
+
+Scholion for 18.230-231: 
 
 >ἡ διπλῆ ὅτι Ζηνόδοτος γράφει "ἔνθα δε κοῦροι ὄλοντο δυώδεκα πάντες ἄριστοι / οἷσιν ἐν βελέεσσιν"
+
+Translation:
+
+>The diple is here because Zenodotus writes, "And there all twelve of the best boys died / by these sorts of missles"
 
 
 ___
