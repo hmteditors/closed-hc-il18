@@ -1,4 +1,5 @@
-# Iliadic multiforms  in the Venetus A scholia #
+# For oral tradition to a written text
+## Evidence from a 10th century manuscript
 
 
 
@@ -228,65 +229,6 @@ ___
 From Alexandria -> digital HMT
 
 ----
-The End!
+Thank you!
 
 -------------
-
-## 1. Quotation from an extant text ##
-
-
-
-Text quotes Iliadic line that the scholion is commenting on
-
-
-E.g., scholion commenting on 18.101-18.114:
-
->αἱ ὑποστιγμαὶ δὲ μέχρι τοῦ "αμείνονές εἰσὶ καὶ ἄλλοι" ἀποτελοῦνται τοῦ  ἐπεὶ συνδέσμου τὸν λογον ρτῶντος ἵν' ᾗ ἀνταπόδοσις.
-
-___
-
-## 2. Quotation from a text that is no longer extant ##
-
-
-
-Main scholion to *Iliad* 18.521, lemma: "αρδμος"
-
-Quotes Cratinus to show that alpha is short: "'πισσοκονίας ἀρὴν' Κρατῖνος"
-
-
-___
-
-## 3. Quotation of hypothetical speech or text 'contrafactual quotation'
-
-- *Iliad* 18.250: Πανθοίδης. ὃ γὰρ οἶος ὅρα πρόσσω καὶ ὀπίσσω· 
-
-Scholion:
-
->τέλειον ἐγκώμιον τοῦ φρονίμου τὰ δὲ ἐναντια ἐπι τοῦ ἄφρονος 
-> "οὐδέ τι οἶδε νοῆσαι ἅμα πρόσσω καὶ οπίσσω"
-
-
-___
-
-
-## 4. Example of usage quoted from a native speaker's knowledge of the language
-
-*Iliad* 18.501: "ἄμφω δ᾽ ἱέσθην ἐπὶ ἴστορι πεῖραρ ἑλέσθαι."
-
-Scholion on the line:
-
-"ἀπο τοῦ 'είδω' 'εἴσω'. 'ἵστωρ' ἐλλείψαντος τοῦ ε ἐπεὶ τῷ ϊ τὸ στ ἐπεφέρετο ὡς ἐν τῷ 'ἱστῷ' 'ἱστίον' 'ἵστημι'"
-
-___
-
-
-___
-
-## 6. Apparent multiform, not explicitly identified in the text of the scholion ##
-
-
-- Lemma of the scholion does not align with the VA text
-- (Can be automatically extracted when validation completed)
-
-
-
