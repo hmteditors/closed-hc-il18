@@ -110,8 +110,7 @@ ___
 
 Translation:
 
->And there at that time the twelve best men died 
->/ by both their chariots and spears
+>And there at that time the twelve best men died / by both their chariots and spears
 ---
 
 Scholion for 18.230-231: 
