@@ -82,18 +82,18 @@ ___
 2. Automatically extraction quoted material without citations:
     - Close reading of the scholia
     - Analysis recorded in simple `.csv` file
-    - Classification into six categories
+    - Classification into categories
 
 
 -----
 
 ##Categories##
 
-     1. Direct quote from the Iliad line
-     2. Quote from a no longer extant source
-     3. Quotation of hypothetical speech or "contrafactual quotation"
-     4. Phrase quoted from native speaker's knowledge of the language
-     5. multiform
+     - Direct quote from the Iliad line
+     - Quote from a no longer extant source
+     - Quotation of hypothetical speech or "contrafactual quotation"
+     - Phrase quoted from native speaker's knowledge of the language
+     - multiform
 
 ___
 
