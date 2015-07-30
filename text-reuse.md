@@ -150,15 +150,15 @@ ___
 (To be added: "apparent multiforms" from lemmata to main scholia and attributed citations [TEI `cit`])
 
 
-Direct quote: 86 
+Direct quote: 124 
 
 Lost work: 5 
 
-Hypothetical: 4 
+Hypothetical: 9 
 
-Language usage: 109 
+Language usage: 145 
 
-Multiform: 87 
+Multiform: 136 
 
 
 ---
