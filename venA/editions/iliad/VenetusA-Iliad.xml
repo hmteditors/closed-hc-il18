@@ -313,8 +313,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="169">ἀγχοῦ δ' ἱσταμένη. ἔπεα πτερόεντα προσηύδᾱ·</l>
                 <l n="170">ὄρσεο <persName n="urn:cite:hmt:pers.pers1">Πηλείδη</persName>, πάντων
                     ἐκπαγλότατ' ἀνδρῶν· </l>
-                <l n="171"><persName n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> ἐπάμυνον. οὗ εἵνεκα φύλοπις
-                    αἰνὴ.</l>
+                <l n="171"><persName n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> ἐπάμυνον. οὗ
+                    εἵνεκα φύλοπις αἰνὴ.</l>
                 <l n="172">ἕστηκε πρὸ νεῶν. οἳ δ' ἀλλήλους ὀλέκουσῑν.</l>
                 <l n="173">οἳ μὲν ἀμυνόμενοι νέκυος περι <choice>
                         <orig><sic>τεθνειῶτος</sic></orig>
@@ -497,9 +497,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     πόλιν μέροπες ἄνθρωποι</l>
                 <l n="289">πάντες μυθέσκοντο. πολύχρυσον πολύχαλκον.</l>
                 <l n="290">νῦν δὲ δὴ ἐξαπόλωλε δόμων κειμήλια καλά. </l>
-                <l n="291">πολλὰ <choice><orig>δὲ</orig><reg>δὴ</reg></choice> <placeName n="urn:cite:hmt:place.place231"
-                        >Φρυγίην</placeName> καὶ <placeName n="urn:cite:hmt:place.place87"
-                        >Μῃονίην</placeName> ἐρατεινὴν</l>
+                <l n="291">πολλὰ <choice>
+                        <orig>δὲ</orig>
+                        <reg>δὴ</reg>
+                    </choice>
+                    <placeName n="urn:cite:hmt:place.place231">Φρυγίην</placeName> καὶ <placeName
+                        n="urn:cite:hmt:place.place87">Μῃονίην</placeName> ἐρατεινὴν</l>
                 <l n="292">κτήματα περνάμεν' ΐκει. ἐπεὶ μέγας ὠδύσατο <persName
                         n="urn:cite:hmt:pers.pers8">Ζεύς</persName>·</l>
                 <l n="293">νῦν δ' ὅτε πέρ μοι ἔδωκε <persName n="urn:cite:hmt:pers.pers139"
@@ -507,13 +510,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="294">κῦδος ἀρέσθ' ἐπὶ νηυσὶ· θαλάσσῃ τ' έλσαι <rs type="ethnic"
                         n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs>.</l>
                 <l n="295">νήπιε μηκέτι ταῦτα νοήματα φαῖν' ἐνὶ δήμῳ·</l>
-                <l n="296">οὐ γάρ τις <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>
-                    ἐπὶ πείσεται. οὐ γὰρ ἐάσω·</l>
+                <l n="296">οὐ γάρ τις <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἐπὶ
+                    πείσεται. οὐ γὰρ ἐάσω·</l>
                 <l n="297">ἀλλ' ἄγεθ' ὡς ἂν ἐγὼ εἴπω πειθώμεθα πάντες·</l>
                 <l n="298">νῦν μὲν δόρπον ἕλεσθε κατὰ στρατὸν, ἐν τελέεσσι·</l>
                 <l n="299">καὶ φυλακῆς μνήσασθε. καὶ ἐγρήγορθε ἕκαστος·</l>
-                <l n="300"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> δ' ὃς κτεάτεσσιν
-                    ὑπερφιάλως ἀνιάζει. </l>
+                <l n="300"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> δ' ὃς
+                    κτεάτεσσιν ὑπερφιάλως ἀνιάζει. </l>
                 <l n="301">συλλέξας λαοῖσι δότω καταδημοβορῆσαι·</l>
                 <l n="302">τῶν τινα βέλτερον ἐστιν ἐπαυρέμεν. ἤ περ <rs type="ethnic"
                         n="urn:cite:hmt:place.place96">Ἀχαιούς</rs>·</l>

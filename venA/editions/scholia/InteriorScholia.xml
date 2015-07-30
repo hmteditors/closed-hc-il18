@@ -493,7 +493,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ἐρυθρὰν ποιῆσαι τῷ <choice>
                                     <abbr>αἵματ</abbr>
                                     <expan>αἵματι</expan>
-                            </choice>⁚</p>
+                                </choice>⁚</p>
                         </div>
                     </div>
                     <div n="33" type="scholion">
@@ -783,7 +783,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.538</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν τῇ <sic>Μασσαλέωτικῆ</sic> <q><sic>είμα</sic> τ' ἔχε</q> ⁑</p>
+                            <p>ἐν τῇ <sic>Μασσαλέωτικῆ</sic>
+                                <q><sic>είμα</sic> τ' ἔχε</q> ⁑</p>
                         </div>
                     </div>
                     <div n="48" type="scholion">
@@ -899,7 +900,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <expan>γράφεται</expan>
                                 </choice>
                                 <q>τεύχεα καλὰ φέρουσα πάρ <persName n="urn:cite:hmt:pers.pers192"
-                                    >Ἡφαίστοιο</persName> ἄνακτος</q>⁚</p>
+                                        >Ἡφαίστοιο</persName> ἄνακτος</q>⁚</p>
                         </div>
                     </div>
 

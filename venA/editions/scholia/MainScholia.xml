@@ -772,7 +772,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         υἱόν</q>
                                 </cit>· ἐν δε τοῖς εἰκαιοτέροις, <q>ἀρῆς</q> τῆς βλάβης, ἐπεὶ καὶ
                                     <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
-                                <cit><ref type="urn">urn:cts:greekLit:tlg0020.tlg003:29</ref><q>ἀρῆς ἀλκτῆρα</q></cit> βλάβης καὶ κακώσεως ἔφη ⁑</p>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0020.tlg003:29</ref>
+                                    <q>ἀρῆς ἀλκτῆρα</q>
+                                </cit> βλάβης καὶ κακώσεως ἔφη ⁑</p>
                         </div>
                     </div>
                     <div n="41" type="scholion">
@@ -2833,8 +2836,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>ό</q> ἀντι ὑποτακτικοῦ κεῖται τὸ <q>ὃς</q>· <q>ὃς γὰρ ἦν</q>
                                 αὐτῷ, τοῦτον ἀπώλεσεν ὁ εταῖρος λείπει γὰρ τὸ <q>τοιουτον</q> τῆς
                                 ἀναφορὰς ἐπι τὸν θώρακα οὐκ επι τὸν <persName
-                                        n="urn:cite:hmt:pers.pers158">Πατροκλον</persName> οὔσης
-                                ὡς ᾠήθησάν <choice>
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλον</persName> οὔσης ὡς
+                                ᾠήθησάν <choice>
                                     <sic>τινές</sic>
                                     <corr>τινες</corr>
                                 </choice> ⁑</p>
@@ -3194,7 +3197,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 καθὸ ἐπιφέρονται καὶ δια μόνων αὐτῶν σημειοῦνται τὰς ἑωας ἐπιτολὰς
                                 πρὸς θέρος καὶ τὰς ἐσπερίους πρὸς ἄροτρον ὡς <persName
                                     n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
-                                <cit><ref type="urn">urn:cts:greekLit:tlg0020.tlg002:383-384</ref>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0020.tlg002:383-384</ref>
                                     <q><rs n="urn:cite:hmt:astro.3" type="astro">Πληϊάδων</rs>
                                         <sic>Ἄτληγενέων</sic> ἐπιτελλομενάων. ἄρχεσθ' ἀμήτοιο·
                                         ἀρότροιο δὲ δυσομενάων.</q>
@@ -3515,11 +3519,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ἐξῆπτο διεγήγερτο πλείστη γαμήλιος ὠδή. τὸν δὲ ὑμεναιον ετυμολογοῦσιν
-                                οἱ μεν ἀπο του <sic>μαίειν</sic> ὁμοῦ τον νυμφιον καὶ τὴν <sic>νύμφιον</sic>·
-                                ἄλλοι δὲ φυσικῶς ἐπεὶ <sic><w>ὑμ<unclear>εί</unclear>ν</w></sic>
-                                ἐστιν ὁ ρηγνύμενος ἐν τη τον παρθένων δια κορήσει. οἱ δὲ ὅτι
-                                    <persName n="urn:cite:hmt:pers.pers1026">Ὑμέναιός</persName> τις
-                                    <rs n="urn:cite:hmt:place.place114" type="ethnic">Ἀργεῖος</rs>
+                                οἱ μεν ἀπο του <sic>μαίειν</sic> ὁμοῦ τον νυμφιον καὶ τὴν
+                                    <sic>νύμφιον</sic>· ἄλλοι δὲ φυσικῶς ἐπεὶ
+                                            <sic><w>ὑμ<unclear>εί</unclear>ν</w></sic> ἐστιν ὁ
+                                ρηγνύμενος ἐν τη τον παρθένων δια κορήσει. οἱ δὲ ὅτι <persName
+                                    n="urn:cite:hmt:pers.pers1026">Ὑμέναιός</persName> τις <rs
+                                    n="urn:cite:hmt:place.place114" type="ethnic">Ἀργεῖος</rs>
                                 <sic>παραπλεών</sic> τας <placeName n="urn:cite:hmt:place.place1"
                                     >Ἀθηνας</placeName> κατέλαβεν <placeName
                                     n="urn:cite:hmt:place.place76">Ἀττικὰς</placeName> παρθένους

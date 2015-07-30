@@ -116,8 +116,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <sic><unclear>ιει</unclear></sic>
                                 <choice>
                                     <abbr>παντ</abbr>
-                                    <expan>πάντα</expan></choice> <sic><unclear>βο</unclear></sic>
-                                </p>
+                                    <expan>πάντα</expan>
+                                </choice>
+                                <sic><unclear>βο</unclear></sic>
+                            </p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -151,9 +153,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p><del>πὸλλ' <choice>
-                                    <abbr>ἐπαλ</abbr>
-                                    <expan>ἐπάλυνον</expan>
-                                </choice></del></p>
+                                        <abbr>ἐπαλ</abbr>
+                                        <expan>ἐπάλυνον</expan>
+                                    </choice></del></p>
                         </div>
                     </div>
                     <div n="9" type="scholion">
