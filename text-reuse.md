@@ -116,8 +116,6 @@ ___
 
 ## Sample we studied:  all scholia to *Iliad* 18 and 19
 
-**need to update all these numbers**
-
 - 1041 lines of the *Iliad*
 - 43 pages of the Venetus A
 - total scholia: 515
@@ -129,7 +127,7 @@ ___
 
 ## Breakdown by type of scholion ##
 
-
+**need to update all these numbers**
 
 Main scholia: 217 
 
