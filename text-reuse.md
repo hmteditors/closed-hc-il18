@@ -37,9 +37,12 @@ ___
 
 ------
 
-Bridge from contents of scholia -> source for work of Alexandrian editors
+## Scholia's impact on scholarship ##
 
-Recognition of problem in 18th c
+- Full of multiformity
+  - Wolf's *Prolegomena*: Is there even a Homer?
+  - HMT: Evidence of a richer oral tradition
+- Scholia largely attributed to three Alexandrian editors
 
 ___
 
