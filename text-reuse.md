@@ -51,6 +51,15 @@ ___
 
 ___
 
+##Alexandrian Editors##
+
+*Aristarchus of Samothrace, Zenodotus of Ephesus, and Aristophanes of Byzantium*
+- 3rd to 2nd century BC
+- responsible for editing the Homeric texts
+- coincide with the apperance of the fixed multiforms
+
+___
+
 
 ##Broader context: text reuse##
 
