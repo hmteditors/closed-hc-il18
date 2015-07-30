@@ -119,25 +119,7 @@ ___
 - 1041 lines of the *Iliad*
 - 43 pages of the Venetus A
 - total scholia: 515
-- words in text of scholia: more than 9400
-
-
-___
-
-
-## Breakdown by type of scholion ##
-
-**need to update all these numbers**
-
-Main scholia: 217 
-
-Intermarginal scholia: 78 
-
-Interlinear scholia: 38 
-
-Interior scholia: 55 
-
-Exterior scholia: 11 
+- words in text of scholia: more than 9400 ?????
 
 
 ___
@@ -146,7 +128,7 @@ ___
 ## Breakdown by class of reuse
 
 (To be added: "apparent multiforms" from lemmata to main scholia and attributed citations [TEI `cit`])
-
+**need to update this data**
 
 Direct quote: 124 
 
