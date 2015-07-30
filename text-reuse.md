@@ -1,4 +1,4 @@
-# For oral tradition to a written text
+# From oral tradition to a written text
 ## Evidence from a 10th century manuscript
 
 
