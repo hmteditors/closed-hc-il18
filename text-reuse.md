@@ -18,45 +18,48 @@ ___
 #Manuscripts of the HMT#
 
 - Venetus A (10th Century CE)
-- Venetus B (15th Century CE)
-- Marciana 841 (12th/13th Century CE)
+- Venetus B (11th Century CE)
 - Escorial Υ.I.1 (11th Century CE)
 - Escorial Ω.I.12 (11th Century CE)
+- Marciana 841 (12th/13th Century CE)
 - Genavensis 44 (13th Century CE)
 
 ***
 
-#The Venetus A Manuscript (*Marcianus Graecus* 822)#
+#The Venetus A Manuscript (*Marcianus Graecus* 822 = Z. 454)#
 
 
-[Folio 12r of the Venetus A](http://www.homermultitext.org/hmt-digital/ict.html?urn=urn:cite:hmt:vaimg.VA012RN-0013)
+[Folio 12r of the Venetus A][f12r]
+
+
+[f12r]: http://www.homermultitext.org/hmt-digital/indices?urn=urn%3Acite%3Ahmt%3Avaimg.VA012RN-0013
 
 ------
 
-#Editing Process#
+Bridge from contents of scholia -> source for work of Alexandrian editors
 
-![XML of 12r][Img1]
-
-[Img1]:  ScreenShot.png 
-
------
-
-## Research Question
-
-- Multiformity in the *Iliad*, and "the Homeric Question"
-     -  Present in the scholia
-- Not evident in modern printed editions
-- an "Alexandrian apparatus criticus"
-
+Recognition of problem in 18th c
 
 ___
 
-##Alexandrian Editors##
+## Editors at the Library of Alexandria##
 
-*Aristarchus of Samothrace, Zenodotus of Ephesus, and Aristophanes of Byzantium*
+*Zenodotus of Ephesus, Aristophanes of Byzantium and Aristarchus of Samothrace*
+
 - 3rd to 2nd century BC
 - responsible for editing the Homeric texts
 - coincide with the reduction of various multiforms
+
+
+---
+
+## Research Question
+
+- How do we edit and read multiforms in the scholia to the *Iliad*?
+- Never completely published!
+- Can we create an "Alexandrian critical apparatus"?
+
+
 
 ___
 
@@ -78,7 +81,7 @@ ___
 
 ## Method
 
-1. Automatically extract quoted with citations (TBA)
+1. Automatically extract quoted with citations
 2. Automatically extraction quoted material without citations:
     - Close reading of the scholia
     - Analysis recorded in simple `.csv` file
@@ -89,11 +92,11 @@ ___
 
 ##Categories##
 
-     - Direct quote from the Iliad line
-     - Quote from a no longer extant source
-     - Quotation of hypothetical speech or "contrafactual quotation"
-     - Phrase quoted from native speaker's knowledge of the language
-     - multiform
+   - Direct quote from the *Iliad* line
+   - Quote from a no longer extant source
+   - Quotation of hypothetical speech or "contrafactual quotation"
+   - Phrase quoted from native speaker's knowledge of the language
+   - Multiform
 
 ___
 
@@ -119,7 +122,7 @@ ___
 - 1041 lines of the *Iliad*
 - 43 pages of the Venetus A
 - total scholia: 515
-- words in text of scholia: more than 9400 ?????
+- words in text of scholia: more than 9400 in *Il.* 18 ?????
 
 
 ___
@@ -177,7 +180,7 @@ Multiform: 136
 
 
 1. Define a *significance level* (e.g., 0.01 means you consider it significant if the observed data would not show up randomly in more than 1/100 trials)
-2. If *p* &lt; significance level, reject the null hypothesis:  conclude that the two sets of data are **not** independent (i.e., the are correlated)
+2. If *p* &lt; significance level, reject the null hypothesis:  conclude that the two sets of data are **not** independent (i.e., they are correlated)
 
 
 
@@ -186,7 +189,7 @@ ___
 ## Results ##
 
 
-- *p* value = 1.2 *10 <sup>-42</sup> decimal places
+- *p* value = 1.2 *10 <sup>-42</sup> 
 - -> There is a correlation between the occurrence of a multiform and references to one of the three Alexandrian grammarians 
 
 
@@ -214,6 +217,9 @@ ___
 ___
 
 
+From Alexandria -> digital HMT
+
+----
 The End!
 
 -------------
