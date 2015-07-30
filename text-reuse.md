@@ -208,7 +208,6 @@ ___
 
 - *p* value = 1.2 *10 <sup>-42</sup> decimal places
 - -> There is a correlation between the occurrence of a multiform and references to one of the three Alexandrian grammarians 
-     - Aristophanes, Aristarchus, or Zenodotus
 
 
 
@@ -218,7 +217,7 @@ ___
 ## Provisional interpretations ##
 
 
-- Multiforms are discussed in conjunction with a citation of the Alexandrian editors -- Aristarchus, Zenodotus, and Aristophanes
+- Multiforms are discussed in conjunction with a citation of the Alexandrian editors 
 - "Canonical Multiforms"
 	- Papyri which predate the Alexandrians reflect a far more diverse tradition of multiforms than those attested to by Alexandrian editions
 	- This implies that something caused these multiforms to fall out of use in texts in the Hellenistic period.
