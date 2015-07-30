@@ -39,8 +39,8 @@ ___
 
 ## Scholia's impact on scholarship ##
 
-- Full of multiformity
-  - Wolf's *Prolegomena*: Is there even a Homer?
+- Full of multiformity: Where do they come from? Is there even a Homer?
+  - Wolf's *Prolegomena* (1795): Started modern debate
   - HMT: Evidence of a richer oral tradition
 - Scholia largely attributed to three Alexandrian editors
 
