@@ -222,7 +222,6 @@ ___
 	- Earlier papyri reflect a more diverse tradition of multiforms
 	- This implies that these multiforms fell out of use in texts in the Hellenistic period.
 	- The association of the Alexandrians with the multiforms indicates that they were responsible for the multiforms which are attested to in the manuscript tradition.
-	- We suspect, from these facts, that Aristarchus, Zenodotus, and Aristophanes were chiefly responsible for setting the text of the Iliad as we know it today.
 
 ___
 
