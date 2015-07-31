@@ -3,9 +3,9 @@
 
 
 
-Brian Clark, Claude Hanley, Stephanie Lindeborg, Stephanie Neville,
+Brian Clark, Claude Hanley, Stephanie Neville, Charlie Schufreider,
 
-Charlie Schufreider, Alex Simrell, Melody Wauke
+Alex Simrell, Melody Wauke
 
 ___
 
@@ -133,7 +133,7 @@ ___
 
 - 616 lines of the *Iliad*
 - 25 pages of the Venetus A
-- total scholia: 399
+- total scholia: 401
 - words in text of scholia: ca. 9500 
 
 
