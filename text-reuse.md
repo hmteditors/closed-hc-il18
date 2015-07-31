@@ -144,7 +144,7 @@ ___
 
 
 
-Direct quote: 180 (58 direct quotes of other *Iliad* passages)
+Direct quote: 180 (58 direct quotes of **other** *Iliad* passages)
 
 Lost work: 4 
 
