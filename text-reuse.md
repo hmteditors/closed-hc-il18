@@ -1,5 +1,5 @@
-# From oral tradition to a written text
-## Evidence from a 10<sup>th</sup> century manuscript
+# From oral tradition to written text
+## New evidence from a 10<sup>th</sup> century manuscript
 
 
 
@@ -123,18 +123,18 @@ Scholion for 18.230-231:
 
 Translation:
 
->The diple is here because Zenodotus writes, "And there all twelve of the best boys died / by these sorts of missles"
+>The diple is here because Zenodotus writes, "And there all twelve of the best boys died / among their missiles"
 
 
 ___
 
 
-## Sample we studied:  all scholia to *Iliad* 18 and 19
+## First sample we studied:  all scholia to *Iliad* 18
 
-- 1041 lines of the *Iliad*
-- 43 pages of the Venetus A
-- total scholia: 515
-- words in text of scholia: more than 9400 in *Il.* 18 ?????
+- 616 lines of the *Iliad*
+- 25 pages of the Venetus A
+- total scholia: 399
+- words in text of scholia: ca. 9500 
 
 
 ___
@@ -142,18 +142,17 @@ ___
 
 ## Breakdown by class of reuse
 
-(To be added: "apparent multiforms" from lemmata to main scholia and attributed citations [TEI `cit`])
-**need to update this data**
 
-Direct quote: 124 
 
-Lost work: 5 
+Direct quote: 180 (58 direct quotes of other *Iliad* passages)
 
-Hypothetical: 9 
+Lost work: 4 
 
-Language usage: 145 
+Hypothetical: 2
 
-Multiform: 136 
+Language usage: 123 
+
+Multiform: 93 
 
 
 ---
@@ -162,7 +161,7 @@ Multiform: 136
 ## A "tenth-century critical apparatus" ##
 
 
-(Link to or pull up HTML page)
+See an [HTML display](../venA/stats/iliad-18-mt.html)
 
 ---
 
@@ -231,12 +230,13 @@ ___
 
 ## From Alexandria -> digital HMT
 
-- The Alexandrian editors chose to return to the Homeric poems: 3<sup>rd</sup>-2<sup>nd</sup> century BC
+- The Alexandrian editors recorded variety of the Homeric poems: 3<sup>rd</sup>-2<sup>nd</sup> century BC
 - The scribe of the Venetus A compiled his edition with scholia: 10<sup>th</sup> century
 - HMT editors are creating our editions of these texts: 21<sup>st</sup> century
 
 
 ----
-Thank you!
+
+# Thank you!
 
 -------------
