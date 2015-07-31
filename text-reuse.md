@@ -229,7 +229,11 @@ ___
 ___
 
 
-From Alexandria -> digital HMT
+## From Alexandria -> digital HMT
+
+- This manuscript preserves key remnants lost in the destruction of the Library of Alexandria
+- We are tackling the same problem that ancient scholars faced for centuries
+- 
 
 ----
 Thank you!
