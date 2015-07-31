@@ -231,8 +231,9 @@ ___
 
 ## From Alexandria -> digital HMT
 
-- This manuscript preserves key remnants lost in the destruction of the Library of Alexandria
-- We are tackling the same problem that ancient scholars faced for centuries
+- The Alexandrian editors chose to return to the Homeric poems: 3<sup>rd</sup>-2<sup>nd</sup> century BC
+- The scribe compiled the scholia in the Venetus A: 10<sup>th</sup> century
+- HMT editors are creating our editions of these texts: 21<sup>st</sup> century
 
 
 ----
