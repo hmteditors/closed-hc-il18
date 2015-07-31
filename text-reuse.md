@@ -232,7 +232,7 @@ ___
 ## From Alexandria -> digital HMT
 
 - The Alexandrian editors chose to return to the Homeric poems: 3<sup>rd</sup>-2<sup>nd</sup> century BC
-- The scribe compiled the scholia in the Venetus A: 10<sup>th</sup> century
+- The scribe of the Venetus A compiled his edition with scholia: 10<sup>th</sup> century
 - HMT editors are creating our editions of these texts: 21<sup>st</sup> century
 
 
