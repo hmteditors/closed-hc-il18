@@ -441,7 +441,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </choice> τρόμος, οὕνεκ' <persName n="urn:cite:hmt:pers.pers1"
                         >Ἀχιλλεὺς</persName></l>
                 <l n="248">ἐξεφάνη· δηρὸν δὲ μάχης ἐπέπαυτ' ἀλεγεινῆς·</l>
-                <l n="249">τοῖσι δὲ <persName n="480">Πουλυδάμας</persName> πεπνυμένος ἦρχ'
+                <l n="249">τοῖσι δὲ <persName n="urn:cite:hmt:pers.pers480">Πουλυδάμας</persName> πεπνυμένος ἦρχ'
                     ἀγορεύειν</l>
                 <l n="250"><persName n="urn:cite:hmt:pers.pers480">Πανθοίδης</persName>. ὃ γὰρ οἶος
                     ὅρα πρόσσω καὶ ὀπίσσω· </l>
