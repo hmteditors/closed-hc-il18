@@ -534,12 +534,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> κελάδησαν·</l>
                 <l n="311">νήπιοι. ἐκ γάρ σφεων φρένας εἵλετο <persName n="urn:cite:hmt:pers.pers67"
                         >Παλλὰς Ἀθήνη</persName>.</l>
-                <l n="312"><persName n="urn:cite:pers.pers172">Ἕκτορι</persName> μὲν γὰρ ἐπῄνησαν.
+                <l n="312"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> μὲν γὰρ ἐπῄνησαν.
                     κακὰ μητιόωντι·</l>
-                <l n="313"><persName n="urn:cite:pers.pers480">Πουλυδάμαντι</persName> δ' ἂρ, οὔ
+                <l n="313"><persName n="urn:cite:hmt:pers.pers480">Πουλυδάμαντι</persName> δ' ἂρ, οὔ
                     τις. ὃς ἐσθλὴν φράζετο βουλήν·</l>
                 <l n="314">δόρπον ἔπειθ' εἵλοντο κατὰ στρατόν· αὐτὰρ <rs type="ethnic"
-                        n="urn:cite:place.place96">Ἀχαιοὶ</rs></l>
+                        n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l>
                 <l n="315">παννύχιοι <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>
                     ἀνεστενάχοντο γοῶντες·</l>
                 <l n="316">τοῖσι δὲ <persName n="urn:cite:hmt:pers.pers1">Πηλείδης</persName> αδινοῦ
