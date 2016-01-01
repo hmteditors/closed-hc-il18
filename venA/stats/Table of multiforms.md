@@ -1,4 +1,5 @@
 
+#Frequency of Multiform and Alexandrian Appearances within Instances of Text Reuse in Book 18 Scholia#
 |  | Name absent | Name present |  Totals  
 |  ------	| ------	| ------	| ------	|  
 | Multiform absent |  536 |  16 |  **552** |
