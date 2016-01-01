@@ -7,4 +7,4 @@ The file `alexandria.csv`  is a comma-delimited text file with on with four colu
 3. Boolean value, `t` if scholia commenting on this line include one or more multiforms
 4. Boolean value, `t` if scholia commenting on this line include one or more of the personal names Zenodotus, Aristophanes of Byzantium, Aristarchus
 
-
+The file `Table of multiforms.md` presents the same results as `alexandria.csv` but in a tabulated format suitable for the chi-square test for independence.
