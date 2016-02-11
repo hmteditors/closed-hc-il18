@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
@@ -88,7 +93,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.80@ἦδος</p>
                         </div>
                         <div type="comment">
-                            <p>ἐπιθυμία:</p>
+                            <p>ἐπιθυμία⁚</p>
                         </div>
                     </div>
                     <div n="6" type="scholion">
@@ -196,7 +201,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.341@καμόμεσθα</p>
                         </div>
                         <div type="comment">
-                            <p>μετα καμάτου ἐκτησάμεθα:</p>
+                            <p>μετα καμάτου ἐκτησάμεθα⁚</p>
                         </div>
                     </div>
 
@@ -217,7 +222,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.348@πῦρ</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.348@ἄμφεπε</p>
                         </div>
                         <div type="comment">
                             <p>περιεῖπεν</p>
@@ -394,7 +399,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.542@τρίπολον</p>
                         </div>
                         <div type="comment">
-                            <p>τρὶς ἐςτραμμένην</p>
+                            <p>τρὶς ἐστραμμένην</p>
                         </div>
                     </div>
                     <div n="32" type="scholion">
@@ -438,7 +443,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.576@δονακῆα</p>
                         </div>
                         <div type="comment">
-                            <p>καλαμῶνα:</p>
+                            <p>καλαμῶνα⁚</p>
                         </div>
                     </div>
                     <div n="36" type="scholion">
@@ -449,7 +454,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.597@στεφάνας</p>
                         </div>
                         <div type="comment">
-                            <p>κόσμον γυναικας:</p>
+                            <p>κόσμον γυναικας⁚</p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
@@ -460,7 +465,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:18.599@ἐπισταμένοισι</p>
                         </div>
                         <div type="comment">
-                            <p><q>ἐπιστήμοσιν</q>:</p>
+                            <p>ἐπιστήμοσιν⁚</p>
                         </div>
                     </div>
                     <div n="38" type="scholion">
